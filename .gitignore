@@ -108,7 +108,8 @@ ipython_config.py
 # poetry.lock
 # poetry.toml
 
-node_modules/
+/node_modules
+node_modules
 dist/
 .firebase/
 
