@@ -148,5 +148,5 @@ def run(csv_source, json_path: str | Path) -> dict:
 
 if __name__ == "__main__":
     # Main pipeline
-    result = run("Data/sst_regions.csv", "habitat_suitability.json")
+    result = run("Data/sst_regions.csv", "public/habitat_suitability.json")
     print(json.dumps(result, indent=2))
