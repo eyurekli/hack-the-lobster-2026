@@ -145,8 +145,7 @@ export default function App() {
   const activeRegionData = activeRegion ? REGIONS.find((r) => r.name === activeRegion) : null;
   const activeScore = activeRegion ? scores[activeRegion] : null;
 
-  const yearStep =
-    yearRange[1] > yearRange[0] ? (yearRange[1] - yearRange[0] <= 30 ? 2 : 5) : 1;
+  const yearStep = 1;
 
   return (
     <div className="flex flex-col h-screen bg-slate-950 text-slate-100">
