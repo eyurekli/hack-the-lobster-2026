@@ -1610,3 +1610,5103 @@ date,region,sst
 2026-04-15,Bay of Fundy,3.132
 2026-04-15,Scotian Shelf,3.041
 2026-04-15,Gulf of St. Lawrence,0.474
+1981-10-01,Bay of Fundy,12.203
+1981-10-01,Scotian Shelf,13.779
+1981-10-01,Gulf of St. Lawrence,10.934
+1981-11-01,Bay of Fundy,10.402
+1981-11-01,Scotian Shelf,10.978
+1981-11-01,Gulf of St. Lawrence,6.359
+1981-12-01,Bay of Fundy,7.641
+1981-12-01,Scotian Shelf,7.542
+1981-12-01,Gulf of St. Lawrence,3.797
+1982-01-01,Bay of Fundy,4.718
+1982-01-01,Scotian Shelf,4.968
+1982-01-01,Gulf of St. Lawrence,1.454
+1982-02-01,Bay of Fundy,2.759
+1982-02-01,Scotian Shelf,2.456
+1982-02-01,Gulf of St. Lawrence,-0.119
+1982-03-01,Bay of Fundy,1.864
+1982-03-01,Scotian Shelf,1.266
+1982-03-01,Gulf of St. Lawrence,-0.346
+1982-04-01,Bay of Fundy,1.757
+1982-04-01,Scotian Shelf,1.315
+1982-04-01,Gulf of St. Lawrence,-0.342
+1982-05-01,Bay of Fundy,2.349
+1982-05-01,Scotian Shelf,3.152
+1982-05-01,Gulf of St. Lawrence,0.889
+1982-06-01,Bay of Fundy,6.187
+1982-06-01,Scotian Shelf,7.471
+1982-06-01,Gulf of St. Lawrence,5.745
+1982-07-01,Bay of Fundy,9.613
+1982-07-01,Scotian Shelf,10.031
+1982-07-01,Gulf of St. Lawrence,10.39
+1982-08-01,Bay of Fundy,13.214
+1982-08-01,Scotian Shelf,15.338
+1982-08-01,Gulf of St. Lawrence,14.433
+1982-09-01,Bay of Fundy,12.758
+1982-09-01,Scotian Shelf,15.58
+1982-09-01,Gulf of St. Lawrence,13.042
+1982-10-01,Bay of Fundy,12.804
+1982-10-01,Scotian Shelf,15.381
+1982-10-01,Gulf of St. Lawrence,10.595
+1982-11-01,Bay of Fundy,11.16
+1982-11-01,Scotian Shelf,11.088
+1982-11-01,Gulf of St. Lawrence,7.303
+1982-12-01,Bay of Fundy,7.974
+1982-12-01,Scotian Shelf,7.548
+1982-12-01,Gulf of St. Lawrence,3.257
+1983-01-01,Bay of Fundy,3.924
+1983-01-01,Scotian Shelf,5.152
+1983-01-01,Gulf of St. Lawrence,1.072
+1983-02-01,Bay of Fundy,3.075
+1983-02-01,Scotian Shelf,3.449
+1983-02-01,Gulf of St. Lawrence,-0.009
+1983-03-01,Bay of Fundy,1.788
+1983-03-01,Scotian Shelf,2.426
+1983-03-01,Gulf of St. Lawrence,-0.618
+1983-04-01,Bay of Fundy,2.166
+1983-04-01,Scotian Shelf,2.417
+1983-04-01,Gulf of St. Lawrence,-0.207
+1983-05-01,Bay of Fundy,2.671
+1983-05-01,Scotian Shelf,4.658
+1983-05-01,Gulf of St. Lawrence,2.069
+1983-06-01,Bay of Fundy,4.653
+1983-06-01,Scotian Shelf,7.403
+1983-06-01,Gulf of St. Lawrence,5.293
+1983-07-01,Bay of Fundy,12.543
+1983-07-01,Scotian Shelf,13.928
+1983-07-01,Gulf of St. Lawrence,12.239
+1983-08-01,Bay of Fundy,14.778
+1983-08-01,Scotian Shelf,16.272
+1983-08-01,Gulf of St. Lawrence,14.593
+1983-09-01,Bay of Fundy,13.401
+1983-09-01,Scotian Shelf,16.128
+1983-09-01,Gulf of St. Lawrence,13.824
+1983-10-01,Bay of Fundy,13.203
+1983-10-01,Scotian Shelf,14.961
+1983-10-01,Gulf of St. Lawrence,11.957
+1983-11-01,Bay of Fundy,10.792
+1983-11-01,Scotian Shelf,10.634
+1983-11-01,Gulf of St. Lawrence,7.082
+1983-12-01,Bay of Fundy,7.937
+1983-12-01,Scotian Shelf,7.22
+1983-12-01,Gulf of St. Lawrence,3.336
+1984-01-01,Bay of Fundy,3.602
+1984-01-01,Scotian Shelf,3.715
+1984-01-01,Gulf of St. Lawrence,0.022
+1984-02-01,Bay of Fundy,2.876
+1984-02-01,Scotian Shelf,2.438
+1984-02-01,Gulf of St. Lawrence,-0.227
+1984-03-01,Bay of Fundy,2.006
+1984-03-01,Scotian Shelf,2.517
+1984-03-01,Gulf of St. Lawrence,-0.204
+1984-04-01,Bay of Fundy,2.466
+1984-04-01,Scotian Shelf,2.92
+1984-04-01,Gulf of St. Lawrence,-0.254
+1984-05-01,Bay of Fundy,2.861
+1984-05-01,Scotian Shelf,4.591
+1984-05-01,Gulf of St. Lawrence,1.993
+1984-06-01,Bay of Fundy,3.944
+1984-06-01,Scotian Shelf,8.018
+1984-06-01,Gulf of St. Lawrence,5.887
+1984-07-01,Bay of Fundy,10.224
+1984-07-01,Scotian Shelf,12.445
+1984-07-01,Gulf of St. Lawrence,12.107
+1984-08-01,Bay of Fundy,12.39
+1984-08-01,Scotian Shelf,16.373
+1984-08-01,Gulf of St. Lawrence,15.352
+1984-09-01,Bay of Fundy,13.975
+1984-09-01,Scotian Shelf,17.82
+1984-09-01,Gulf of St. Lawrence,16.427
+1984-10-01,Bay of Fundy,12.549
+1984-10-01,Scotian Shelf,14.539
+1984-10-01,Gulf of St. Lawrence,9.697
+1984-11-01,Bay of Fundy,11.012
+1984-11-01,Scotian Shelf,10.853
+1984-11-01,Gulf of St. Lawrence,6.154
+1984-12-01,Bay of Fundy,8.418
+1984-12-01,Scotian Shelf,7.052
+1984-12-01,Gulf of St. Lawrence,3.17
+1985-01-01,Bay of Fundy,4.037
+1985-01-01,Scotian Shelf,4.833
+1985-01-01,Gulf of St. Lawrence,0.24
+1985-02-01,Bay of Fundy,2.486
+1985-02-01,Scotian Shelf,1.592
+1985-02-01,Gulf of St. Lawrence,-0.14
+1985-03-01,Bay of Fundy,1.767
+1985-03-01,Scotian Shelf,1.588
+1985-03-01,Gulf of St. Lawrence,-0.63
+1985-04-01,Bay of Fundy,1.978
+1985-04-01,Scotian Shelf,1.513
+1985-04-01,Gulf of St. Lawrence,-0.578
+1985-05-01,Bay of Fundy,2.959
+1985-05-01,Scotian Shelf,2.446
+1985-05-01,Gulf of St. Lawrence,1.187
+1985-06-01,Bay of Fundy,5.089
+1985-06-01,Scotian Shelf,6.2
+1985-06-01,Gulf of St. Lawrence,5.954
+1985-07-01,Bay of Fundy,9.2
+1985-07-01,Scotian Shelf,10.079
+1985-07-01,Gulf of St. Lawrence,11.202
+1985-08-01,Bay of Fundy,12.227
+1985-08-01,Scotian Shelf,14.865
+1985-08-01,Gulf of St. Lawrence,15.188
+1985-09-01,Bay of Fundy,12.563
+1985-09-01,Scotian Shelf,15.4
+1985-09-01,Gulf of St. Lawrence,15.206
+1985-10-01,Bay of Fundy,12.732
+1985-10-01,Scotian Shelf,14.693
+1985-10-01,Gulf of St. Lawrence,12.075
+1985-11-01,Bay of Fundy,9.508
+1985-11-01,Scotian Shelf,9.746
+1985-11-01,Gulf of St. Lawrence,5.423
+1985-12-01,Bay of Fundy,6.697
+1985-12-01,Scotian Shelf,5.999
+1985-12-01,Gulf of St. Lawrence,1.989
+1986-01-01,Bay of Fundy,2.826
+1986-01-01,Scotian Shelf,3.285
+1986-01-01,Gulf of St. Lawrence,-0.634
+1986-02-01,Bay of Fundy,2.348
+1986-02-01,Scotian Shelf,1.884
+1986-02-01,Gulf of St. Lawrence,-0.291
+1986-03-01,Bay of Fundy,1.648
+1986-03-01,Scotian Shelf,1.347
+1986-03-01,Gulf of St. Lawrence,-0.562
+1986-04-01,Bay of Fundy,2.284
+1986-04-01,Scotian Shelf,1.927
+1986-04-01,Gulf of St. Lawrence,-0.218
+1986-05-01,Bay of Fundy,4.449
+1986-05-01,Scotian Shelf,4.676
+1986-05-01,Gulf of St. Lawrence,2.662
+1986-06-01,Bay of Fundy,6.114
+1986-06-01,Scotian Shelf,7.294
+1986-06-01,Gulf of St. Lawrence,6.911
+1986-07-01,Bay of Fundy,9.9
+1986-07-01,Scotian Shelf,10.664
+1986-07-01,Gulf of St. Lawrence,9.731
+1986-08-01,Bay of Fundy,13.051
+1986-08-01,Scotian Shelf,15.734
+1986-08-01,Gulf of St. Lawrence,13.419
+1986-09-01,Bay of Fundy,12.895
+1986-09-01,Scotian Shelf,15.501
+1986-09-01,Gulf of St. Lawrence,14.085
+1986-10-01,Bay of Fundy,12.576
+1986-10-01,Scotian Shelf,13.282
+1986-10-01,Gulf of St. Lawrence,10.599
+1986-11-01,Bay of Fundy,9.56
+1986-11-01,Scotian Shelf,10.062
+1986-11-01,Gulf of St. Lawrence,5.666
+1986-12-01,Bay of Fundy,7.147
+1986-12-01,Scotian Shelf,6.491
+1986-12-01,Gulf of St. Lawrence,2.012
+1987-01-01,Bay of Fundy,4.23
+1987-01-01,Scotian Shelf,3.897
+1987-01-01,Gulf of St. Lawrence,-0.27
+1987-02-01,Bay of Fundy,2.005
+1987-02-01,Scotian Shelf,2.228
+1987-02-01,Gulf of St. Lawrence,-0.509
+1987-03-01,Bay of Fundy,1.33
+1987-03-01,Scotian Shelf,1.249
+1987-03-01,Gulf of St. Lawrence,-0.782
+1987-04-01,Bay of Fundy,1.012
+1987-04-01,Scotian Shelf,1.946
+1987-04-01,Gulf of St. Lawrence,-0.17
+1987-05-01,Bay of Fundy,2.331
+1987-05-01,Scotian Shelf,2.917
+1987-05-01,Gulf of St. Lawrence,1.149
+1987-06-01,Bay of Fundy,7.133
+1987-06-01,Scotian Shelf,7.484
+1987-06-01,Gulf of St. Lawrence,7.548
+1987-07-01,Bay of Fundy,10.223
+1987-07-01,Scotian Shelf,11.151
+1987-07-01,Gulf of St. Lawrence,11.598
+1987-08-01,Bay of Fundy,12.825
+1987-08-01,Scotian Shelf,16.836
+1987-08-01,Gulf of St. Lawrence,15.214
+1987-09-01,Bay of Fundy,12.857
+1987-09-01,Scotian Shelf,16.323
+1987-09-01,Gulf of St. Lawrence,13.934
+1987-10-01,Bay of Fundy,11.898
+1987-10-01,Scotian Shelf,14.398
+1987-10-01,Gulf of St. Lawrence,10.747
+1987-11-01,Bay of Fundy,9.888
+1987-11-01,Scotian Shelf,11.135
+1987-11-01,Gulf of St. Lawrence,6.67
+1987-12-01,Bay of Fundy,5.936
+1987-12-01,Scotian Shelf,7.389
+1987-12-01,Gulf of St. Lawrence,2.715
+1988-01-01,Bay of Fundy,4.461
+1988-01-01,Scotian Shelf,3.964
+1988-01-01,Gulf of St. Lawrence,0.315
+1988-02-01,Bay of Fundy,1.798
+1988-02-01,Scotian Shelf,2.04
+1988-02-01,Gulf of St. Lawrence,-0.186
+1988-03-01,Bay of Fundy,1.928
+1988-03-01,Scotian Shelf,1.953
+1988-03-01,Gulf of St. Lawrence,-0.461
+1988-04-01,Bay of Fundy,2.638
+1988-04-01,Scotian Shelf,2.326
+1988-04-01,Gulf of St. Lawrence,-0.102
+1988-05-01,Bay of Fundy,2.485
+1988-05-01,Scotian Shelf,3.788
+1988-05-01,Gulf of St. Lawrence,1.921
+1988-06-01,Bay of Fundy,5.783
+1988-06-01,Scotian Shelf,6.93
+1988-06-01,Gulf of St. Lawrence,5.715
+1988-07-01,Bay of Fundy,9.443
+1988-07-01,Scotian Shelf,10.896
+1988-07-01,Gulf of St. Lawrence,10.098
+1988-08-01,Bay of Fundy,14.76
+1988-08-01,Scotian Shelf,16.431
+1988-08-01,Gulf of St. Lawrence,16.821
+1988-09-01,Bay of Fundy,12.994
+1988-09-01,Scotian Shelf,16.757
+1988-09-01,Gulf of St. Lawrence,15.664
+1988-10-01,Bay of Fundy,11.629
+1988-10-01,Scotian Shelf,13.117
+1988-10-01,Gulf of St. Lawrence,9.508
+1988-11-01,Bay of Fundy,9.504
+1988-11-01,Scotian Shelf,10.306
+1988-11-01,Gulf of St. Lawrence,6.134
+1988-12-01,Bay of Fundy,6.944
+1988-12-01,Scotian Shelf,6.224
+1988-12-01,Gulf of St. Lawrence,2.614
+1989-01-01,Bay of Fundy,3.987
+1989-01-01,Scotian Shelf,3.786
+1989-01-01,Gulf of St. Lawrence,0.083
+1989-02-01,Bay of Fundy,2.138
+1989-02-01,Scotian Shelf,2.305
+1989-02-01,Gulf of St. Lawrence,-0.403
+1989-03-01,Bay of Fundy,1.572
+1989-03-01,Scotian Shelf,1.518
+1989-03-01,Gulf of St. Lawrence,-0.778
+1989-04-01,Bay of Fundy,1.515
+1989-04-01,Scotian Shelf,1.675
+1989-04-01,Gulf of St. Lawrence,-0.402
+1989-05-01,Bay of Fundy,2.8
+1989-05-01,Scotian Shelf,3.832
+1989-05-01,Gulf of St. Lawrence,2.631
+1989-06-01,Bay of Fundy,6.622
+1989-06-01,Scotian Shelf,8.312
+1989-06-01,Gulf of St. Lawrence,6.902
+1989-07-01,Bay of Fundy,11.768
+1989-07-01,Scotian Shelf,12.712
+1989-07-01,Gulf of St. Lawrence,13.398
+1989-08-01,Bay of Fundy,13.886
+1989-08-01,Scotian Shelf,16.504
+1989-08-01,Gulf of St. Lawrence,16.125
+1989-09-01,Bay of Fundy,13.035
+1989-09-01,Scotian Shelf,15.773
+1989-09-01,Gulf of St. Lawrence,12.783
+1989-10-01,Bay of Fundy,11.705
+1989-10-01,Scotian Shelf,13.866
+1989-10-01,Gulf of St. Lawrence,8.961
+1989-11-01,Bay of Fundy,10.247
+1989-11-01,Scotian Shelf,11.177
+1989-11-01,Gulf of St. Lawrence,6.395
+1989-12-01,Bay of Fundy,6.417
+1989-12-01,Scotian Shelf,6.671
+1989-12-01,Gulf of St. Lawrence,2.079
+1990-01-01,Bay of Fundy,3.058
+1990-01-01,Scotian Shelf,3.043
+1990-01-01,Gulf of St. Lawrence,-0.054
+1990-02-01,Bay of Fundy,2.308
+1990-02-01,Scotian Shelf,2.2
+1990-02-01,Gulf of St. Lawrence,-0.142
+1990-03-01,Bay of Fundy,1.657
+1990-03-01,Scotian Shelf,1.6
+1990-03-01,Gulf of St. Lawrence,-0.684
+1990-04-01,Bay of Fundy,1.455
+1990-04-01,Scotian Shelf,1.574
+1990-04-01,Gulf of St. Lawrence,-0.32
+1990-05-01,Bay of Fundy,3.549
+1990-05-01,Scotian Shelf,4.371
+1990-05-01,Gulf of St. Lawrence,2.034
+1990-06-01,Bay of Fundy,5.537
+1990-06-01,Scotian Shelf,5.849
+1990-06-01,Gulf of St. Lawrence,4.249
+1990-07-01,Bay of Fundy,10.302
+1990-07-01,Scotian Shelf,11.273
+1990-07-01,Gulf of St. Lawrence,11.77
+1990-08-01,Bay of Fundy,14.504
+1990-08-01,Scotian Shelf,16.394
+1990-08-01,Gulf of St. Lawrence,16.435
+1990-09-01,Bay of Fundy,16.249
+1990-09-01,Scotian Shelf,18.789
+1990-09-01,Gulf of St. Lawrence,16.092
+1990-10-01,Bay of Fundy,12.94
+1990-10-01,Scotian Shelf,15.598
+1990-10-01,Gulf of St. Lawrence,11.347
+1990-11-01,Bay of Fundy,10.039
+1990-11-01,Scotian Shelf,10.291
+1990-11-01,Gulf of St. Lawrence,5.95
+1990-12-01,Bay of Fundy,7.126
+1990-12-01,Scotian Shelf,6.54
+1990-12-01,Gulf of St. Lawrence,2.588
+1991-01-01,Bay of Fundy,3.652
+1991-01-01,Scotian Shelf,4.566
+1991-01-01,Gulf of St. Lawrence,-0.176
+1991-02-01,Bay of Fundy,2.381
+1991-02-01,Scotian Shelf,2.049
+1991-02-01,Gulf of St. Lawrence,-0.622
+1991-03-01,Bay of Fundy,1.958
+1991-03-01,Scotian Shelf,1.216
+1991-03-01,Gulf of St. Lawrence,-0.575
+1991-04-01,Bay of Fundy,2.132
+1991-04-01,Scotian Shelf,2.452
+1991-04-01,Gulf of St. Lawrence,-0.666
+1991-05-01,Bay of Fundy,2.705
+1991-05-01,Scotian Shelf,3.321
+1991-05-01,Gulf of St. Lawrence,1.725
+1991-06-01,Bay of Fundy,7.386
+1991-06-01,Scotian Shelf,6.799
+1991-06-01,Gulf of St. Lawrence,5.812
+1991-07-01,Bay of Fundy,11.767
+1991-07-01,Scotian Shelf,11.458
+1991-07-01,Gulf of St. Lawrence,10.496
+1991-08-01,Bay of Fundy,14.94
+1991-08-01,Scotian Shelf,16.365
+1991-08-01,Gulf of St. Lawrence,16.056
+1991-09-01,Bay of Fundy,12.829
+1991-09-01,Scotian Shelf,16.609
+1991-09-01,Gulf of St. Lawrence,13.549
+1991-10-01,Bay of Fundy,11.355
+1991-10-01,Scotian Shelf,13.385
+1991-10-01,Gulf of St. Lawrence,10.317
+1991-11-01,Bay of Fundy,9.927
+1991-11-01,Scotian Shelf,11.032
+1991-11-01,Gulf of St. Lawrence,7.364
+1991-12-01,Bay of Fundy,7.633
+1991-12-01,Scotian Shelf,7.776
+1991-12-01,Gulf of St. Lawrence,3.906
+1992-01-01,Bay of Fundy,4.32
+1992-01-01,Scotian Shelf,4.326
+1992-01-01,Gulf of St. Lawrence,0.508
+1992-02-01,Bay of Fundy,1.879
+1992-02-01,Scotian Shelf,2.056
+1992-02-01,Gulf of St. Lawrence,-0.285
+1992-03-01,Bay of Fundy,1.318
+1992-03-01,Scotian Shelf,1.274
+1992-03-01,Gulf of St. Lawrence,-0.826
+1992-04-01,Bay of Fundy,1.142
+1992-04-01,Scotian Shelf,1.592
+1992-04-01,Gulf of St. Lawrence,-0.152
+1992-05-01,Bay of Fundy,2.632
+1992-05-01,Scotian Shelf,2.892
+1992-05-01,Gulf of St. Lawrence,1.254
+1992-06-01,Bay of Fundy,5.184
+1992-06-01,Scotian Shelf,7.031
+1992-06-01,Gulf of St. Lawrence,6.491
+1992-07-01,Bay of Fundy,10.457
+1992-07-01,Scotian Shelf,11.859
+1992-07-01,Gulf of St. Lawrence,11.444
+1992-08-01,Bay of Fundy,13.439
+1992-08-01,Scotian Shelf,15.764
+1992-08-01,Gulf of St. Lawrence,14.026
+1992-09-01,Bay of Fundy,12.903
+1992-09-01,Scotian Shelf,17.045
+1992-09-01,Gulf of St. Lawrence,13.802
+1992-10-01,Bay of Fundy,11.177
+1992-10-01,Scotian Shelf,14.548
+1992-10-01,Gulf of St. Lawrence,11.125
+1992-11-01,Bay of Fundy,8.988
+1992-11-01,Scotian Shelf,10.753
+1992-11-01,Gulf of St. Lawrence,6.056
+1992-12-01,Bay of Fundy,7.034
+1992-12-01,Scotian Shelf,7.655
+1992-12-01,Gulf of St. Lawrence,2.597
+1993-01-01,Bay of Fundy,4.104
+1993-01-01,Scotian Shelf,4.518
+1993-01-01,Gulf of St. Lawrence,-0.119
+1993-02-01,Bay of Fundy,2.409
+1993-02-01,Scotian Shelf,2.504
+1993-02-01,Gulf of St. Lawrence,-0.655
+1993-03-01,Bay of Fundy,1.301
+1993-03-01,Scotian Shelf,2.203
+1993-03-01,Gulf of St. Lawrence,-0.987
+1993-04-01,Bay of Fundy,1.252
+1993-04-01,Scotian Shelf,2.289
+1993-04-01,Gulf of St. Lawrence,-0.662
+1993-05-01,Bay of Fundy,2.494
+1993-05-01,Scotian Shelf,4.205
+1993-05-01,Gulf of St. Lawrence,1.254
+1993-06-01,Bay of Fundy,4.48
+1993-06-01,Scotian Shelf,6.139
+1993-06-01,Gulf of St. Lawrence,4.649
+1993-07-01,Bay of Fundy,9.234
+1993-07-01,Scotian Shelf,10.712
+1993-07-01,Gulf of St. Lawrence,10.441
+1993-08-01,Bay of Fundy,14.301
+1993-08-01,Scotian Shelf,16.217
+1993-08-01,Gulf of St. Lawrence,14.968
+1993-09-01,Bay of Fundy,14.238
+1993-09-01,Scotian Shelf,17.233
+1993-09-01,Gulf of St. Lawrence,14.711
+1993-10-01,Bay of Fundy,11.732
+1993-10-01,Scotian Shelf,14.653
+1993-10-01,Gulf of St. Lawrence,10.405
+1993-11-01,Bay of Fundy,9.47
+1993-11-01,Scotian Shelf,10.587
+1993-11-01,Gulf of St. Lawrence,5.459
+1993-12-01,Bay of Fundy,6.99
+1993-12-01,Scotian Shelf,7.231
+1993-12-01,Gulf of St. Lawrence,2.18
+1994-01-01,Bay of Fundy,3.841
+1994-01-01,Scotian Shelf,4.059
+1994-01-01,Gulf of St. Lawrence,-0.15
+1994-02-01,Bay of Fundy,2.614
+1994-02-01,Scotian Shelf,2.24
+1994-02-01,Gulf of St. Lawrence,-0.304
+1994-03-01,Bay of Fundy,1.626
+1994-03-01,Scotian Shelf,1.188
+1994-03-01,Gulf of St. Lawrence,-0.668
+1994-04-01,Bay of Fundy,1.884
+1994-04-01,Scotian Shelf,1.785
+1994-04-01,Gulf of St. Lawrence,-0.369
+1994-05-01,Bay of Fundy,3.737
+1994-05-01,Scotian Shelf,4.008
+1994-05-01,Gulf of St. Lawrence,1.305
+1994-06-01,Bay of Fundy,6.112
+1994-06-01,Scotian Shelf,6.489
+1994-06-01,Gulf of St. Lawrence,4.93
+1994-07-01,Bay of Fundy,13.244
+1994-07-01,Scotian Shelf,14.206
+1994-07-01,Gulf of St. Lawrence,12.484
+1994-08-01,Bay of Fundy,15.984
+1994-08-01,Scotian Shelf,19.392
+1994-08-01,Gulf of St. Lawrence,16.648
+1994-09-01,Bay of Fundy,13.876
+1994-09-01,Scotian Shelf,17.255
+1994-09-01,Gulf of St. Lawrence,13.22
+1994-10-01,Bay of Fundy,12.209
+1994-10-01,Scotian Shelf,14.482
+1994-10-01,Gulf of St. Lawrence,10.64
+1994-11-01,Bay of Fundy,10.421
+1994-11-01,Scotian Shelf,10.804
+1994-11-01,Gulf of St. Lawrence,7.727
+1994-12-01,Bay of Fundy,7.593
+1994-12-01,Scotian Shelf,6.401
+1994-12-01,Gulf of St. Lawrence,3.057
+1995-01-01,Bay of Fundy,2.872
+1995-01-01,Scotian Shelf,3.672
+1995-01-01,Gulf of St. Lawrence,0.028
+1995-02-01,Bay of Fundy,2.452
+1995-02-01,Scotian Shelf,2.959
+1995-02-01,Gulf of St. Lawrence,0.043
+1995-03-01,Bay of Fundy,1.841
+1995-03-01,Scotian Shelf,2.104
+1995-03-01,Gulf of St. Lawrence,-0.73
+1995-04-01,Bay of Fundy,1.551
+1995-04-01,Scotian Shelf,1.972
+1995-04-01,Gulf of St. Lawrence,-0.153
+1995-05-01,Bay of Fundy,2.881
+1995-05-01,Scotian Shelf,3.186
+1995-05-01,Gulf of St. Lawrence,1.428
+1995-06-01,Bay of Fundy,4.983
+1995-06-01,Scotian Shelf,6.162
+1995-06-01,Gulf of St. Lawrence,6.166
+1995-07-01,Bay of Fundy,10.679
+1995-07-01,Scotian Shelf,11.898
+1995-07-01,Gulf of St. Lawrence,12.269
+1995-08-01,Bay of Fundy,14.408
+1995-08-01,Scotian Shelf,16.693
+1995-08-01,Gulf of St. Lawrence,16.302
+1995-09-01,Bay of Fundy,13.784
+1995-09-01,Scotian Shelf,15.741
+1995-09-01,Gulf of St. Lawrence,13.739
+1995-10-01,Bay of Fundy,12.17
+1995-10-01,Scotian Shelf,13.741
+1995-10-01,Gulf of St. Lawrence,10.652
+1995-11-01,Bay of Fundy,10.639
+1995-11-01,Scotian Shelf,11.757
+1995-11-01,Gulf of St. Lawrence,7.207
+1995-12-01,Bay of Fundy,7.699
+1995-12-01,Scotian Shelf,7.981
+1995-12-01,Gulf of St. Lawrence,2.924
+1996-01-01,Bay of Fundy,4.674
+1996-01-01,Scotian Shelf,4.364
+1996-01-01,Gulf of St. Lawrence,0.937
+1996-02-01,Bay of Fundy,1.883
+1996-02-01,Scotian Shelf,2.121
+1996-02-01,Gulf of St. Lawrence,-0.315
+1996-03-01,Bay of Fundy,1.593
+1996-03-01,Scotian Shelf,2.077
+1996-03-01,Gulf of St. Lawrence,-0.268
+1996-04-01,Bay of Fundy,2.081
+1996-04-01,Scotian Shelf,1.86
+1996-04-01,Gulf of St. Lawrence,-0.741
+1996-05-01,Bay of Fundy,3.338
+1996-05-01,Scotian Shelf,4.236
+1996-05-01,Gulf of St. Lawrence,1.758
+1996-06-01,Bay of Fundy,5.651
+1996-06-01,Scotian Shelf,6.631
+1996-06-01,Gulf of St. Lawrence,6.154
+1996-07-01,Bay of Fundy,10.589
+1996-07-01,Scotian Shelf,12.366
+1996-07-01,Gulf of St. Lawrence,12.452
+1996-08-01,Bay of Fundy,12.017
+1996-08-01,Scotian Shelf,14.737
+1996-08-01,Gulf of St. Lawrence,15.827
+1996-09-01,Bay of Fundy,13.315
+1996-09-01,Scotian Shelf,17.153
+1996-09-01,Gulf of St. Lawrence,15.445
+1996-10-01,Bay of Fundy,12.563
+1996-10-01,Scotian Shelf,13.155
+1996-10-01,Gulf of St. Lawrence,11.383
+1996-11-01,Bay of Fundy,9.507
+1996-11-01,Scotian Shelf,10.027
+1996-11-01,Gulf of St. Lawrence,6.911
+1996-12-01,Bay of Fundy,6.562
+1996-12-01,Scotian Shelf,6.818
+1996-12-01,Gulf of St. Lawrence,2.412
+1997-01-01,Bay of Fundy,4.064
+1997-01-01,Scotian Shelf,4.362
+1997-01-01,Gulf of St. Lawrence,0.649
+1997-02-01,Bay of Fundy,2.501
+1997-02-01,Scotian Shelf,2.953
+1997-02-01,Gulf of St. Lawrence,-0.12
+1997-03-01,Bay of Fundy,1.718
+1997-03-01,Scotian Shelf,1.794
+1997-03-01,Gulf of St. Lawrence,-0.64
+1997-04-01,Bay of Fundy,1.324
+1997-04-01,Scotian Shelf,2.27
+1997-04-01,Gulf of St. Lawrence,-0.267
+1997-05-01,Bay of Fundy,2.171
+1997-05-01,Scotian Shelf,2.888
+1997-05-01,Gulf of St. Lawrence,0.622
+1997-06-01,Bay of Fundy,6.474
+1997-06-01,Scotian Shelf,6.475
+1997-06-01,Gulf of St. Lawrence,5.176
+1997-07-01,Bay of Fundy,11.45
+1997-07-01,Scotian Shelf,11.619
+1997-07-01,Gulf of St. Lawrence,12.861
+1997-08-01,Bay of Fundy,13.704
+1997-08-01,Scotian Shelf,16.196
+1997-08-01,Gulf of St. Lawrence,15.324
+1997-09-01,Bay of Fundy,13.244
+1997-09-01,Scotian Shelf,16.38
+1997-09-01,Gulf of St. Lawrence,15.023
+1997-10-01,Bay of Fundy,11.596
+1997-10-01,Scotian Shelf,14.156
+1997-10-01,Gulf of St. Lawrence,10.985
+1997-11-01,Bay of Fundy,9.627
+1997-11-01,Scotian Shelf,9.629
+1997-11-01,Gulf of St. Lawrence,6.736
+1997-12-01,Bay of Fundy,7.259
+1997-12-01,Scotian Shelf,6.683
+1997-12-01,Gulf of St. Lawrence,2.315
+1998-01-01,Bay of Fundy,3.83
+1998-01-01,Scotian Shelf,3.716
+1998-01-01,Gulf of St. Lawrence,0.008
+1998-02-01,Bay of Fundy,2.555
+1998-02-01,Scotian Shelf,2.104
+1998-02-01,Gulf of St. Lawrence,-0.745
+1998-03-01,Bay of Fundy,1.439
+1998-03-01,Scotian Shelf,1.74
+1998-03-01,Gulf of St. Lawrence,0.013
+1998-04-01,Bay of Fundy,2.277
+1998-04-01,Scotian Shelf,2.855
+1998-04-01,Gulf of St. Lawrence,-0.349
+1998-05-01,Bay of Fundy,4.64
+1998-05-01,Scotian Shelf,4.487
+1998-05-01,Gulf of St. Lawrence,2.766
+1998-06-01,Bay of Fundy,6.87
+1998-06-01,Scotian Shelf,8.124
+1998-06-01,Gulf of St. Lawrence,7.231
+1998-07-01,Bay of Fundy,10.636
+1998-07-01,Scotian Shelf,12.0
+1998-07-01,Gulf of St. Lawrence,11.703
+1998-08-01,Bay of Fundy,14.314
+1998-08-01,Scotian Shelf,17.409
+1998-08-01,Gulf of St. Lawrence,16.191
+1998-09-01,Bay of Fundy,13.914
+1998-09-01,Scotian Shelf,16.748
+1998-09-01,Gulf of St. Lawrence,14.956
+1998-10-01,Bay of Fundy,11.824
+1998-10-01,Scotian Shelf,14.361
+1998-10-01,Gulf of St. Lawrence,10.97
+1998-11-01,Bay of Fundy,9.014
+1998-11-01,Scotian Shelf,10.224
+1998-11-01,Gulf of St. Lawrence,5.97
+1998-12-01,Bay of Fundy,6.524
+1998-12-01,Scotian Shelf,7.073
+1998-12-01,Gulf of St. Lawrence,2.512
+1999-01-01,Bay of Fundy,3.011
+1999-01-01,Scotian Shelf,4.145
+1999-01-01,Gulf of St. Lawrence,-0.102
+1999-02-01,Bay of Fundy,2.394
+1999-02-01,Scotian Shelf,2.096
+1999-02-01,Gulf of St. Lawrence,-0.373
+1999-03-01,Bay of Fundy,1.504
+1999-03-01,Scotian Shelf,1.908
+1999-03-01,Gulf of St. Lawrence,-0.411
+1999-04-01,Bay of Fundy,2.133
+1999-04-01,Scotian Shelf,3.102
+1999-04-01,Gulf of St. Lawrence,-0.231
+1999-05-01,Bay of Fundy,4.565
+1999-05-01,Scotian Shelf,4.704
+1999-05-01,Gulf of St. Lawrence,1.55
+1999-06-01,Bay of Fundy,5.111
+1999-06-01,Scotian Shelf,9.346
+1999-06-01,Gulf of St. Lawrence,7.017
+1999-07-01,Bay of Fundy,13.399
+1999-07-01,Scotian Shelf,15.137
+1999-07-01,Gulf of St. Lawrence,14.488
+1999-08-01,Bay of Fundy,15.567
+1999-08-01,Scotian Shelf,18.484
+1999-08-01,Gulf of St. Lawrence,16.953
+1999-09-01,Bay of Fundy,15.654
+1999-09-01,Scotian Shelf,18.535
+1999-09-01,Gulf of St. Lawrence,16.122
+1999-10-01,Bay of Fundy,13.677
+1999-10-01,Scotian Shelf,15.982
+1999-10-01,Gulf of St. Lawrence,12.849
+1999-11-01,Bay of Fundy,10.818
+1999-11-01,Scotian Shelf,10.382
+1999-11-01,Gulf of St. Lawrence,5.979
+1999-12-01,Bay of Fundy,8.958
+1999-12-01,Scotian Shelf,8.231
+1999-12-01,Gulf of St. Lawrence,3.391
+2000-01-01,Bay of Fundy,6.189
+2000-01-01,Scotian Shelf,5.436
+2000-01-01,Gulf of St. Lawrence,0.741
+2000-02-01,Bay of Fundy,3.061
+2000-02-01,Scotian Shelf,3.406
+2000-02-01,Gulf of St. Lawrence,-0.423
+2000-03-01,Bay of Fundy,2.846
+2000-03-01,Scotian Shelf,2.312
+2000-03-01,Gulf of St. Lawrence,0.165
+2000-04-01,Bay of Fundy,2.598
+2000-04-01,Scotian Shelf,2.913
+2000-04-01,Gulf of St. Lawrence,-0.141
+2000-05-01,Bay of Fundy,4.117
+2000-05-01,Scotian Shelf,4.725
+2000-05-01,Gulf of St. Lawrence,1.533
+2000-06-01,Bay of Fundy,7.616
+2000-06-01,Scotian Shelf,8.607
+2000-06-01,Gulf of St. Lawrence,6.003
+2000-07-01,Bay of Fundy,11.873
+2000-07-01,Scotian Shelf,12.618
+2000-07-01,Gulf of St. Lawrence,13.102
+2000-08-01,Bay of Fundy,15.146
+2000-08-01,Scotian Shelf,16.496
+2000-08-01,Gulf of St. Lawrence,17.644
+2000-09-01,Bay of Fundy,15.218
+2000-09-01,Scotian Shelf,17.6
+2000-09-01,Gulf of St. Lawrence,16.338
+2000-10-01,Bay of Fundy,12.795
+2000-10-01,Scotian Shelf,15.407
+2000-10-01,Gulf of St. Lawrence,10.676
+2000-11-01,Bay of Fundy,10.691
+2000-11-01,Scotian Shelf,12.011
+2000-11-01,Gulf of St. Lawrence,6.581
+2000-12-01,Bay of Fundy,7.747
+2000-12-01,Scotian Shelf,8.01
+2000-12-01,Gulf of St. Lawrence,3.3
+2001-01-01,Bay of Fundy,3.47
+2001-01-01,Scotian Shelf,3.706
+2001-01-01,Gulf of St. Lawrence,0.747
+2001-02-01,Bay of Fundy,2.411
+2001-02-01,Scotian Shelf,2.682
+2001-02-01,Gulf of St. Lawrence,-0.109
+2001-03-01,Bay of Fundy,1.68
+2001-03-01,Scotian Shelf,1.18
+2001-03-01,Gulf of St. Lawrence,-0.115
+2001-04-01,Bay of Fundy,1.736
+2001-04-01,Scotian Shelf,1.787
+2001-04-01,Gulf of St. Lawrence,-0.228
+2001-05-01,Bay of Fundy,3.088
+2001-05-01,Scotian Shelf,3.139
+2001-05-01,Gulf of St. Lawrence,1.757
+2001-06-01,Bay of Fundy,6.117
+2001-06-01,Scotian Shelf,7.373
+2001-06-01,Gulf of St. Lawrence,8.541
+2001-07-01,Bay of Fundy,11.916
+2001-07-01,Scotian Shelf,13.006
+2001-07-01,Gulf of St. Lawrence,12.446
+2001-08-01,Bay of Fundy,13.638
+2001-08-01,Scotian Shelf,16.154
+2001-08-01,Gulf of St. Lawrence,16.866
+2001-09-01,Bay of Fundy,14.296
+2001-09-01,Scotian Shelf,17.453
+2001-09-01,Gulf of St. Lawrence,14.964
+2001-10-01,Bay of Fundy,12.699
+2001-10-01,Scotian Shelf,15.453
+2001-10-01,Gulf of St. Lawrence,12.559
+2001-11-01,Bay of Fundy,10.597
+2001-11-01,Scotian Shelf,12.176
+2001-11-01,Gulf of St. Lawrence,7.381
+2001-12-01,Bay of Fundy,8.036
+2001-12-01,Scotian Shelf,8.46
+2001-12-01,Gulf of St. Lawrence,3.581
+2002-01-01,Bay of Fundy,6.216
+2002-01-01,Scotian Shelf,5.567
+2002-01-01,Gulf of St. Lawrence,0.898
+2002-02-01,Bay of Fundy,3.231
+2002-02-01,Scotian Shelf,3.175
+2002-02-01,Gulf of St. Lawrence,-0.218
+2002-03-01,Bay of Fundy,2.664
+2002-03-01,Scotian Shelf,2.379
+2002-03-01,Gulf of St. Lawrence,-0.812
+2002-04-01,Bay of Fundy,2.26
+2002-04-01,Scotian Shelf,2.71
+2002-04-01,Gulf of St. Lawrence,-0.501
+2002-05-01,Bay of Fundy,4.172
+2002-05-01,Scotian Shelf,3.919
+2002-05-01,Gulf of St. Lawrence,1.681
+2002-06-01,Bay of Fundy,6.449
+2002-06-01,Scotian Shelf,7.9
+2002-06-01,Gulf of St. Lawrence,6.265
+2002-07-01,Bay of Fundy,11.819
+2002-07-01,Scotian Shelf,11.689
+2002-07-01,Gulf of St. Lawrence,12.499
+2002-08-01,Bay of Fundy,14.513
+2002-08-01,Scotian Shelf,16.099
+2002-08-01,Gulf of St. Lawrence,15.439
+2002-09-01,Bay of Fundy,14.709
+2002-09-01,Scotian Shelf,17.926
+2002-09-01,Gulf of St. Lawrence,15.019
+2002-10-01,Bay of Fundy,13.684
+2002-10-01,Scotian Shelf,15.027
+2002-10-01,Gulf of St. Lawrence,11.006
+2002-11-01,Bay of Fundy,10.386
+2002-11-01,Scotian Shelf,10.242
+2002-11-01,Gulf of St. Lawrence,5.756
+2002-12-01,Bay of Fundy,7.319
+2002-12-01,Scotian Shelf,6.845
+2002-12-01,Gulf of St. Lawrence,2.368
+2003-01-01,Bay of Fundy,4.695
+2003-01-01,Scotian Shelf,4.202
+2003-01-01,Gulf of St. Lawrence,0.478
+2003-02-01,Bay of Fundy,1.526
+2003-02-01,Scotian Shelf,1.511
+2003-02-01,Gulf of St. Lawrence,-0.533
+2003-03-01,Bay of Fundy,1.835
+2003-03-01,Scotian Shelf,1.579
+2003-03-01,Gulf of St. Lawrence,-0.135
+2003-04-01,Bay of Fundy,1.441
+2003-04-01,Scotian Shelf,1.548
+2003-04-01,Gulf of St. Lawrence,-0.743
+2003-05-01,Bay of Fundy,3.183
+2003-05-01,Scotian Shelf,3.339
+2003-05-01,Gulf of St. Lawrence,1.067
+2003-06-01,Bay of Fundy,5.171
+2003-06-01,Scotian Shelf,7.171
+2003-06-01,Gulf of St. Lawrence,6.372
+2003-07-01,Bay of Fundy,12.052
+2003-07-01,Scotian Shelf,13.091
+2003-07-01,Gulf of St. Lawrence,12.658
+2003-08-01,Bay of Fundy,13.743
+2003-08-01,Scotian Shelf,17.364
+2003-08-01,Gulf of St. Lawrence,16.168
+2003-09-01,Bay of Fundy,13.03
+2003-09-01,Scotian Shelf,16.81
+2003-09-01,Gulf of St. Lawrence,13.96
+2003-10-01,Bay of Fundy,13.761
+2003-10-01,Scotian Shelf,17.24
+2003-10-01,Gulf of St. Lawrence,13.14
+2003-11-01,Bay of Fundy,10.707
+2003-11-01,Scotian Shelf,12.434
+2003-11-01,Gulf of St. Lawrence,6.796
+2003-12-01,Bay of Fundy,7.947
+2003-12-01,Scotian Shelf,8.192
+2003-12-01,Gulf of St. Lawrence,3.396
+2004-01-01,Bay of Fundy,4.751
+2004-01-01,Scotian Shelf,5.003
+2004-01-01,Gulf of St. Lawrence,1.037
+2004-02-01,Bay of Fundy,2.172
+2004-02-01,Scotian Shelf,1.766
+2004-02-01,Gulf of St. Lawrence,-0.31
+2004-03-01,Bay of Fundy,1.277
+2004-03-01,Scotian Shelf,1.12
+2004-03-01,Gulf of St. Lawrence,-0.839
+2004-04-01,Bay of Fundy,0.94
+2004-04-01,Scotian Shelf,1.637
+2004-04-01,Gulf of St. Lawrence,-0.302
+2004-05-01,Bay of Fundy,3.166
+2004-05-01,Scotian Shelf,4.108
+2004-05-01,Gulf of St. Lawrence,2.042
+2004-06-01,Bay of Fundy,4.994
+2004-06-01,Scotian Shelf,6.384
+2004-06-01,Gulf of St. Lawrence,5.864
+2004-07-01,Bay of Fundy,10.003
+2004-07-01,Scotian Shelf,11.447
+2004-07-01,Gulf of St. Lawrence,11.254
+2004-08-01,Bay of Fundy,13.287
+2004-08-01,Scotian Shelf,17.274
+2004-08-01,Gulf of St. Lawrence,17.139
+2004-09-01,Bay of Fundy,13.24
+2004-09-01,Scotian Shelf,17.682
+2004-09-01,Gulf of St. Lawrence,14.981
+2004-10-01,Bay of Fundy,11.68
+2004-10-01,Scotian Shelf,13.287
+2004-10-01,Gulf of St. Lawrence,10.871
+2004-11-01,Bay of Fundy,10.019
+2004-11-01,Scotian Shelf,11.511
+2004-11-01,Gulf of St. Lawrence,7.847
+2004-12-01,Bay of Fundy,6.866
+2004-12-01,Scotian Shelf,7.518
+2004-12-01,Gulf of St. Lawrence,3.679
+2005-01-01,Bay of Fundy,4.249
+2005-01-01,Scotian Shelf,4.463
+2005-01-01,Gulf of St. Lawrence,0.373
+2005-02-01,Bay of Fundy,2.503
+2005-02-01,Scotian Shelf,2.98
+2005-02-01,Gulf of St. Lawrence,-0.087
+2005-03-01,Bay of Fundy,1.074
+2005-03-01,Scotian Shelf,2.288
+2005-03-01,Gulf of St. Lawrence,-0.277
+2005-04-01,Bay of Fundy,1.41
+2005-04-01,Scotian Shelf,2.06
+2005-04-01,Gulf of St. Lawrence,-0.298
+2005-05-01,Bay of Fundy,3.807
+2005-05-01,Scotian Shelf,3.866
+2005-05-01,Gulf of St. Lawrence,1.432
+2005-06-01,Bay of Fundy,6.931
+2005-06-01,Scotian Shelf,7.205
+2005-06-01,Gulf of St. Lawrence,7.245
+2005-07-01,Bay of Fundy,9.659
+2005-07-01,Scotian Shelf,11.256
+2005-07-01,Gulf of St. Lawrence,11.622
+2005-08-01,Bay of Fundy,13.848
+2005-08-01,Scotian Shelf,17.321
+2005-08-01,Gulf of St. Lawrence,15.942
+2005-09-01,Bay of Fundy,13.928
+2005-09-01,Scotian Shelf,19.093
+2005-09-01,Gulf of St. Lawrence,15.938
+2005-10-01,Bay of Fundy,12.497
+2005-10-01,Scotian Shelf,15.288
+2005-10-01,Gulf of St. Lawrence,11.012
+2005-11-01,Bay of Fundy,9.845
+2005-11-01,Scotian Shelf,11.581
+2005-11-01,Gulf of St. Lawrence,7.363
+2005-12-01,Bay of Fundy,8.203
+2005-12-01,Scotian Shelf,8.403
+2005-12-01,Gulf of St. Lawrence,4.323
+2006-01-01,Bay of Fundy,5.148
+2006-01-01,Scotian Shelf,4.968
+2006-01-01,Gulf of St. Lawrence,1.004
+2006-02-01,Bay of Fundy,4.17
+2006-02-01,Scotian Shelf,3.673
+2006-02-01,Gulf of St. Lawrence,-0.225
+2006-03-01,Bay of Fundy,2.652
+2006-03-01,Scotian Shelf,2.363
+2006-03-01,Gulf of St. Lawrence,-0.09
+2006-04-01,Bay of Fundy,3.387
+2006-04-01,Scotian Shelf,2.77
+2006-04-01,Gulf of St. Lawrence,0.003
+2006-05-01,Bay of Fundy,5.291
+2006-05-01,Scotian Shelf,4.704
+2006-05-01,Gulf of St. Lawrence,3.254
+2006-06-01,Bay of Fundy,9.461
+2006-06-01,Scotian Shelf,9.084
+2006-06-01,Gulf of St. Lawrence,9.089
+2006-07-01,Bay of Fundy,12.487
+2006-07-01,Scotian Shelf,13.989
+2006-07-01,Gulf of St. Lawrence,13.732
+2006-08-01,Bay of Fundy,14.858
+2006-08-01,Scotian Shelf,17.451
+2006-08-01,Gulf of St. Lawrence,16.511
+2006-09-01,Bay of Fundy,14.46
+2006-09-01,Scotian Shelf,17.532
+2006-09-01,Gulf of St. Lawrence,15.306
+2006-10-01,Bay of Fundy,13.48
+2006-10-01,Scotian Shelf,15.492
+2006-10-01,Gulf of St. Lawrence,11.694
+2006-11-01,Bay of Fundy,10.283
+2006-11-01,Scotian Shelf,10.82
+2006-11-01,Gulf of St. Lawrence,7.522
+2006-12-01,Bay of Fundy,9.184
+2006-12-01,Scotian Shelf,8.821
+2006-12-01,Gulf of St. Lawrence,4.977
+2007-01-01,Bay of Fundy,6.237
+2007-01-01,Scotian Shelf,4.812
+2007-01-01,Gulf of St. Lawrence,0.923
+2007-02-01,Bay of Fundy,4.28
+2007-02-01,Scotian Shelf,2.858
+2007-02-01,Gulf of St. Lawrence,-0.259
+2007-03-01,Bay of Fundy,2.152
+2007-03-01,Scotian Shelf,1.138
+2007-03-01,Gulf of St. Lawrence,-0.413
+2007-04-01,Bay of Fundy,2.117
+2007-04-01,Scotian Shelf,1.033
+2007-04-01,Gulf of St. Lawrence,-0.88
+2007-05-01,Bay of Fundy,3.804
+2007-05-01,Scotian Shelf,2.506
+2007-05-01,Gulf of St. Lawrence,2.141
+2007-06-01,Bay of Fundy,6.804
+2007-06-01,Scotian Shelf,7.147
+2007-06-01,Gulf of St. Lawrence,6.22
+2007-07-01,Bay of Fundy,10.483
+2007-07-01,Scotian Shelf,11.757
+2007-07-01,Gulf of St. Lawrence,11.882
+2007-08-01,Bay of Fundy,14.785
+2007-08-01,Scotian Shelf,17.194
+2007-08-01,Gulf of St. Lawrence,18.16
+2007-09-01,Bay of Fundy,13.346
+2007-09-01,Scotian Shelf,16.633
+2007-09-01,Gulf of St. Lawrence,14.71
+2007-10-01,Bay of Fundy,12.249
+2007-10-01,Scotian Shelf,14.475
+2007-10-01,Gulf of St. Lawrence,10.167
+2007-11-01,Bay of Fundy,10.162
+2007-11-01,Scotian Shelf,11.427
+2007-11-01,Gulf of St. Lawrence,6.886
+2007-12-01,Bay of Fundy,7.478
+2007-12-01,Scotian Shelf,7.908
+2007-12-01,Gulf of St. Lawrence,3.396
+2008-01-01,Bay of Fundy,4.306
+2008-01-01,Scotian Shelf,4.14
+2008-01-01,Gulf of St. Lawrence,-0.178
+2008-02-01,Bay of Fundy,2.618
+2008-02-01,Scotian Shelf,2.207
+2008-02-01,Gulf of St. Lawrence,-0.091
+2008-03-01,Bay of Fundy,1.559
+2008-03-01,Scotian Shelf,1.668
+2008-03-01,Gulf of St. Lawrence,-0.389
+2008-04-01,Bay of Fundy,2.577
+2008-04-01,Scotian Shelf,2.325
+2008-04-01,Gulf of St. Lawrence,-0.099
+2008-05-01,Bay of Fundy,4.507
+2008-05-01,Scotian Shelf,3.51
+2008-05-01,Gulf of St. Lawrence,2.818
+2008-06-01,Bay of Fundy,7.08
+2008-06-01,Scotian Shelf,6.285
+2008-06-01,Gulf of St. Lawrence,6.712
+2008-07-01,Bay of Fundy,11.457
+2008-07-01,Scotian Shelf,13.732
+2008-07-01,Gulf of St. Lawrence,12.482
+2008-08-01,Bay of Fundy,14.778
+2008-08-01,Scotian Shelf,18.561
+2008-08-01,Gulf of St. Lawrence,18.977
+2008-09-01,Bay of Fundy,13.474
+2008-09-01,Scotian Shelf,15.898
+2008-09-01,Gulf of St. Lawrence,16.264
+2008-10-01,Bay of Fundy,12.793
+2008-10-01,Scotian Shelf,14.618
+2008-10-01,Gulf of St. Lawrence,11.623
+2008-11-01,Bay of Fundy,9.833
+2008-11-01,Scotian Shelf,10.696
+2008-11-01,Gulf of St. Lawrence,7.391
+2008-12-01,Bay of Fundy,8.423
+2008-12-01,Scotian Shelf,8.683
+2008-12-01,Gulf of St. Lawrence,4.231
+2009-01-01,Bay of Fundy,4.735
+2009-01-01,Scotian Shelf,5.098
+2009-01-01,Gulf of St. Lawrence,0.346
+2009-02-01,Bay of Fundy,2.642
+2009-02-01,Scotian Shelf,2.122
+2009-02-01,Gulf of St. Lawrence,0.049
+2009-03-01,Bay of Fundy,2.044
+2009-03-01,Scotian Shelf,1.862
+2009-03-01,Gulf of St. Lawrence,0.181
+2009-04-01,Bay of Fundy,2.019
+2009-04-01,Scotian Shelf,1.957
+2009-04-01,Gulf of St. Lawrence,-0.712
+2009-05-01,Bay of Fundy,4.557
+2009-05-01,Scotian Shelf,3.564
+2009-05-01,Gulf of St. Lawrence,1.437
+2009-06-01,Bay of Fundy,7.661
+2009-06-01,Scotian Shelf,7.815
+2009-06-01,Gulf of St. Lawrence,6.889
+2009-07-01,Bay of Fundy,12.944
+2009-07-01,Scotian Shelf,14.759
+2009-07-01,Gulf of St. Lawrence,13.112
+2009-08-01,Bay of Fundy,14.641
+2009-08-01,Scotian Shelf,18.107
+2009-08-01,Gulf of St. Lawrence,16.919
+2009-09-01,Bay of Fundy,13.192
+2009-09-01,Scotian Shelf,15.452
+2009-09-01,Gulf of St. Lawrence,13.246
+2009-10-01,Bay of Fundy,12.789
+2009-10-01,Scotian Shelf,15.054
+2009-10-01,Gulf of St. Lawrence,12.235
+2009-11-01,Bay of Fundy,10.291
+2009-11-01,Scotian Shelf,10.49
+2009-11-01,Gulf of St. Lawrence,6.879
+2009-12-01,Bay of Fundy,8.791
+2009-12-01,Scotian Shelf,8.421
+2009-12-01,Gulf of St. Lawrence,4.25
+2010-01-01,Bay of Fundy,5.535
+2010-01-01,Scotian Shelf,4.783
+2010-01-01,Gulf of St. Lawrence,0.71
+2010-02-01,Bay of Fundy,3.097
+2010-02-01,Scotian Shelf,2.871
+2010-02-01,Gulf of St. Lawrence,-0.393
+2010-03-01,Bay of Fundy,2.945
+2010-03-01,Scotian Shelf,1.936
+2010-03-01,Gulf of St. Lawrence,-0.619
+2010-04-01,Bay of Fundy,2.929
+2010-04-01,Scotian Shelf,3.024
+2010-04-01,Gulf of St. Lawrence,0.408
+2010-05-01,Bay of Fundy,5.84
+2010-05-01,Scotian Shelf,4.78
+2010-05-01,Gulf of St. Lawrence,4.039
+2010-06-01,Bay of Fundy,8.962
+2010-06-01,Scotian Shelf,7.708
+2010-06-01,Gulf of St. Lawrence,7.184
+2010-07-01,Bay of Fundy,11.904
+2010-07-01,Scotian Shelf,12.746
+2010-07-01,Gulf of St. Lawrence,11.595
+2010-08-01,Bay of Fundy,14.865
+2010-08-01,Scotian Shelf,17.285
+2010-08-01,Gulf of St. Lawrence,16.632
+2010-09-01,Bay of Fundy,17.291
+2010-09-01,Scotian Shelf,19.915
+2010-09-01,Gulf of St. Lawrence,18.105
+2010-10-01,Bay of Fundy,14.431
+2010-10-01,Scotian Shelf,16.073
+2010-10-01,Gulf of St. Lawrence,12.996
+2010-11-01,Bay of Fundy,10.545
+2010-11-01,Scotian Shelf,10.798
+2010-11-01,Gulf of St. Lawrence,7.138
+2010-12-01,Bay of Fundy,8.317
+2010-12-01,Scotian Shelf,8.268
+2010-12-01,Gulf of St. Lawrence,4.499
+2011-01-01,Bay of Fundy,6.186
+2011-01-01,Scotian Shelf,5.912
+2011-01-01,Gulf of St. Lawrence,3.024
+2011-02-01,Bay of Fundy,4.185
+2011-02-01,Scotian Shelf,3.743
+2011-02-01,Gulf of St. Lawrence,0.531
+2011-03-01,Bay of Fundy,2.762
+2011-03-01,Scotian Shelf,2.346
+2011-03-01,Gulf of St. Lawrence,-0.272
+2011-04-01,Bay of Fundy,3.037
+2011-04-01,Scotian Shelf,2.254
+2011-04-01,Gulf of St. Lawrence,-0.119
+2011-05-01,Bay of Fundy,5.451
+2011-05-01,Scotian Shelf,4.172
+2011-05-01,Gulf of St. Lawrence,2.421
+2011-06-01,Bay of Fundy,9.827
+2011-06-01,Scotian Shelf,8.629
+2011-06-01,Gulf of St. Lawrence,6.965
+2011-07-01,Bay of Fundy,11.234
+2011-07-01,Scotian Shelf,12.798
+2011-07-01,Gulf of St. Lawrence,11.741
+2011-08-01,Bay of Fundy,14.754
+2011-08-01,Scotian Shelf,16.091
+2011-08-01,Gulf of St. Lawrence,16.814
+2011-09-01,Bay of Fundy,14.421
+2011-09-01,Scotian Shelf,17.62
+2011-09-01,Gulf of St. Lawrence,15.74
+2011-10-01,Bay of Fundy,14.399
+2011-10-01,Scotian Shelf,16.124
+2011-10-01,Gulf of St. Lawrence,12.901
+2011-11-01,Bay of Fundy,11.142
+2011-11-01,Scotian Shelf,10.592
+2011-11-01,Gulf of St. Lawrence,8.117
+2011-12-01,Bay of Fundy,9.073
+2011-12-01,Scotian Shelf,9.049
+2011-12-01,Gulf of St. Lawrence,5.133
+2012-01-01,Bay of Fundy,6.368
+2012-01-01,Scotian Shelf,5.927
+2012-01-01,Gulf of St. Lawrence,1.636
+2012-02-01,Bay of Fundy,4.208
+2012-02-01,Scotian Shelf,3.755
+2012-02-01,Gulf of St. Lawrence,-0.146
+2012-03-01,Bay of Fundy,3.421
+2012-03-01,Scotian Shelf,2.803
+2012-03-01,Gulf of St. Lawrence,-0.348
+2012-04-01,Bay of Fundy,4.321
+2012-04-01,Scotian Shelf,3.339
+2012-04-01,Gulf of St. Lawrence,0.058
+2012-05-01,Bay of Fundy,6.018
+2012-05-01,Scotian Shelf,5.152
+2012-05-01,Gulf of St. Lawrence,2.68
+2012-06-01,Bay of Fundy,9.802
+2012-06-01,Scotian Shelf,10.138
+2012-06-01,Gulf of St. Lawrence,8.407
+2012-07-01,Bay of Fundy,13.715
+2012-07-01,Scotian Shelf,14.656
+2012-07-01,Gulf of St. Lawrence,13.927
+2012-08-01,Bay of Fundy,16.112
+2012-08-01,Scotian Shelf,18.36
+2012-08-01,Gulf of St. Lawrence,18.968
+2012-09-01,Bay of Fundy,15.285
+2012-09-01,Scotian Shelf,18.339
+2012-09-01,Gulf of St. Lawrence,16.491
+2012-10-01,Bay of Fundy,14.849
+2012-10-01,Scotian Shelf,17.198
+2012-10-01,Gulf of St. Lawrence,13.144
+2012-11-01,Bay of Fundy,12.275
+2012-11-01,Scotian Shelf,13.471
+2012-11-01,Gulf of St. Lawrence,8.807
+2012-12-01,Bay of Fundy,9.492
+2012-12-01,Scotian Shelf,8.886
+2012-12-01,Gulf of St. Lawrence,4.299
+2013-01-01,Bay of Fundy,7.145
+2013-01-01,Scotian Shelf,7.042
+2013-01-01,Gulf of St. Lawrence,2.315
+2013-02-01,Bay of Fundy,4.604
+2013-02-01,Scotian Shelf,3.469
+2013-02-01,Gulf of St. Lawrence,0.295
+2013-03-01,Bay of Fundy,3.239
+2013-03-01,Scotian Shelf,2.82
+2013-03-01,Gulf of St. Lawrence,-0.321
+2013-04-01,Bay of Fundy,3.589
+2013-04-01,Scotian Shelf,3.362
+2013-04-01,Gulf of St. Lawrence,0.225
+2013-05-01,Bay of Fundy,6.464
+2013-05-01,Scotian Shelf,5.294
+2013-05-01,Gulf of St. Lawrence,3.979
+2013-06-01,Bay of Fundy,9.505
+2013-06-01,Scotian Shelf,9.664
+2013-06-01,Gulf of St. Lawrence,7.462
+2013-07-01,Bay of Fundy,12.953
+2013-07-01,Scotian Shelf,13.975
+2013-07-01,Gulf of St. Lawrence,12.265
+2013-08-01,Bay of Fundy,14.472
+2013-08-01,Scotian Shelf,18.231
+2013-08-01,Gulf of St. Lawrence,15.967
+2013-09-01,Bay of Fundy,15.25
+2013-09-01,Scotian Shelf,17.568
+2013-09-01,Gulf of St. Lawrence,15.477
+2013-10-01,Bay of Fundy,13.889
+2013-10-01,Scotian Shelf,16.625
+2013-10-01,Gulf of St. Lawrence,12.926
+2013-11-01,Bay of Fundy,11.494
+2013-11-01,Scotian Shelf,12.583
+2013-11-01,Gulf of St. Lawrence,8.221
+2013-12-01,Bay of Fundy,8.038
+2013-12-01,Scotian Shelf,7.868
+2013-12-01,Gulf of St. Lawrence,3.538
+2014-01-01,Bay of Fundy,5.006
+2014-01-01,Scotian Shelf,4.431
+2014-01-01,Gulf of St. Lawrence,0.458
+2014-02-01,Bay of Fundy,3.471
+2014-02-01,Scotian Shelf,3.078
+2014-02-01,Gulf of St. Lawrence,0.143
+2014-03-01,Bay of Fundy,2.218
+2014-03-01,Scotian Shelf,1.882
+2014-03-01,Gulf of St. Lawrence,-0.468
+2014-04-01,Bay of Fundy,1.915
+2014-04-01,Scotian Shelf,3.318
+2014-04-01,Gulf of St. Lawrence,-0.377
+2014-05-01,Bay of Fundy,4.262
+2014-05-01,Scotian Shelf,4.24
+2014-05-01,Gulf of St. Lawrence,1.55
+2014-06-01,Bay of Fundy,7.903
+2014-06-01,Scotian Shelf,7.483
+2014-06-01,Gulf of St. Lawrence,7.325
+2014-07-01,Bay of Fundy,12.482
+2014-07-01,Scotian Shelf,13.848
+2014-07-01,Gulf of St. Lawrence,16.232
+2014-08-01,Bay of Fundy,14.775
+2014-08-01,Scotian Shelf,18.982
+2014-08-01,Gulf of St. Lawrence,18.216
+2014-09-01,Bay of Fundy,14.885
+2014-09-01,Scotian Shelf,18.411
+2014-09-01,Gulf of St. Lawrence,16.361
+2014-10-01,Bay of Fundy,13.712
+2014-10-01,Scotian Shelf,16.072
+2014-10-01,Gulf of St. Lawrence,10.605
+2014-11-01,Bay of Fundy,12.363
+2014-11-01,Scotian Shelf,13.573
+2014-11-01,Gulf of St. Lawrence,8.048
+2014-12-01,Bay of Fundy,8.921
+2014-12-01,Scotian Shelf,8.419
+2014-12-01,Gulf of St. Lawrence,3.752
+2015-01-01,Bay of Fundy,6.246
+2015-01-01,Scotian Shelf,6.287
+2015-01-01,Gulf of St. Lawrence,1.189
+2015-02-01,Bay of Fundy,4.174
+2015-02-01,Scotian Shelf,4.118
+2015-02-01,Gulf of St. Lawrence,0.198
+2015-03-01,Bay of Fundy,1.731
+2015-03-01,Scotian Shelf,2.411
+2015-03-01,Gulf of St. Lawrence,-0.654
+2015-04-01,Bay of Fundy,1.194
+2015-04-01,Scotian Shelf,2.06
+2015-04-01,Gulf of St. Lawrence,-0.517
+2015-05-01,Bay of Fundy,3.429
+2015-05-01,Scotian Shelf,3.462
+2015-05-01,Gulf of St. Lawrence,0.683
+2015-06-01,Bay of Fundy,8.106
+2015-06-01,Scotian Shelf,8.056
+2015-06-01,Gulf of St. Lawrence,6.924
+2015-07-01,Bay of Fundy,10.818
+2015-07-01,Scotian Shelf,12.162
+2015-07-01,Gulf of St. Lawrence,11.667
+2015-08-01,Bay of Fundy,14.047
+2015-08-01,Scotian Shelf,16.826
+2015-08-01,Gulf of St. Lawrence,16.0
+2015-09-01,Bay of Fundy,15.552
+2015-09-01,Scotian Shelf,18.965
+2015-09-01,Gulf of St. Lawrence,17.34
+2015-10-01,Bay of Fundy,14.48
+2015-10-01,Scotian Shelf,17.167
+2015-10-01,Gulf of St. Lawrence,13.58
+2015-11-01,Bay of Fundy,11.312
+2015-11-01,Scotian Shelf,12.355
+2015-11-01,Gulf of St. Lawrence,6.676
+2015-12-01,Bay of Fundy,8.72
+2015-12-01,Scotian Shelf,9.13
+2015-12-01,Gulf of St. Lawrence,4.293
+2016-01-01,Bay of Fundy,6.96
+2016-01-01,Scotian Shelf,7.053
+2016-01-01,Gulf of St. Lawrence,1.696
+2016-02-01,Bay of Fundy,4.609
+2016-02-01,Scotian Shelf,3.62
+2016-02-01,Gulf of St. Lawrence,-0.318
+2016-03-01,Bay of Fundy,3.586
+2016-03-01,Scotian Shelf,3.66
+2016-03-01,Gulf of St. Lawrence,-0.902
+2016-04-01,Bay of Fundy,3.425
+2016-04-01,Scotian Shelf,3.732
+2016-04-01,Gulf of St. Lawrence,-1.011
+2016-05-01,Bay of Fundy,5.494
+2016-05-01,Scotian Shelf,5.628
+2016-05-01,Gulf of St. Lawrence,3.105
+2016-06-01,Bay of Fundy,9.019
+2016-06-01,Scotian Shelf,8.922
+2016-06-01,Gulf of St. Lawrence,8.246
+2016-07-01,Bay of Fundy,13.561
+2016-07-01,Scotian Shelf,14.451
+2016-07-01,Gulf of St. Lawrence,12.456
+2016-08-01,Bay of Fundy,16.182
+2016-08-01,Scotian Shelf,19.033
+2016-08-01,Gulf of St. Lawrence,17.433
+2016-09-01,Bay of Fundy,15.361
+2016-09-01,Scotian Shelf,18.201
+2016-09-01,Gulf of St. Lawrence,15.397
+2016-10-01,Bay of Fundy,13.882
+2016-10-01,Scotian Shelf,16.036
+2016-10-01,Gulf of St. Lawrence,12.295
+2016-11-01,Bay of Fundy,12.041
+2016-11-01,Scotian Shelf,12.407
+2016-11-01,Gulf of St. Lawrence,8.43
+2016-12-01,Bay of Fundy,9.649
+2016-12-01,Scotian Shelf,9.546
+2016-12-01,Gulf of St. Lawrence,5.395
+2017-01-01,Bay of Fundy,6.499
+2017-01-01,Scotian Shelf,5.331
+2017-01-01,Gulf of St. Lawrence,1.639
+2017-02-01,Bay of Fundy,3.887
+2017-02-01,Scotian Shelf,3.329
+2017-02-01,Gulf of St. Lawrence,-0.296
+2017-03-01,Bay of Fundy,3.074
+2017-03-01,Scotian Shelf,2.574
+2017-03-01,Gulf of St. Lawrence,-0.764
+2017-04-01,Bay of Fundy,2.159
+2017-04-01,Scotian Shelf,1.754
+2017-04-01,Gulf of St. Lawrence,-0.611
+2017-05-01,Bay of Fundy,4.605
+2017-05-01,Scotian Shelf,5.108
+2017-05-01,Gulf of St. Lawrence,2.106
+2017-06-01,Bay of Fundy,7.799
+2017-06-01,Scotian Shelf,7.747
+2017-06-01,Gulf of St. Lawrence,7.5
+2017-07-01,Bay of Fundy,11.146
+2017-07-01,Scotian Shelf,12.742
+2017-07-01,Gulf of St. Lawrence,13.457
+2017-08-01,Bay of Fundy,14.598
+2017-08-01,Scotian Shelf,18.105
+2017-08-01,Gulf of St. Lawrence,16.384
+2017-09-01,Bay of Fundy,14.287
+2017-09-01,Scotian Shelf,17.324
+2017-09-01,Gulf of St. Lawrence,16.069
+2017-10-01,Bay of Fundy,14.227
+2017-10-01,Scotian Shelf,16.823
+2017-10-01,Gulf of St. Lawrence,12.988
+2017-11-01,Bay of Fundy,12.946
+2017-11-01,Scotian Shelf,13.889
+2017-11-01,Gulf of St. Lawrence,8.568
+2017-12-01,Bay of Fundy,9.073
+2017-12-01,Scotian Shelf,9.002
+2017-12-01,Gulf of St. Lawrence,3.192
+2018-01-01,Bay of Fundy,5.761
+2018-01-01,Scotian Shelf,5.643
+2018-01-01,Gulf of St. Lawrence,0.921
+2018-02-01,Bay of Fundy,3.9
+2018-02-01,Scotian Shelf,3.427
+2018-02-01,Gulf of St. Lawrence,-1.114
+2018-03-01,Bay of Fundy,3.477
+2018-03-01,Scotian Shelf,3.078
+2018-03-01,Gulf of St. Lawrence,-1.32
+2018-04-01,Bay of Fundy,3.293
+2018-04-01,Scotian Shelf,3.982
+2018-04-01,Gulf of St. Lawrence,-0.556
+2018-05-01,Bay of Fundy,5.377
+2018-05-01,Scotian Shelf,5.654
+2018-05-01,Gulf of St. Lawrence,1.826
+2018-06-01,Bay of Fundy,9.726
+2018-06-01,Scotian Shelf,9.34
+2018-06-01,Gulf of St. Lawrence,7.035
+2018-07-01,Bay of Fundy,11.71
+2018-07-01,Scotian Shelf,12.292
+2018-07-01,Gulf of St. Lawrence,11.25
+2018-08-01,Bay of Fundy,15.491
+2018-08-01,Scotian Shelf,18.473
+2018-08-01,Gulf of St. Lawrence,17.296
+2018-09-01,Bay of Fundy,15.903
+2018-09-01,Scotian Shelf,19.311
+2018-09-01,Gulf of St. Lawrence,16.585
+2018-10-01,Bay of Fundy,14.173
+2018-10-01,Scotian Shelf,16.366
+2018-10-01,Gulf of St. Lawrence,10.922
+2018-11-01,Bay of Fundy,10.989
+2018-11-01,Scotian Shelf,11.542
+2018-11-01,Gulf of St. Lawrence,6.621
+2018-12-01,Bay of Fundy,7.661
+2018-12-01,Scotian Shelf,7.057
+2018-12-01,Gulf of St. Lawrence,2.981
+2019-01-01,Bay of Fundy,4.638
+2019-01-01,Scotian Shelf,3.873
+2019-01-01,Gulf of St. Lawrence,0.199
+2019-02-01,Bay of Fundy,2.168
+2019-02-01,Scotian Shelf,2.242
+2019-02-01,Gulf of St. Lawrence,-1.389
+2019-03-01,Bay of Fundy,2.218
+2019-03-01,Scotian Shelf,1.231
+2019-03-01,Gulf of St. Lawrence,-1.515
+2019-04-01,Bay of Fundy,2.522
+2019-04-01,Scotian Shelf,1.902
+2019-04-01,Gulf of St. Lawrence,-0.927
+2019-05-01,Bay of Fundy,4.311
+2019-05-01,Scotian Shelf,3.304
+2019-05-01,Gulf of St. Lawrence,0.49
+2019-06-01,Bay of Fundy,7.594
+2019-06-01,Scotian Shelf,6.748
+2019-06-01,Gulf of St. Lawrence,6.923
+2019-07-01,Bay of Fundy,10.96
+2019-07-01,Scotian Shelf,12.327
+2019-07-01,Gulf of St. Lawrence,11.779
+2019-08-01,Bay of Fundy,15.934
+2019-08-01,Scotian Shelf,17.919
+2019-08-01,Gulf of St. Lawrence,17.953
+2019-09-01,Bay of Fundy,14.721
+2019-09-01,Scotian Shelf,17.542
+2019-09-01,Gulf of St. Lawrence,16.27
+2019-10-01,Bay of Fundy,13.454
+2019-10-01,Scotian Shelf,13.92
+2019-10-01,Gulf of St. Lawrence,10.792
+2019-11-01,Bay of Fundy,11.814
+2019-11-01,Scotian Shelf,11.821
+2019-11-01,Gulf of St. Lawrence,7.798
+2019-12-01,Bay of Fundy,8.232
+2019-12-01,Scotian Shelf,8.018
+2019-12-01,Gulf of St. Lawrence,3.161
+2020-01-01,Bay of Fundy,5.64
+2020-01-01,Scotian Shelf,4.814
+2020-01-01,Gulf of St. Lawrence,0.324
+2020-02-01,Bay of Fundy,4.331
+2020-02-01,Scotian Shelf,3.119
+2020-02-01,Gulf of St. Lawrence,-0.846
+2020-03-01,Bay of Fundy,3.342
+2020-03-01,Scotian Shelf,2.043
+2020-03-01,Gulf of St. Lawrence,-1.411
+2020-04-01,Bay of Fundy,3.405
+2020-04-01,Scotian Shelf,2.628
+2020-04-01,Gulf of St. Lawrence,-0.985
+2020-05-01,Bay of Fundy,4.959
+2020-05-01,Scotian Shelf,4.113
+2020-05-01,Gulf of St. Lawrence,2.126
+2020-06-01,Bay of Fundy,8.171
+2020-06-01,Scotian Shelf,6.958
+2020-06-01,Gulf of St. Lawrence,6.494
+2020-07-01,Bay of Fundy,13.287
+2020-07-01,Scotian Shelf,14.252
+2020-07-01,Gulf of St. Lawrence,15.306
+2020-08-01,Bay of Fundy,16.098
+2020-08-01,Scotian Shelf,18.166
+2020-08-01,Gulf of St. Lawrence,17.818
+2020-09-01,Bay of Fundy,14.024
+2020-09-01,Scotian Shelf,16.631
+2020-09-01,Gulf of St. Lawrence,13.503
+2020-10-01,Bay of Fundy,13.648
+2020-10-01,Scotian Shelf,16.396
+2020-10-01,Gulf of St. Lawrence,11.392
+2020-11-01,Bay of Fundy,11.278
+2020-11-01,Scotian Shelf,12.672
+2020-11-01,Gulf of St. Lawrence,6.427
+2020-12-01,Bay of Fundy,9.211
+2020-12-01,Scotian Shelf,10.4
+2020-12-01,Gulf of St. Lawrence,3.931
+2021-01-01,Bay of Fundy,6.237
+2021-01-01,Scotian Shelf,6.794
+2021-01-01,Gulf of St. Lawrence,1.443
+2021-02-01,Bay of Fundy,4.968
+2021-02-01,Scotian Shelf,4.254
+2021-02-01,Gulf of St. Lawrence,-0.019
+2021-03-01,Bay of Fundy,3.632
+2021-03-01,Scotian Shelf,3.538
+2021-03-01,Gulf of St. Lawrence,-0.265
+2021-04-01,Bay of Fundy,3.712
+2021-04-01,Scotian Shelf,2.88
+2021-04-01,Gulf of St. Lawrence,-0.053
+2021-05-01,Bay of Fundy,5.642
+2021-05-01,Scotian Shelf,5.338
+2021-05-01,Gulf of St. Lawrence,2.109
+2021-06-01,Bay of Fundy,8.523
+2021-06-01,Scotian Shelf,8.341
+2021-06-01,Gulf of St. Lawrence,7.083
+2021-07-01,Bay of Fundy,13.256
+2021-07-01,Scotian Shelf,14.686
+2021-07-01,Gulf of St. Lawrence,13.386
+2021-08-01,Bay of Fundy,14.036
+2021-08-01,Scotian Shelf,16.668
+2021-08-01,Gulf of St. Lawrence,15.864
+2021-09-01,Bay of Fundy,17.102
+2021-09-01,Scotian Shelf,19.535
+2021-09-01,Gulf of St. Lawrence,17.349
+2021-10-01,Bay of Fundy,15.029
+2021-10-01,Scotian Shelf,16.961
+2021-10-01,Gulf of St. Lawrence,13.232
+2021-11-01,Bay of Fundy,12.776
+2021-11-01,Scotian Shelf,12.893
+2021-11-01,Gulf of St. Lawrence,9.867
+2021-12-01,Bay of Fundy,9.403
+2021-12-01,Scotian Shelf,9.197
+2021-12-01,Gulf of St. Lawrence,5.321
+2022-01-01,Bay of Fundy,6.527
+2022-01-01,Scotian Shelf,5.805
+2022-01-01,Gulf of St. Lawrence,1.82
+2022-02-01,Bay of Fundy,3.55
+2022-02-01,Scotian Shelf,3.291
+2022-02-01,Gulf of St. Lawrence,-0.463
+2022-03-01,Bay of Fundy,2.78
+2022-03-01,Scotian Shelf,2.607
+2022-03-01,Gulf of St. Lawrence,-1.209
+2022-04-01,Bay of Fundy,3.25
+2022-04-01,Scotian Shelf,2.694
+2022-04-01,Gulf of St. Lawrence,-0.569
+2022-05-01,Bay of Fundy,4.804
+2022-05-01,Scotian Shelf,4.059
+2022-05-01,Gulf of St. Lawrence,1.059
+2022-06-01,Bay of Fundy,9.329
+2022-06-01,Scotian Shelf,8.742
+2022-06-01,Gulf of St. Lawrence,6.814
+2022-07-01,Bay of Fundy,12.643
+2022-07-01,Scotian Shelf,14.588
+2022-07-01,Gulf of St. Lawrence,13.601
+2022-08-01,Bay of Fundy,14.468
+2022-08-01,Scotian Shelf,17.925
+2022-08-01,Gulf of St. Lawrence,16.879
+2022-09-01,Bay of Fundy,16.096
+2022-09-01,Scotian Shelf,20.461
+2022-09-01,Gulf of St. Lawrence,18.357
+2022-10-01,Bay of Fundy,13.792
+2022-10-01,Scotian Shelf,14.843
+2022-10-01,Gulf of St. Lawrence,11.167
+2022-11-01,Bay of Fundy,13.065
+2022-11-01,Scotian Shelf,13.756
+2022-11-01,Gulf of St. Lawrence,9.07
+2022-12-01,Bay of Fundy,8.996
+2022-12-01,Scotian Shelf,9.272
+2022-12-01,Gulf of St. Lawrence,3.818
+2023-01-01,Bay of Fundy,6.259
+2023-01-01,Scotian Shelf,6.826
+2023-01-01,Gulf of St. Lawrence,1.851
+2023-02-01,Bay of Fundy,5.07
+2023-02-01,Scotian Shelf,5.285
+2023-02-01,Gulf of St. Lawrence,0.35
+2023-03-01,Bay of Fundy,3.562
+2023-03-01,Scotian Shelf,3.817
+2023-03-01,Gulf of St. Lawrence,-1.061
+2023-04-01,Bay of Fundy,3.665
+2023-04-01,Scotian Shelf,2.958
+2023-04-01,Gulf of St. Lawrence,0.42
+2023-05-01,Bay of Fundy,6.45
+2023-05-01,Scotian Shelf,5.106
+2023-05-01,Gulf of St. Lawrence,4.169
+2023-06-01,Bay of Fundy,9.361
+2023-06-01,Scotian Shelf,8.34
+2023-06-01,Gulf of St. Lawrence,6.875
+2023-07-01,Bay of Fundy,11.677
+2023-07-01,Scotian Shelf,12.76
+2023-07-01,Gulf of St. Lawrence,11.569
+2023-08-01,Bay of Fundy,15.244
+2023-08-01,Scotian Shelf,18.594
+2023-08-01,Gulf of St. Lawrence,18.016
+2023-09-01,Bay of Fundy,14.915
+2023-09-01,Scotian Shelf,18.483
+2023-09-01,Gulf of St. Lawrence,15.874
+2023-10-01,Bay of Fundy,13.351
+2023-10-01,Scotian Shelf,15.971
+2023-10-01,Gulf of St. Lawrence,14.218
+2023-11-01,Bay of Fundy,11.585
+2023-11-01,Scotian Shelf,12.045
+2023-11-01,Gulf of St. Lawrence,9.282
+2023-12-01,Bay of Fundy,8.37
+2023-12-01,Scotian Shelf,8.608
+2023-12-01,Gulf of St. Lawrence,4.724
+2024-01-01,Bay of Fundy,5.345
+2024-01-01,Scotian Shelf,5.09
+2024-01-01,Gulf of St. Lawrence,1.529
+2024-02-01,Bay of Fundy,3.197
+2024-02-01,Scotian Shelf,2.727
+2024-02-01,Gulf of St. Lawrence,0.13
+2024-03-01,Bay of Fundy,2.494
+2024-03-01,Scotian Shelf,1.618
+2024-03-01,Gulf of St. Lawrence,-0.58
+2024-04-01,Bay of Fundy,3.456
+2024-04-01,Scotian Shelf,2.561
+2024-04-01,Gulf of St. Lawrence,0.455
+2024-05-01,Bay of Fundy,6.028
+2024-05-01,Scotian Shelf,4.351
+2024-05-01,Gulf of St. Lawrence,2.041
+2024-06-01,Bay of Fundy,9.526
+2024-06-01,Scotian Shelf,8.821
+2024-06-01,Gulf of St. Lawrence,7.763
+2024-07-01,Bay of Fundy,11.089
+2024-07-01,Scotian Shelf,12.98
+2024-07-01,Gulf of St. Lawrence,13.133
+2024-08-01,Bay of Fundy,14.384
+2024-08-01,Scotian Shelf,18.53
+2024-08-01,Gulf of St. Lawrence,17.377
+2024-09-01,Bay of Fundy,14.926
+2024-09-01,Scotian Shelf,18.644
+2024-09-01,Gulf of St. Lawrence,15.961
+2024-10-01,Bay of Fundy,14.369
+2024-10-01,Scotian Shelf,16.6
+2024-10-01,Gulf of St. Lawrence,14.53
+2024-11-01,Bay of Fundy,11.332
+2024-11-01,Scotian Shelf,11.999
+2024-11-01,Gulf of St. Lawrence,7.941
+2024-12-01,Bay of Fundy,8.237
+2024-12-01,Scotian Shelf,8.528
+2024-12-01,Gulf of St. Lawrence,4.595
+2025-01-01,Bay of Fundy,5.021
+2025-01-01,Scotian Shelf,5.149
+2025-01-01,Gulf of St. Lawrence,2.028
+2025-02-01,Bay of Fundy,3.434
+2025-02-01,Scotian Shelf,3.182
+2025-02-01,Gulf of St. Lawrence,0.443
+2025-03-01,Bay of Fundy,1.884
+2025-03-01,Scotian Shelf,1.482
+2025-03-01,Gulf of St. Lawrence,-0.677
+2025-04-01,Bay of Fundy,2.795
+2025-04-01,Scotian Shelf,2.278
+2025-04-01,Gulf of St. Lawrence,0.252
+2025-05-01,Bay of Fundy,5.008
+2025-05-01,Scotian Shelf,4.16
+2025-05-01,Gulf of St. Lawrence,2.07
+2025-06-01,Bay of Fundy,7.458
+2025-06-01,Scotian Shelf,7.326
+2025-06-01,Gulf of St. Lawrence,6.064
+2025-07-01,Bay of Fundy,11.642
+2025-07-01,Scotian Shelf,13.111
+2025-07-01,Gulf of St. Lawrence,11.817
+2025-08-01,Bay of Fundy,14.169
+2025-08-01,Scotian Shelf,17.503
+2025-08-01,Gulf of St. Lawrence,15.191
+2025-09-01,Bay of Fundy,15.094
+2025-09-01,Scotian Shelf,17.954
+2025-09-01,Gulf of St. Lawrence,16.689
+2025-10-01,Bay of Fundy,14.349
+2025-10-01,Scotian Shelf,17.036
+2025-10-01,Gulf of St. Lawrence,11.999
+2025-11-01,Bay of Fundy,11.802
+2025-11-01,Scotian Shelf,14.072
+2025-11-01,Gulf of St. Lawrence,9.491
+2025-12-01,Bay of Fundy,8.341
+2025-12-01,Scotian Shelf,8.579
+2025-12-01,Gulf of St. Lawrence,4.678
+2026-01-01,Bay of Fundy,4.261
+2026-01-01,Scotian Shelf,4.901
+2026-01-01,Gulf of St. Lawrence,0.676
+2026-02-01,Bay of Fundy,2.998
+2026-02-01,Scotian Shelf,3.22
+2026-02-01,Gulf of St. Lawrence,-0.489
+2026-03-01,Bay of Fundy,2.182
+2026-03-01,Scotian Shelf,3.049
+2026-03-01,Gulf of St. Lawrence,-0.733
+2026-04-01,Bay of Fundy,1.888
+2026-04-01,Scotian Shelf,1.956
+2026-04-01,Gulf of St. Lawrence,-0.601
+2026-05-01,Bay of Fundy,4.628
+2026-05-01,Scotian Shelf,3.891
+2026-05-01,Gulf of St. Lawrence,2.154
+1981-09-02,Bay of Fundy,12.869
+1981-09-02,Scotian Shelf,17.276
+1981-09-02,Gulf of St. Lawrence,14.939
+1981-10-02,Bay of Fundy,12.154
+1981-10-02,Scotian Shelf,13.533
+1981-10-02,Gulf of St. Lawrence,10.745
+1981-11-02,Bay of Fundy,10.264
+1981-11-02,Scotian Shelf,10.96
+1981-11-02,Gulf of St. Lawrence,6.573
+1981-12-02,Bay of Fundy,7.204
+1981-12-02,Scotian Shelf,7.309
+1981-12-02,Gulf of St. Lawrence,3.936
+1982-01-02,Bay of Fundy,4.258
+1982-01-02,Scotian Shelf,4.7
+1982-01-02,Gulf of St. Lawrence,1.397
+1982-02-02,Bay of Fundy,2.662
+1982-02-02,Scotian Shelf,2.442
+1982-02-02,Gulf of St. Lawrence,-0.151
+1982-03-02,Bay of Fundy,1.733
+1982-03-02,Scotian Shelf,1.162
+1982-03-02,Gulf of St. Lawrence,-0.395
+1982-04-02,Bay of Fundy,1.734
+1982-04-02,Scotian Shelf,1.29
+1982-04-02,Gulf of St. Lawrence,-0.339
+1982-05-02,Bay of Fundy,2.614
+1982-05-02,Scotian Shelf,3.344
+1982-05-02,Gulf of St. Lawrence,0.93
+1982-06-02,Bay of Fundy,7.915
+1982-06-02,Scotian Shelf,7.636
+1982-06-02,Gulf of St. Lawrence,6.03
+1982-07-02,Bay of Fundy,9.562
+1982-07-02,Scotian Shelf,9.996
+1982-07-02,Gulf of St. Lawrence,10.147
+1982-08-02,Bay of Fundy,13.349
+1982-08-02,Scotian Shelf,15.044
+1982-08-02,Gulf of St. Lawrence,14.045
+1982-09-02,Bay of Fundy,13.209
+1982-09-02,Scotian Shelf,15.78
+1982-09-02,Gulf of St. Lawrence,13.014
+1982-10-02,Bay of Fundy,12.681
+1982-10-02,Scotian Shelf,15.164
+1982-10-02,Gulf of St. Lawrence,10.479
+1982-11-02,Bay of Fundy,10.324
+1982-11-02,Scotian Shelf,10.894
+1982-11-02,Gulf of St. Lawrence,7.116
+1982-12-02,Bay of Fundy,7.877
+1982-12-02,Scotian Shelf,7.1
+1982-12-02,Gulf of St. Lawrence,2.721
+1983-01-02,Bay of Fundy,4.519
+1983-01-02,Scotian Shelf,5.232
+1983-01-02,Gulf of St. Lawrence,1.078
+1983-02-02,Bay of Fundy,3.157
+1983-02-02,Scotian Shelf,3.47
+1983-02-02,Gulf of St. Lawrence,0.042
+1983-03-02,Bay of Fundy,1.603
+1983-03-02,Scotian Shelf,2.353
+1983-03-02,Gulf of St. Lawrence,-0.488
+1983-04-02,Bay of Fundy,1.836
+1983-04-02,Scotian Shelf,2.376
+1983-04-02,Gulf of St. Lawrence,-0.213
+1983-05-02,Bay of Fundy,2.751
+1983-05-02,Scotian Shelf,4.82
+1983-05-02,Gulf of St. Lawrence,2.167
+1983-06-02,Bay of Fundy,5.057
+1983-06-02,Scotian Shelf,7.619
+1983-06-02,Gulf of St. Lawrence,5.534
+1983-07-02,Bay of Fundy,13.512
+1983-07-02,Scotian Shelf,14.179
+1983-07-02,Gulf of St. Lawrence,12.779
+1983-08-02,Bay of Fundy,16.198
+1983-08-02,Scotian Shelf,17.138
+1983-08-02,Gulf of St. Lawrence,14.927
+1983-09-02,Bay of Fundy,13.65
+1983-09-02,Scotian Shelf,16.137
+1983-09-02,Gulf of St. Lawrence,13.868
+1983-10-02,Bay of Fundy,13.403
+1983-10-02,Scotian Shelf,14.87
+1983-10-02,Gulf of St. Lawrence,12.249
+1983-11-02,Bay of Fundy,10.682
+1983-11-02,Scotian Shelf,10.74
+1983-11-02,Gulf of St. Lawrence,7.259
+1983-12-02,Bay of Fundy,7.8
+1983-12-02,Scotian Shelf,7.13
+1983-12-02,Gulf of St. Lawrence,3.396
+1984-01-02,Bay of Fundy,3.644
+1984-01-02,Scotian Shelf,3.639
+1984-01-02,Gulf of St. Lawrence,-0.023
+1984-02-02,Bay of Fundy,2.932
+1984-02-02,Scotian Shelf,2.469
+1984-02-02,Gulf of St. Lawrence,-0.198
+1984-03-02,Bay of Fundy,1.725
+1984-03-02,Scotian Shelf,2.275
+1984-03-02,Gulf of St. Lawrence,-0.23
+1984-04-02,Bay of Fundy,2.575
+1984-04-02,Scotian Shelf,2.835
+1984-04-02,Gulf of St. Lawrence,-0.287
+1984-05-02,Bay of Fundy,3.1
+1984-05-02,Scotian Shelf,4.322
+1984-05-02,Gulf of St. Lawrence,2.081
+1984-06-02,Bay of Fundy,4.586
+1984-06-02,Scotian Shelf,8.132
+1984-06-02,Gulf of St. Lawrence,5.717
+1984-07-02,Bay of Fundy,10.899
+1984-07-02,Scotian Shelf,12.286
+1984-07-02,Gulf of St. Lawrence,11.942
+1984-08-02,Bay of Fundy,12.782
+1984-08-02,Scotian Shelf,16.616
+1984-08-02,Gulf of St. Lawrence,15.318
+1984-09-02,Bay of Fundy,13.505
+1984-09-02,Scotian Shelf,17.693
+1984-09-02,Gulf of St. Lawrence,16.186
+1984-10-02,Bay of Fundy,12.302
+1984-10-02,Scotian Shelf,14.231
+1984-10-02,Gulf of St. Lawrence,9.01
+1984-11-02,Bay of Fundy,10.995
+1984-11-02,Scotian Shelf,10.707
+1984-11-02,Gulf of St. Lawrence,5.5
+1984-12-02,Bay of Fundy,8.042
+1984-12-02,Scotian Shelf,6.935
+1984-12-02,Gulf of St. Lawrence,3.184
+1985-01-02,Bay of Fundy,4.099
+1985-01-02,Scotian Shelf,4.817
+1985-01-02,Gulf of St. Lawrence,0.327
+1985-02-02,Bay of Fundy,2.492
+1985-02-02,Scotian Shelf,1.578
+1985-02-02,Gulf of St. Lawrence,-0.152
+1985-03-02,Bay of Fundy,1.801
+1985-03-02,Scotian Shelf,1.647
+1985-03-02,Gulf of St. Lawrence,-0.632
+1985-04-02,Bay of Fundy,1.721
+1985-04-02,Scotian Shelf,1.52
+1985-04-02,Gulf of St. Lawrence,-0.585
+1985-05-02,Bay of Fundy,3.107
+1985-05-02,Scotian Shelf,2.524
+1985-05-02,Gulf of St. Lawrence,1.243
+1985-06-02,Bay of Fundy,5.737
+1985-06-02,Scotian Shelf,6.464
+1985-06-02,Gulf of St. Lawrence,6.108
+1985-07-02,Bay of Fundy,9.226
+1985-07-02,Scotian Shelf,10.218
+1985-07-02,Gulf of St. Lawrence,11.39
+1985-08-02,Bay of Fundy,12.276
+1985-08-02,Scotian Shelf,14.652
+1985-08-02,Gulf of St. Lawrence,15.239
+1985-09-02,Bay of Fundy,12.466
+1985-09-02,Scotian Shelf,15.204
+1985-09-02,Gulf of St. Lawrence,15.163
+1985-10-02,Bay of Fundy,13.03
+1985-10-02,Scotian Shelf,14.73
+1985-10-02,Gulf of St. Lawrence,11.784
+1985-11-02,Bay of Fundy,9.282
+1985-11-02,Scotian Shelf,9.365
+1985-11-02,Gulf of St. Lawrence,5.452
+1985-12-02,Bay of Fundy,6.501
+1985-12-02,Scotian Shelf,5.793
+1985-12-02,Gulf of St. Lawrence,1.722
+1986-01-02,Bay of Fundy,3.023
+1986-01-02,Scotian Shelf,3.196
+1986-01-02,Gulf of St. Lawrence,-0.576
+1986-02-02,Bay of Fundy,2.233
+1986-02-02,Scotian Shelf,1.858
+1986-02-02,Gulf of St. Lawrence,-0.436
+1986-03-02,Bay of Fundy,1.443
+1986-03-02,Scotian Shelf,1.424
+1986-03-02,Gulf of St. Lawrence,-0.648
+1986-04-02,Bay of Fundy,2.407
+1986-04-02,Scotian Shelf,2.004
+1986-04-02,Gulf of St. Lawrence,-0.239
+1986-05-02,Bay of Fundy,3.672
+1986-05-02,Scotian Shelf,4.427
+1986-05-02,Gulf of St. Lawrence,2.827
+1986-06-02,Bay of Fundy,6.55
+1986-06-02,Scotian Shelf,7.247
+1986-06-02,Gulf of St. Lawrence,6.965
+1986-07-02,Bay of Fundy,9.941
+1986-07-02,Scotian Shelf,10.769
+1986-07-02,Gulf of St. Lawrence,10.212
+1986-08-02,Bay of Fundy,12.959
+1986-08-02,Scotian Shelf,15.998
+1986-08-02,Gulf of St. Lawrence,13.829
+1986-09-02,Bay of Fundy,12.931
+1986-09-02,Scotian Shelf,15.602
+1986-09-02,Gulf of St. Lawrence,14.068
+1986-10-02,Bay of Fundy,12.532
+1986-10-02,Scotian Shelf,13.304
+1986-10-02,Gulf of St. Lawrence,10.594
+1986-11-02,Bay of Fundy,9.181
+1986-11-02,Scotian Shelf,9.96
+1986-11-02,Gulf of St. Lawrence,5.522
+1986-12-02,Bay of Fundy,7.2
+1986-12-02,Scotian Shelf,6.464
+1986-12-02,Gulf of St. Lawrence,2.123
+1987-01-02,Bay of Fundy,3.987
+1987-01-02,Scotian Shelf,3.815
+1987-01-02,Gulf of St. Lawrence,-0.156
+1987-02-02,Bay of Fundy,2.266
+1987-02-02,Scotian Shelf,2.224
+1987-02-02,Gulf of St. Lawrence,-0.633
+1987-03-02,Bay of Fundy,1.091
+1987-03-02,Scotian Shelf,1.352
+1987-03-02,Gulf of St. Lawrence,-0.536
+1987-04-02,Bay of Fundy,1.079
+1987-04-02,Scotian Shelf,1.97
+1987-04-02,Gulf of St. Lawrence,-0.061
+1987-05-02,Bay of Fundy,2.681
+1987-05-02,Scotian Shelf,3.055
+1987-05-02,Gulf of St. Lawrence,1.409
+1987-06-02,Bay of Fundy,7.614
+1987-06-02,Scotian Shelf,7.444
+1987-06-02,Gulf of St. Lawrence,7.589
+1987-07-02,Bay of Fundy,10.146
+1987-07-02,Scotian Shelf,11.396
+1987-07-02,Gulf of St. Lawrence,12.047
+1987-08-02,Bay of Fundy,12.832
+1987-08-02,Scotian Shelf,16.821
+1987-08-02,Gulf of St. Lawrence,15.408
+1987-09-02,Bay of Fundy,12.727
+1987-09-02,Scotian Shelf,16.266
+1987-09-02,Gulf of St. Lawrence,13.543
+1987-10-02,Bay of Fundy,11.866
+1987-10-02,Scotian Shelf,14.125
+1987-10-02,Gulf of St. Lawrence,10.534
+1987-11-02,Bay of Fundy,9.665
+1987-11-02,Scotian Shelf,10.718
+1987-11-02,Gulf of St. Lawrence,6.566
+1987-12-02,Bay of Fundy,5.939
+1987-12-02,Scotian Shelf,7.256
+1987-12-02,Gulf of St. Lawrence,2.57
+1988-01-02,Bay of Fundy,4.069
+1988-01-02,Scotian Shelf,3.87
+1988-01-02,Gulf of St. Lawrence,0.153
+1988-02-02,Bay of Fundy,2.104
+1988-02-02,Scotian Shelf,2.112
+1988-02-02,Gulf of St. Lawrence,-0.253
+1988-03-02,Bay of Fundy,1.984
+1988-03-02,Scotian Shelf,1.937
+1988-03-02,Gulf of St. Lawrence,-0.454
+1988-04-02,Bay of Fundy,2.7
+1988-04-02,Scotian Shelf,2.727
+1988-04-02,Gulf of St. Lawrence,-0.063
+1988-05-02,Bay of Fundy,2.174
+1988-05-02,Scotian Shelf,3.628
+1988-05-02,Gulf of St. Lawrence,1.773
+1988-06-02,Bay of Fundy,6.242
+1988-06-02,Scotian Shelf,6.993
+1988-06-02,Gulf of St. Lawrence,5.713
+1988-07-02,Bay of Fundy,9.471
+1988-07-02,Scotian Shelf,10.431
+1988-07-02,Gulf of St. Lawrence,10.352
+1988-08-02,Bay of Fundy,14.822
+1988-08-02,Scotian Shelf,16.113
+1988-08-02,Gulf of St. Lawrence,16.642
+1988-09-02,Bay of Fundy,12.933
+1988-09-02,Scotian Shelf,16.755
+1988-09-02,Gulf of St. Lawrence,15.527
+1988-10-02,Bay of Fundy,11.809
+1988-10-02,Scotian Shelf,13.233
+1988-10-02,Gulf of St. Lawrence,9.531
+1988-11-02,Bay of Fundy,9.289
+1988-11-02,Scotian Shelf,10.252
+1988-11-02,Gulf of St. Lawrence,5.749
+1988-12-02,Bay of Fundy,6.927
+1988-12-02,Scotian Shelf,6.133
+1988-12-02,Gulf of St. Lawrence,2.609
+1989-01-02,Bay of Fundy,3.668
+1989-01-02,Scotian Shelf,3.655
+1989-01-02,Gulf of St. Lawrence,0.089
+1989-02-02,Bay of Fundy,2.089
+1989-02-02,Scotian Shelf,2.218
+1989-02-02,Gulf of St. Lawrence,-0.492
+1989-03-02,Bay of Fundy,1.401
+1989-03-02,Scotian Shelf,1.358
+1989-03-02,Gulf of St. Lawrence,-0.743
+1989-04-02,Bay of Fundy,1.59
+1989-04-02,Scotian Shelf,1.771
+1989-04-02,Gulf of St. Lawrence,-0.416
+1989-05-02,Bay of Fundy,3.352
+1989-05-02,Scotian Shelf,4.07
+1989-05-02,Gulf of St. Lawrence,2.566
+1989-06-02,Bay of Fundy,7.943
+1989-06-02,Scotian Shelf,8.954
+1989-06-02,Gulf of St. Lawrence,8.241
+1989-07-02,Bay of Fundy,11.804
+1989-07-02,Scotian Shelf,12.935
+1989-07-02,Gulf of St. Lawrence,13.704
+1989-08-02,Bay of Fundy,13.67
+1989-08-02,Scotian Shelf,16.675
+1989-08-02,Gulf of St. Lawrence,16.248
+1989-09-02,Bay of Fundy,12.959
+1989-09-02,Scotian Shelf,15.766
+1989-09-02,Gulf of St. Lawrence,12.548
+1989-10-02,Bay of Fundy,11.815
+1989-10-02,Scotian Shelf,13.763
+1989-10-02,Gulf of St. Lawrence,8.972
+1989-11-02,Bay of Fundy,10.132
+1989-11-02,Scotian Shelf,10.999
+1989-11-02,Gulf of St. Lawrence,6.369
+1989-12-02,Bay of Fundy,6.344
+1989-12-02,Scotian Shelf,6.531
+1989-12-02,Gulf of St. Lawrence,1.837
+1990-01-02,Bay of Fundy,3.415
+1990-01-02,Scotian Shelf,3.043
+1990-01-02,Gulf of St. Lawrence,-0.176
+1990-02-02,Bay of Fundy,2.242
+1990-02-02,Scotian Shelf,2.071
+1990-02-02,Gulf of St. Lawrence,-0.236
+1990-03-02,Bay of Fundy,1.748
+1990-03-02,Scotian Shelf,1.569
+1990-03-02,Gulf of St. Lawrence,-0.682
+1990-04-02,Bay of Fundy,1.41
+1990-04-02,Scotian Shelf,1.782
+1990-04-02,Gulf of St. Lawrence,-0.125
+1990-05-02,Bay of Fundy,3.794
+1990-05-02,Scotian Shelf,4.198
+1990-05-02,Gulf of St. Lawrence,2.021
+1990-06-02,Bay of Fundy,6.271
+1990-06-02,Scotian Shelf,6.01
+1990-06-02,Gulf of St. Lawrence,4.295
+1990-07-02,Bay of Fundy,10.482
+1990-07-02,Scotian Shelf,11.428
+1990-07-02,Gulf of St. Lawrence,12.235
+1990-08-02,Bay of Fundy,14.402
+1990-08-02,Scotian Shelf,15.906
+1990-08-02,Gulf of St. Lawrence,15.465
+1990-09-02,Bay of Fundy,16.3
+1990-09-02,Scotian Shelf,18.757
+1990-09-02,Gulf of St. Lawrence,15.792
+1990-10-02,Bay of Fundy,12.849
+1990-10-02,Scotian Shelf,15.4
+1990-10-02,Gulf of St. Lawrence,11.138
+1990-11-02,Bay of Fundy,10.028
+1990-11-02,Scotian Shelf,10.12
+1990-11-02,Gulf of St. Lawrence,5.683
+1990-12-02,Bay of Fundy,6.959
+1990-12-02,Scotian Shelf,6.48
+1990-12-02,Gulf of St. Lawrence,2.538
+1991-01-02,Bay of Fundy,3.764
+1991-01-02,Scotian Shelf,4.503
+1991-01-02,Gulf of St. Lawrence,-0.191
+1991-02-02,Bay of Fundy,2.308
+1991-02-02,Scotian Shelf,2.022
+1991-02-02,Gulf of St. Lawrence,-0.68
+1991-03-02,Bay of Fundy,1.613
+1991-03-02,Scotian Shelf,1.364
+1991-03-02,Gulf of St. Lawrence,-0.532
+1991-04-02,Bay of Fundy,2.205
+1991-04-02,Scotian Shelf,2.507
+1991-04-02,Gulf of St. Lawrence,-0.666
+1991-05-02,Bay of Fundy,2.828
+1991-05-02,Scotian Shelf,3.58
+1991-05-02,Gulf of St. Lawrence,1.787
+1991-06-02,Bay of Fundy,7.649
+1991-06-02,Scotian Shelf,7.072
+1991-06-02,Gulf of St. Lawrence,6.065
+1991-07-02,Bay of Fundy,11.837
+1991-07-02,Scotian Shelf,11.726
+1991-07-02,Gulf of St. Lawrence,10.217
+1991-08-02,Bay of Fundy,14.889
+1991-08-02,Scotian Shelf,16.303
+1991-08-02,Gulf of St. Lawrence,15.745
+1991-09-02,Bay of Fundy,12.741
+1991-09-02,Scotian Shelf,16.146
+1991-09-02,Gulf of St. Lawrence,13.399
+1991-10-02,Bay of Fundy,11.748
+1991-10-02,Scotian Shelf,13.434
+1991-10-02,Gulf of St. Lawrence,10.259
+1991-11-02,Bay of Fundy,10.118
+1991-11-02,Scotian Shelf,10.753
+1991-11-02,Gulf of St. Lawrence,7.191
+1991-12-02,Bay of Fundy,7.586
+1991-12-02,Scotian Shelf,7.689
+1991-12-02,Gulf of St. Lawrence,3.793
+1992-01-02,Bay of Fundy,4.013
+1992-01-02,Scotian Shelf,4.198
+1992-01-02,Gulf of St. Lawrence,0.361
+1992-02-02,Bay of Fundy,1.839
+1992-02-02,Scotian Shelf,1.997
+1992-02-02,Gulf of St. Lawrence,-0.235
+1992-03-02,Bay of Fundy,1.338
+1992-03-02,Scotian Shelf,1.191
+1992-03-02,Gulf of St. Lawrence,-0.655
+1992-04-02,Bay of Fundy,1.179
+1992-04-02,Scotian Shelf,1.782
+1992-04-02,Gulf of St. Lawrence,-0.069
+1992-05-02,Bay of Fundy,2.464
+1992-05-02,Scotian Shelf,2.945
+1992-05-02,Gulf of St. Lawrence,1.301
+1992-06-02,Bay of Fundy,5.531
+1992-06-02,Scotian Shelf,7.369
+1992-06-02,Gulf of St. Lawrence,6.805
+1992-07-02,Bay of Fundy,10.179
+1992-07-02,Scotian Shelf,11.583
+1992-07-02,Gulf of St. Lawrence,11.479
+1992-08-02,Bay of Fundy,12.98
+1992-08-02,Scotian Shelf,15.475
+1992-08-02,Gulf of St. Lawrence,13.703
+1992-09-02,Bay of Fundy,12.858
+1992-09-02,Scotian Shelf,16.781
+1992-09-02,Gulf of St. Lawrence,13.756
+1992-10-02,Bay of Fundy,11.0
+1992-10-02,Scotian Shelf,14.192
+1992-10-02,Gulf of St. Lawrence,10.842
+1992-11-02,Bay of Fundy,8.814
+1992-11-02,Scotian Shelf,10.644
+1992-11-02,Gulf of St. Lawrence,5.947
+1992-12-02,Bay of Fundy,6.91
+1992-12-02,Scotian Shelf,7.524
+1992-12-02,Gulf of St. Lawrence,2.538
+1993-01-02,Bay of Fundy,3.816
+1993-01-02,Scotian Shelf,4.314
+1993-01-02,Gulf of St. Lawrence,-0.259
+1993-02-02,Bay of Fundy,2.427
+1993-02-02,Scotian Shelf,2.317
+1993-02-02,Gulf of St. Lawrence,-0.703
+1993-03-02,Bay of Fundy,1.392
+1993-03-02,Scotian Shelf,2.1
+1993-03-02,Gulf of St. Lawrence,-0.935
+1993-04-02,Bay of Fundy,1.081
+1993-04-02,Scotian Shelf,2.276
+1993-04-02,Gulf of St. Lawrence,-0.585
+1993-05-02,Bay of Fundy,2.615
+1993-05-02,Scotian Shelf,3.745
+1993-05-02,Gulf of St. Lawrence,1.207
+1993-06-02,Bay of Fundy,5.173
+1993-06-02,Scotian Shelf,6.54
+1993-06-02,Gulf of St. Lawrence,5.13
+1993-07-02,Bay of Fundy,9.337
+1993-07-02,Scotian Shelf,10.813
+1993-07-02,Gulf of St. Lawrence,10.625
+1993-08-02,Bay of Fundy,14.687
+1993-08-02,Scotian Shelf,16.434
+1993-08-02,Gulf of St. Lawrence,15.2
+1993-09-02,Bay of Fundy,14.123
+1993-09-02,Scotian Shelf,17.105
+1993-09-02,Gulf of St. Lawrence,14.801
+1993-10-02,Bay of Fundy,11.784
+1993-10-02,Scotian Shelf,14.665
+1993-10-02,Gulf of St. Lawrence,10.335
+1993-11-02,Bay of Fundy,9.387
+1993-11-02,Scotian Shelf,10.567
+1993-11-02,Gulf of St. Lawrence,5.399
+1993-12-02,Bay of Fundy,6.778
+1993-12-02,Scotian Shelf,7.184
+1993-12-02,Gulf of St. Lawrence,2.103
+1994-01-02,Bay of Fundy,3.225
+1994-01-02,Scotian Shelf,3.964
+1994-01-02,Gulf of St. Lawrence,-0.027
+1994-02-02,Bay of Fundy,2.432
+1994-02-02,Scotian Shelf,2.16
+1994-02-02,Gulf of St. Lawrence,-0.537
+1994-03-02,Bay of Fundy,1.612
+1994-03-02,Scotian Shelf,1.117
+1994-03-02,Gulf of St. Lawrence,-0.67
+1994-04-02,Bay of Fundy,1.896
+1994-04-02,Scotian Shelf,1.871
+1994-04-02,Gulf of St. Lawrence,-0.389
+1994-05-02,Bay of Fundy,3.899
+1994-05-02,Scotian Shelf,4.11
+1994-05-02,Gulf of St. Lawrence,1.594
+1994-06-02,Bay of Fundy,6.622
+1994-06-02,Scotian Shelf,6.664
+1994-06-02,Gulf of St. Lawrence,4.964
+1994-07-02,Bay of Fundy,12.798
+1994-07-02,Scotian Shelf,14.383
+1994-07-02,Gulf of St. Lawrence,12.721
+1994-08-02,Bay of Fundy,16.603
+1994-08-02,Scotian Shelf,19.401
+1994-08-02,Gulf of St. Lawrence,16.648
+1994-09-02,Bay of Fundy,13.755
+1994-09-02,Scotian Shelf,17.118
+1994-09-02,Gulf of St. Lawrence,13.182
+1994-10-02,Bay of Fundy,12.138
+1994-10-02,Scotian Shelf,14.203
+1994-10-02,Gulf of St. Lawrence,10.477
+1994-11-02,Bay of Fundy,10.481
+1994-11-02,Scotian Shelf,10.925
+1994-11-02,Gulf of St. Lawrence,7.6
+1994-12-02,Bay of Fundy,7.555
+1994-12-02,Scotian Shelf,6.38
+1994-12-02,Gulf of St. Lawrence,2.814
+1995-01-02,Bay of Fundy,2.759
+1995-01-02,Scotian Shelf,3.553
+1995-01-02,Gulf of St. Lawrence,-0.081
+1995-02-02,Bay of Fundy,2.264
+1995-02-02,Scotian Shelf,2.963
+1995-02-02,Gulf of St. Lawrence,0.008
+1995-03-02,Bay of Fundy,1.871
+1995-03-02,Scotian Shelf,2.065
+1995-03-02,Gulf of St. Lawrence,-0.762
+1995-04-02,Bay of Fundy,1.467
+1995-04-02,Scotian Shelf,1.994
+1995-04-02,Gulf of St. Lawrence,-0.153
+1995-05-02,Bay of Fundy,3.005
+1995-05-02,Scotian Shelf,3.282
+1995-05-02,Gulf of St. Lawrence,1.547
+1995-06-02,Bay of Fundy,5.477
+1995-06-02,Scotian Shelf,6.273
+1995-06-02,Gulf of St. Lawrence,6.454
+1995-07-02,Bay of Fundy,10.926
+1995-07-02,Scotian Shelf,12.462
+1995-07-02,Gulf of St. Lawrence,12.41
+1995-08-02,Bay of Fundy,14.499
+1995-08-02,Scotian Shelf,16.711
+1995-08-02,Gulf of St. Lawrence,16.793
+1995-09-02,Bay of Fundy,13.883
+1995-09-02,Scotian Shelf,15.807
+1995-09-02,Gulf of St. Lawrence,13.797
+1995-10-02,Bay of Fundy,12.172
+1995-10-02,Scotian Shelf,13.831
+1995-10-02,Gulf of St. Lawrence,10.678
+1995-11-02,Bay of Fundy,10.571
+1995-11-02,Scotian Shelf,11.423
+1995-11-02,Gulf of St. Lawrence,7.097
+1995-12-02,Bay of Fundy,7.469
+1995-12-02,Scotian Shelf,7.915
+1995-12-02,Gulf of St. Lawrence,2.792
+1996-01-02,Bay of Fundy,4.54
+1996-01-02,Scotian Shelf,4.241
+1996-01-02,Gulf of St. Lawrence,0.754
+1996-02-02,Bay of Fundy,1.866
+1996-02-02,Scotian Shelf,2.051
+1996-02-02,Gulf of St. Lawrence,-0.313
+1996-03-02,Bay of Fundy,1.638
+1996-03-02,Scotian Shelf,2.125
+1996-03-02,Gulf of St. Lawrence,-0.243
+1996-04-02,Bay of Fundy,1.988
+1996-04-02,Scotian Shelf,1.894
+1996-04-02,Gulf of St. Lawrence,-0.657
+1996-05-02,Bay of Fundy,3.488
+1996-05-02,Scotian Shelf,4.088
+1996-05-02,Gulf of St. Lawrence,1.596
+1996-06-02,Bay of Fundy,6.651
+1996-06-02,Scotian Shelf,6.941
+1996-06-02,Gulf of St. Lawrence,6.317
+1996-07-02,Bay of Fundy,10.356
+1996-07-02,Scotian Shelf,12.881
+1996-07-02,Gulf of St. Lawrence,12.615
+1996-08-02,Bay of Fundy,11.947
+1996-08-02,Scotian Shelf,14.978
+1996-08-02,Gulf of St. Lawrence,16.122
+1996-09-02,Bay of Fundy,13.086
+1996-09-02,Scotian Shelf,17.021
+1996-09-02,Gulf of St. Lawrence,15.404
+1996-10-02,Bay of Fundy,12.534
+1996-10-02,Scotian Shelf,13.136
+1996-10-02,Gulf of St. Lawrence,11.389
+1996-11-02,Bay of Fundy,9.446
+1996-11-02,Scotian Shelf,9.994
+1996-11-02,Gulf of St. Lawrence,6.886
+1996-12-02,Bay of Fundy,6.802
+1996-12-02,Scotian Shelf,7.06
+1996-12-02,Gulf of St. Lawrence,3.183
+1997-01-02,Bay of Fundy,3.698
+1997-01-02,Scotian Shelf,4.276
+1997-01-02,Gulf of St. Lawrence,0.565
+1997-02-02,Bay of Fundy,2.448
+1997-02-02,Scotian Shelf,3.007
+1997-02-02,Gulf of St. Lawrence,-0.214
+1997-03-02,Bay of Fundy,2.073
+1997-03-02,Scotian Shelf,1.972
+1997-03-02,Gulf of St. Lawrence,-0.593
+1997-04-02,Bay of Fundy,1.627
+1997-04-02,Scotian Shelf,2.011
+1997-04-02,Gulf of St. Lawrence,-0.339
+1997-05-02,Bay of Fundy,2.323
+1997-05-02,Scotian Shelf,3.017
+1997-05-02,Gulf of St. Lawrence,0.642
+1997-06-02,Bay of Fundy,7.038
+1997-06-02,Scotian Shelf,6.559
+1997-06-02,Gulf of St. Lawrence,5.294
+1997-07-02,Bay of Fundy,11.788
+1997-07-02,Scotian Shelf,11.967
+1997-07-02,Gulf of St. Lawrence,12.988
+1997-08-02,Bay of Fundy,13.666
+1997-08-02,Scotian Shelf,16.153
+1997-08-02,Gulf of St. Lawrence,15.327
+1997-09-02,Bay of Fundy,12.989
+1997-09-02,Scotian Shelf,16.415
+1997-09-02,Gulf of St. Lawrence,15.195
+1997-10-02,Bay of Fundy,11.36
+1997-10-02,Scotian Shelf,13.989
+1997-10-02,Gulf of St. Lawrence,10.762
+1997-11-02,Bay of Fundy,9.962
+1997-11-02,Scotian Shelf,9.73
+1997-11-02,Gulf of St. Lawrence,7.027
+1997-12-02,Bay of Fundy,6.751
+1997-12-02,Scotian Shelf,6.398
+1997-12-02,Gulf of St. Lawrence,2.174
+1998-01-02,Bay of Fundy,3.63
+1998-01-02,Scotian Shelf,3.551
+1998-01-02,Gulf of St. Lawrence,-0.155
+1998-02-02,Bay of Fundy,2.562
+1998-02-02,Scotian Shelf,2.117
+1998-02-02,Gulf of St. Lawrence,-0.703
+1998-03-02,Bay of Fundy,1.357
+1998-03-02,Scotian Shelf,1.77
+1998-03-02,Gulf of St. Lawrence,0.051
+1998-04-02,Bay of Fundy,2.08
+1998-04-02,Scotian Shelf,2.837
+1998-04-02,Gulf of St. Lawrence,-0.326
+1998-05-02,Bay of Fundy,4.012
+1998-05-02,Scotian Shelf,4.445
+1998-05-02,Gulf of St. Lawrence,2.711
+1998-06-02,Bay of Fundy,7.444
+1998-06-02,Scotian Shelf,8.14
+1998-06-02,Gulf of St. Lawrence,7.38
+1998-07-02,Bay of Fundy,10.86
+1998-07-02,Scotian Shelf,12.365
+1998-07-02,Gulf of St. Lawrence,12.12
+1998-08-02,Bay of Fundy,14.368
+1998-08-02,Scotian Shelf,17.664
+1998-08-02,Gulf of St. Lawrence,16.363
+1998-09-02,Bay of Fundy,14.121
+1998-09-02,Scotian Shelf,16.792
+1998-09-02,Gulf of St. Lawrence,15.145
+1998-10-02,Bay of Fundy,11.626
+1998-10-02,Scotian Shelf,14.149
+1998-10-02,Gulf of St. Lawrence,10.179
+1998-11-02,Bay of Fundy,8.817
+1998-11-02,Scotian Shelf,10.042
+1998-11-02,Gulf of St. Lawrence,5.678
+1998-12-02,Bay of Fundy,6.605
+1998-12-02,Scotian Shelf,7.032
+1998-12-02,Gulf of St. Lawrence,2.577
+1999-01-02,Bay of Fundy,2.895
+1999-01-02,Scotian Shelf,3.775
+1999-01-02,Gulf of St. Lawrence,0.083
+1999-02-02,Bay of Fundy,2.366
+1999-02-02,Scotian Shelf,2.199
+1999-02-02,Gulf of St. Lawrence,-0.494
+1999-03-02,Bay of Fundy,1.643
+1999-03-02,Scotian Shelf,2.152
+1999-03-02,Gulf of St. Lawrence,-0.238
+1999-04-02,Bay of Fundy,2.072
+1999-04-02,Scotian Shelf,2.966
+1999-04-02,Gulf of St. Lawrence,-0.327
+1999-05-02,Bay of Fundy,4.707
+1999-05-02,Scotian Shelf,4.823
+1999-05-02,Gulf of St. Lawrence,1.684
+1999-06-02,Bay of Fundy,5.565
+1999-06-02,Scotian Shelf,9.749
+1999-06-02,Gulf of St. Lawrence,7.015
+1999-07-02,Bay of Fundy,13.18
+1999-07-02,Scotian Shelf,15.238
+1999-07-02,Gulf of St. Lawrence,14.252
+1999-08-02,Bay of Fundy,15.705
+1999-08-02,Scotian Shelf,18.552
+1999-08-02,Gulf of St. Lawrence,16.917
+1999-09-02,Bay of Fundy,15.778
+1999-09-02,Scotian Shelf,18.744
+1999-09-02,Gulf of St. Lawrence,16.521
+1999-10-02,Bay of Fundy,13.712
+1999-10-02,Scotian Shelf,15.976
+1999-10-02,Gulf of St. Lawrence,12.636
+1999-11-02,Bay of Fundy,10.793
+1999-11-02,Scotian Shelf,10.385
+1999-11-02,Gulf of St. Lawrence,5.847
+1999-12-02,Bay of Fundy,8.778
+1999-12-02,Scotian Shelf,8.172
+1999-12-02,Gulf of St. Lawrence,3.345
+2000-01-02,Bay of Fundy,5.437
+2000-01-02,Scotian Shelf,5.141
+2000-01-02,Gulf of St. Lawrence,0.649
+2000-02-02,Bay of Fundy,3.008
+2000-02-02,Scotian Shelf,3.36
+2000-02-02,Gulf of St. Lawrence,-0.34
+2000-03-02,Bay of Fundy,2.371
+2000-03-02,Scotian Shelf,2.124
+2000-03-02,Gulf of St. Lawrence,-0.009
+2000-04-02,Bay of Fundy,2.477
+2000-04-02,Scotian Shelf,3.05
+2000-04-02,Gulf of St. Lawrence,0.207
+2000-05-02,Bay of Fundy,4.43
+2000-05-02,Scotian Shelf,4.543
+2000-05-02,Gulf of St. Lawrence,1.595
+2000-06-02,Bay of Fundy,8.215
+2000-06-02,Scotian Shelf,8.977
+2000-06-02,Gulf of St. Lawrence,5.843
+2000-07-02,Bay of Fundy,12.219
+2000-07-02,Scotian Shelf,12.858
+2000-07-02,Gulf of St. Lawrence,13.714
+2000-08-02,Bay of Fundy,15.094
+2000-08-02,Scotian Shelf,16.598
+2000-08-02,Gulf of St. Lawrence,17.494
+2000-09-02,Bay of Fundy,14.902
+2000-09-02,Scotian Shelf,17.577
+2000-09-02,Gulf of St. Lawrence,15.953
+2000-10-02,Bay of Fundy,12.932
+2000-10-02,Scotian Shelf,15.216
+2000-10-02,Gulf of St. Lawrence,11.037
+2000-11-02,Bay of Fundy,10.609
+2000-11-02,Scotian Shelf,12.029
+2000-11-02,Gulf of St. Lawrence,6.557
+2000-12-02,Bay of Fundy,7.91
+2000-12-02,Scotian Shelf,8.108
+2000-12-02,Gulf of St. Lawrence,3.824
+2001-01-02,Bay of Fundy,3.218
+2001-01-02,Scotian Shelf,3.571
+2001-01-02,Gulf of St. Lawrence,0.696
+2001-02-02,Bay of Fundy,2.635
+2001-02-02,Scotian Shelf,2.774
+2001-02-02,Gulf of St. Lawrence,0.057
+2001-03-02,Bay of Fundy,1.305
+2001-03-02,Scotian Shelf,1.173
+2001-03-02,Gulf of St. Lawrence,-0.095
+2001-04-02,Bay of Fundy,1.738
+2001-04-02,Scotian Shelf,1.822
+2001-04-02,Gulf of St. Lawrence,-0.263
+2001-05-02,Bay of Fundy,3.62
+2001-05-02,Scotian Shelf,3.314
+2001-05-02,Gulf of St. Lawrence,1.913
+2001-06-02,Bay of Fundy,6.475
+2001-06-02,Scotian Shelf,7.453
+2001-06-02,Gulf of St. Lawrence,8.542
+2001-07-02,Bay of Fundy,11.668
+2001-07-02,Scotian Shelf,12.669
+2001-07-02,Gulf of St. Lawrence,12.141
+2001-08-02,Bay of Fundy,14.201
+2001-08-02,Scotian Shelf,16.131
+2001-08-02,Gulf of St. Lawrence,17.032
+2001-09-02,Bay of Fundy,13.913
+2001-09-02,Scotian Shelf,17.288
+2001-09-02,Gulf of St. Lawrence,14.717
+2001-10-02,Bay of Fundy,12.719
+2001-10-02,Scotian Shelf,15.452
+2001-10-02,Gulf of St. Lawrence,12.42
+2001-11-02,Bay of Fundy,10.413
+2001-11-02,Scotian Shelf,12.14
+2001-11-02,Gulf of St. Lawrence,7.333
+2001-12-02,Bay of Fundy,8.263
+2001-12-02,Scotian Shelf,8.222
+2001-12-02,Gulf of St. Lawrence,3.64
+2002-01-02,Bay of Fundy,6.168
+2002-01-02,Scotian Shelf,5.477
+2002-01-02,Gulf of St. Lawrence,0.874
+2002-02-02,Bay of Fundy,3.511
+2002-02-02,Scotian Shelf,3.094
+2002-02-02,Gulf of St. Lawrence,-0.286
+2002-03-02,Bay of Fundy,2.721
+2002-03-02,Scotian Shelf,2.37
+2002-03-02,Gulf of St. Lawrence,-0.767
+2002-04-02,Bay of Fundy,2.403
+2002-04-02,Scotian Shelf,2.613
+2002-04-02,Gulf of St. Lawrence,-0.681
+2002-05-02,Bay of Fundy,4.187
+2002-05-02,Scotian Shelf,4.061
+2002-05-02,Gulf of St. Lawrence,1.819
+2002-06-02,Bay of Fundy,6.826
+2002-06-02,Scotian Shelf,7.711
+2002-06-02,Gulf of St. Lawrence,6.144
+2002-07-02,Bay of Fundy,11.901
+2002-07-02,Scotian Shelf,11.808
+2002-07-02,Gulf of St. Lawrence,12.694
+2002-08-02,Bay of Fundy,14.179
+2002-08-02,Scotian Shelf,16.044
+2002-08-02,Gulf of St. Lawrence,15.6
+2002-09-02,Bay of Fundy,14.756
+2002-09-02,Scotian Shelf,17.904
+2002-09-02,Gulf of St. Lawrence,15.036
+2002-10-02,Bay of Fundy,13.947
+2002-10-02,Scotian Shelf,15.117
+2002-10-02,Gulf of St. Lawrence,11.042
+2002-11-02,Bay of Fundy,10.308
+2002-11-02,Scotian Shelf,10.247
+2002-11-02,Gulf of St. Lawrence,5.69
+2002-12-02,Bay of Fundy,7.259
+2002-12-02,Scotian Shelf,6.745
+2002-12-02,Gulf of St. Lawrence,2.108
+2003-01-02,Bay of Fundy,4.099
+2003-01-02,Scotian Shelf,4.11
+2003-01-02,Gulf of St. Lawrence,0.316
+2003-02-02,Bay of Fundy,1.484
+2003-02-02,Scotian Shelf,1.575
+2003-02-02,Gulf of St. Lawrence,-0.339
+2003-03-02,Bay of Fundy,1.41
+2003-03-02,Scotian Shelf,1.497
+2003-03-02,Gulf of St. Lawrence,-0.152
+2003-04-02,Bay of Fundy,1.374
+2003-04-02,Scotian Shelf,1.605
+2003-04-02,Gulf of St. Lawrence,-0.786
+2003-05-02,Bay of Fundy,2.975
+2003-05-02,Scotian Shelf,3.339
+2003-05-02,Gulf of St. Lawrence,1.087
+2003-06-02,Bay of Fundy,5.521
+2003-06-02,Scotian Shelf,6.687
+2003-06-02,Gulf of St. Lawrence,5.001
+2003-07-02,Bay of Fundy,12.373
+2003-07-02,Scotian Shelf,13.08
+2003-07-02,Gulf of St. Lawrence,12.668
+2003-08-02,Bay of Fundy,13.502
+2003-08-02,Scotian Shelf,17.45
+2003-08-02,Gulf of St. Lawrence,16.413
+2003-09-02,Bay of Fundy,13.133
+2003-09-02,Scotian Shelf,16.808
+2003-09-02,Gulf of St. Lawrence,13.827
+2003-10-02,Bay of Fundy,13.602
+2003-10-02,Scotian Shelf,17.126
+2003-10-02,Gulf of St. Lawrence,12.996
+2003-11-02,Bay of Fundy,10.587
+2003-11-02,Scotian Shelf,12.313
+2003-11-02,Gulf of St. Lawrence,6.606
+2003-12-02,Bay of Fundy,7.76
+2003-12-02,Scotian Shelf,8.0
+2003-12-02,Gulf of St. Lawrence,2.983
+2004-01-02,Bay of Fundy,4.788
+2004-01-02,Scotian Shelf,4.849
+2004-01-02,Gulf of St. Lawrence,0.831
+2004-02-02,Bay of Fundy,2.468
+2004-02-02,Scotian Shelf,1.781
+2004-02-02,Gulf of St. Lawrence,-0.464
+2004-03-02,Bay of Fundy,1.169
+2004-03-02,Scotian Shelf,1.148
+2004-03-02,Gulf of St. Lawrence,-0.687
+2004-04-02,Bay of Fundy,0.878
+2004-04-02,Scotian Shelf,1.638
+2004-04-02,Gulf of St. Lawrence,-0.245
+2004-05-02,Bay of Fundy,3.371
+2004-05-02,Scotian Shelf,4.438
+2004-05-02,Gulf of St. Lawrence,2.014
+2004-06-02,Bay of Fundy,5.165
+2004-06-02,Scotian Shelf,6.64
+2004-06-02,Gulf of St. Lawrence,6.141
+2004-07-02,Bay of Fundy,10.281
+2004-07-02,Scotian Shelf,11.613
+2004-07-02,Gulf of St. Lawrence,11.125
+2004-08-02,Bay of Fundy,13.386
+2004-08-02,Scotian Shelf,17.304
+2004-08-02,Gulf of St. Lawrence,17.087
+2004-09-02,Bay of Fundy,13.214
+2004-09-02,Scotian Shelf,17.503
+2004-09-02,Gulf of St. Lawrence,15.094
+2004-10-02,Bay of Fundy,11.815
+2004-10-02,Scotian Shelf,13.319
+2004-10-02,Gulf of St. Lawrence,10.9
+2004-11-02,Bay of Fundy,9.899
+2004-11-02,Scotian Shelf,11.36
+2004-11-02,Gulf of St. Lawrence,7.915
+2004-12-02,Bay of Fundy,6.943
+2004-12-02,Scotian Shelf,7.515
+2004-12-02,Gulf of St. Lawrence,3.551
+2005-01-02,Bay of Fundy,4.585
+2005-01-02,Scotian Shelf,4.489
+2005-01-02,Gulf of St. Lawrence,0.374
+2005-02-02,Bay of Fundy,2.457
+2005-02-02,Scotian Shelf,2.876
+2005-02-02,Gulf of St. Lawrence,-0.219
+2005-03-02,Bay of Fundy,0.764
+2005-03-02,Scotian Shelf,2.32
+2005-03-02,Gulf of St. Lawrence,-0.236
+2005-04-02,Bay of Fundy,1.284
+2005-04-02,Scotian Shelf,2.043
+2005-04-02,Gulf of St. Lawrence,-0.117
+2005-05-02,Bay of Fundy,3.901
+2005-05-02,Scotian Shelf,4.002
+2005-05-02,Gulf of St. Lawrence,1.515
+2005-06-02,Bay of Fundy,6.769
+2005-06-02,Scotian Shelf,7.258
+2005-06-02,Gulf of St. Lawrence,7.511
+2005-07-02,Bay of Fundy,10.346
+2005-07-02,Scotian Shelf,11.818
+2005-07-02,Gulf of St. Lawrence,12.122
+2005-08-02,Bay of Fundy,14.17
+2005-08-02,Scotian Shelf,17.298
+2005-08-02,Gulf of St. Lawrence,15.775
+2005-09-02,Bay of Fundy,13.904
+2005-09-02,Scotian Shelf,18.927
+2005-09-02,Gulf of St. Lawrence,15.909
+2005-10-02,Bay of Fundy,12.677
+2005-10-02,Scotian Shelf,15.193
+2005-10-02,Gulf of St. Lawrence,10.965
+2005-11-02,Bay of Fundy,10.266
+2005-11-02,Scotian Shelf,11.641
+2005-11-02,Gulf of St. Lawrence,7.351
+2005-12-02,Bay of Fundy,8.313
+2005-12-02,Scotian Shelf,8.304
+2005-12-02,Gulf of St. Lawrence,4.331
+2006-01-02,Bay of Fundy,5.024
+2006-01-02,Scotian Shelf,4.829
+2006-01-02,Gulf of St. Lawrence,0.987
+2006-02-02,Bay of Fundy,4.275
+2006-02-02,Scotian Shelf,3.557
+2006-02-02,Gulf of St. Lawrence,-0.286
+2006-03-02,Bay of Fundy,2.361
+2006-03-02,Scotian Shelf,2.196
+2006-03-02,Gulf of St. Lawrence,-0.147
+2006-04-02,Bay of Fundy,3.609
+2006-04-02,Scotian Shelf,3.013
+2006-04-02,Gulf of St. Lawrence,0.147
+2006-05-02,Bay of Fundy,5.221
+2006-05-02,Scotian Shelf,5.137
+2006-05-02,Gulf of St. Lawrence,3.323
+2006-06-02,Bay of Fundy,9.722
+2006-06-02,Scotian Shelf,9.487
+2006-06-02,Gulf of St. Lawrence,9.118
+2006-07-02,Bay of Fundy,12.226
+2006-07-02,Scotian Shelf,13.854
+2006-07-02,Gulf of St. Lawrence,13.813
+2006-08-02,Bay of Fundy,15.185
+2006-08-02,Scotian Shelf,17.687
+2006-08-02,Gulf of St. Lawrence,16.558
+2006-09-02,Bay of Fundy,14.578
+2006-09-02,Scotian Shelf,17.338
+2006-09-02,Gulf of St. Lawrence,15.448
+2006-10-02,Bay of Fundy,13.311
+2006-10-02,Scotian Shelf,15.311
+2006-10-02,Gulf of St. Lawrence,11.49
+2006-11-02,Bay of Fundy,9.994
+2006-11-02,Scotian Shelf,10.629
+2006-11-02,Gulf of St. Lawrence,7.322
+2006-12-02,Bay of Fundy,9.027
+2006-12-02,Scotian Shelf,8.819
+2006-12-02,Gulf of St. Lawrence,4.724
+2007-01-02,Bay of Fundy,6.221
+2007-01-02,Scotian Shelf,4.82
+2007-01-02,Gulf of St. Lawrence,0.95
+2007-02-02,Bay of Fundy,4.154
+2007-02-02,Scotian Shelf,2.891
+2007-02-02,Gulf of St. Lawrence,-0.176
+2007-03-02,Bay of Fundy,2.179
+2007-03-02,Scotian Shelf,1.303
+2007-03-02,Gulf of St. Lawrence,-0.402
+2007-04-02,Bay of Fundy,1.992
+2007-04-02,Scotian Shelf,0.932
+2007-04-02,Gulf of St. Lawrence,-0.814
+2007-05-02,Bay of Fundy,3.821
+2007-05-02,Scotian Shelf,2.486
+2007-05-02,Gulf of St. Lawrence,2.094
+2007-06-02,Bay of Fundy,6.933
+2007-06-02,Scotian Shelf,7.383
+2007-06-02,Gulf of St. Lawrence,6.393
+2007-07-02,Bay of Fundy,10.767
+2007-07-02,Scotian Shelf,11.979
+2007-07-02,Gulf of St. Lawrence,12.353
+2007-08-02,Bay of Fundy,14.615
+2007-08-02,Scotian Shelf,17.408
+2007-08-02,Gulf of St. Lawrence,18.184
+2007-09-02,Bay of Fundy,13.424
+2007-09-02,Scotian Shelf,16.449
+2007-09-02,Gulf of St. Lawrence,14.648
+2007-10-02,Bay of Fundy,12.231
+2007-10-02,Scotian Shelf,14.485
+2007-10-02,Gulf of St. Lawrence,10.496
+2007-11-02,Bay of Fundy,10.263
+2007-11-02,Scotian Shelf,11.423
+2007-11-02,Gulf of St. Lawrence,6.887
+2007-12-02,Bay of Fundy,7.65
+2007-12-02,Scotian Shelf,7.742
+2007-12-02,Gulf of St. Lawrence,3.342
+2008-01-02,Bay of Fundy,4.249
+2008-01-02,Scotian Shelf,4.079
+2008-01-02,Gulf of St. Lawrence,-0.133
+2008-02-02,Bay of Fundy,2.339
+2008-02-02,Scotian Shelf,2.245
+2008-02-02,Gulf of St. Lawrence,-0.018
+2008-03-02,Bay of Fundy,1.728
+2008-03-02,Scotian Shelf,1.885
+2008-03-02,Gulf of St. Lawrence,-0.437
+2008-04-02,Bay of Fundy,2.625
+2008-04-02,Scotian Shelf,2.488
+2008-04-02,Gulf of St. Lawrence,-0.066
+2008-05-02,Bay of Fundy,4.599
+2008-05-02,Scotian Shelf,3.766
+2008-05-02,Gulf of St. Lawrence,2.943
+2008-06-02,Bay of Fundy,7.318
+2008-06-02,Scotian Shelf,7.348
+2008-06-02,Gulf of St. Lawrence,6.962
+2008-07-02,Bay of Fundy,11.669
+2008-07-02,Scotian Shelf,14.316
+2008-07-02,Gulf of St. Lawrence,12.787
+2008-08-02,Bay of Fundy,14.53
+2008-08-02,Scotian Shelf,18.464
+2008-08-02,Gulf of St. Lawrence,18.463
+2008-09-02,Bay of Fundy,13.095
+2008-09-02,Scotian Shelf,15.685
+2008-09-02,Gulf of St. Lawrence,16.453
+2008-10-02,Bay of Fundy,12.704
+2008-10-02,Scotian Shelf,14.776
+2008-10-02,Gulf of St. Lawrence,11.497
+2008-11-02,Bay of Fundy,9.609
+2008-11-02,Scotian Shelf,10.362
+2008-11-02,Gulf of St. Lawrence,6.924
+2008-12-02,Bay of Fundy,8.443
+2008-12-02,Scotian Shelf,8.536
+2008-12-02,Gulf of St. Lawrence,4.073
+2009-01-02,Bay of Fundy,4.682
+2009-01-02,Scotian Shelf,4.685
+2009-01-02,Gulf of St. Lawrence,0.154
+2009-02-02,Bay of Fundy,2.832
+2009-02-02,Scotian Shelf,2.131
+2009-02-02,Gulf of St. Lawrence,0.1
+2009-03-02,Bay of Fundy,2.139
+2009-03-02,Scotian Shelf,2.019
+2009-03-02,Gulf of St. Lawrence,0.153
+2009-04-02,Bay of Fundy,2.103
+2009-04-02,Scotian Shelf,1.918
+2009-04-02,Gulf of St. Lawrence,-0.689
+2009-05-02,Bay of Fundy,4.503
+2009-05-02,Scotian Shelf,3.636
+2009-05-02,Gulf of St. Lawrence,1.781
+2009-06-02,Bay of Fundy,7.507
+2009-06-02,Scotian Shelf,7.704
+2009-06-02,Gulf of St. Lawrence,6.565
+2009-07-02,Bay of Fundy,13.014
+2009-07-02,Scotian Shelf,14.967
+2009-07-02,Gulf of St. Lawrence,13.473
+2009-08-02,Bay of Fundy,14.748
+2009-08-02,Scotian Shelf,18.235
+2009-08-02,Gulf of St. Lawrence,17.258
+2009-09-02,Bay of Fundy,13.399
+2009-09-02,Scotian Shelf,15.549
+2009-09-02,Gulf of St. Lawrence,13.477
+2009-10-02,Bay of Fundy,12.589
+2009-10-02,Scotian Shelf,14.858
+2009-10-02,Gulf of St. Lawrence,12.17
+2009-11-02,Bay of Fundy,10.308
+2009-11-02,Scotian Shelf,10.468
+2009-11-02,Gulf of St. Lawrence,6.843
+2009-12-02,Bay of Fundy,8.73
+2009-12-02,Scotian Shelf,8.285
+2009-12-02,Gulf of St. Lawrence,4.09
+2010-01-02,Bay of Fundy,5.477
+2010-01-02,Scotian Shelf,4.793
+2010-01-02,Gulf of St. Lawrence,0.802
+2010-02-02,Bay of Fundy,3.153
+2010-02-02,Scotian Shelf,2.657
+2010-02-02,Gulf of St. Lawrence,-0.395
+2010-03-02,Bay of Fundy,2.796
+2010-03-02,Scotian Shelf,1.964
+2010-03-02,Gulf of St. Lawrence,-0.608
+2010-04-02,Bay of Fundy,3.012
+2010-04-02,Scotian Shelf,3.532
+2010-04-02,Gulf of St. Lawrence,0.485
+2010-05-02,Bay of Fundy,5.766
+2010-05-02,Scotian Shelf,4.963
+2010-05-02,Gulf of St. Lawrence,4.285
+2010-06-02,Bay of Fundy,9.026
+2010-06-02,Scotian Shelf,7.813
+2010-06-02,Gulf of St. Lawrence,7.415
+2010-07-02,Bay of Fundy,12.011
+2010-07-02,Scotian Shelf,12.917
+2010-07-02,Gulf of St. Lawrence,11.676
+2010-08-02,Bay of Fundy,15.464
+2010-08-02,Scotian Shelf,17.414
+2010-08-02,Gulf of St. Lawrence,17.197
+2010-09-02,Bay of Fundy,17.574
+2010-09-02,Scotian Shelf,20.218
+2010-09-02,Gulf of St. Lawrence,18.358
+2010-10-02,Bay of Fundy,13.61
+2010-10-02,Scotian Shelf,15.759
+2010-10-02,Gulf of St. Lawrence,11.926
+2010-11-02,Bay of Fundy,10.343
+2010-11-02,Scotian Shelf,10.605
+2010-11-02,Gulf of St. Lawrence,7.037
+2010-12-02,Bay of Fundy,8.334
+2010-12-02,Scotian Shelf,8.392
+2010-12-02,Gulf of St. Lawrence,4.583
+2011-01-02,Bay of Fundy,6.269
+2011-01-02,Scotian Shelf,5.908
+2011-01-02,Gulf of St. Lawrence,3.337
+2011-02-02,Bay of Fundy,4.155
+2011-02-02,Scotian Shelf,3.737
+2011-02-02,Gulf of St. Lawrence,0.446
+2011-03-02,Bay of Fundy,2.846
+2011-03-02,Scotian Shelf,2.385
+2011-03-02,Gulf of St. Lawrence,-0.293
+2011-04-02,Bay of Fundy,3.297
+2011-04-02,Scotian Shelf,2.316
+2011-04-02,Gulf of St. Lawrence,-0.212
+2011-05-02,Bay of Fundy,5.693
+2011-05-02,Scotian Shelf,4.293
+2011-05-02,Gulf of St. Lawrence,2.608
+2011-06-02,Bay of Fundy,9.539
+2011-06-02,Scotian Shelf,8.604
+2011-06-02,Gulf of St. Lawrence,7.194
+2011-07-02,Bay of Fundy,11.606
+2011-07-02,Scotian Shelf,13.14
+2011-07-02,Gulf of St. Lawrence,12.025
+2011-08-02,Bay of Fundy,14.576
+2011-08-02,Scotian Shelf,16.174
+2011-08-02,Gulf of St. Lawrence,16.791
+2011-09-02,Bay of Fundy,14.628
+2011-09-02,Scotian Shelf,17.575
+2011-09-02,Gulf of St. Lawrence,16.093
+2011-10-02,Bay of Fundy,14.285
+2011-10-02,Scotian Shelf,16.239
+2011-10-02,Gulf of St. Lawrence,12.449
+2011-11-02,Bay of Fundy,11.159
+2011-11-02,Scotian Shelf,10.747
+2011-11-02,Gulf of St. Lawrence,8.15
+2011-12-02,Bay of Fundy,8.844
+2011-12-02,Scotian Shelf,8.62
+2011-12-02,Gulf of St. Lawrence,4.786
+2012-01-02,Bay of Fundy,6.179
+2012-01-02,Scotian Shelf,6.113
+2012-01-02,Gulf of St. Lawrence,1.645
+2012-02-02,Bay of Fundy,4.284
+2012-02-02,Scotian Shelf,3.804
+2012-02-02,Gulf of St. Lawrence,-0.179
+2012-03-02,Bay of Fundy,3.529
+2012-03-02,Scotian Shelf,2.754
+2012-03-02,Gulf of St. Lawrence,-0.241
+2012-04-02,Bay of Fundy,4.477
+2012-04-02,Scotian Shelf,3.31
+2012-04-02,Gulf of St. Lawrence,0.183
+2012-05-02,Bay of Fundy,6.688
+2012-05-02,Scotian Shelf,5.599
+2012-05-02,Gulf of St. Lawrence,3.104
+2012-06-02,Bay of Fundy,9.928
+2012-06-02,Scotian Shelf,10.311
+2012-06-02,Gulf of St. Lawrence,8.756
+2012-07-02,Bay of Fundy,13.693
+2012-07-02,Scotian Shelf,14.822
+2012-07-02,Gulf of St. Lawrence,14.334
+2012-08-02,Bay of Fundy,16.146
+2012-08-02,Scotian Shelf,18.265
+2012-08-02,Gulf of St. Lawrence,18.709
+2012-09-02,Bay of Fundy,15.246
+2012-09-02,Scotian Shelf,18.105
+2012-09-02,Gulf of St. Lawrence,16.377
+2012-10-02,Bay of Fundy,14.866
+2012-10-02,Scotian Shelf,17.118
+2012-10-02,Gulf of St. Lawrence,13.041
+2012-11-02,Bay of Fundy,11.962
+2012-11-02,Scotian Shelf,13.371
+2012-11-02,Gulf of St. Lawrence,8.797
+2012-12-02,Bay of Fundy,9.474
+2012-12-02,Scotian Shelf,8.523
+2012-12-02,Gulf of St. Lawrence,4.252
+2013-01-02,Bay of Fundy,6.836
+2013-01-02,Scotian Shelf,6.743
+2013-01-02,Gulf of St. Lawrence,2.105
+2013-02-02,Bay of Fundy,4.453
+2013-02-02,Scotian Shelf,3.419
+2013-02-02,Gulf of St. Lawrence,0.185
+2013-03-02,Bay of Fundy,3.223
+2013-03-02,Scotian Shelf,2.615
+2013-03-02,Gulf of St. Lawrence,-0.298
+2013-04-02,Bay of Fundy,3.34
+2013-04-02,Scotian Shelf,3.198
+2013-04-02,Gulf of St. Lawrence,0.165
+2013-05-02,Bay of Fundy,6.061
+2013-05-02,Scotian Shelf,5.17
+2013-05-02,Gulf of St. Lawrence,3.663
+2013-06-02,Bay of Fundy,9.59
+2013-06-02,Scotian Shelf,9.854
+2013-06-02,Gulf of St. Lawrence,7.418
+2013-07-02,Bay of Fundy,13.501
+2013-07-02,Scotian Shelf,14.155
+2013-07-02,Gulf of St. Lawrence,12.432
+2013-08-02,Bay of Fundy,14.893
+2013-08-02,Scotian Shelf,18.419
+2013-08-02,Gulf of St. Lawrence,16.426
+2013-09-02,Bay of Fundy,14.979
+2013-09-02,Scotian Shelf,17.711
+2013-09-02,Gulf of St. Lawrence,15.446
+2013-10-02,Bay of Fundy,13.912
+2013-10-02,Scotian Shelf,16.557
+2013-10-02,Gulf of St. Lawrence,12.916
+2013-11-02,Bay of Fundy,11.487
+2013-11-02,Scotian Shelf,12.516
+2013-11-02,Gulf of St. Lawrence,8.179
+2013-12-02,Bay of Fundy,7.938
+2013-12-02,Scotian Shelf,7.947
+2013-12-02,Gulf of St. Lawrence,3.401
+2014-01-02,Bay of Fundy,4.959
+2014-01-02,Scotian Shelf,4.358
+2014-01-02,Gulf of St. Lawrence,0.433
+2014-02-02,Bay of Fundy,3.491
+2014-02-02,Scotian Shelf,3.007
+2014-02-02,Gulf of St. Lawrence,0.156
+2014-03-02,Bay of Fundy,2.205
+2014-03-02,Scotian Shelf,1.9
+2014-03-02,Gulf of St. Lawrence,-0.467
+2014-04-02,Bay of Fundy,2.081
+2014-04-02,Scotian Shelf,3.191
+2014-04-02,Gulf of St. Lawrence,-0.475
+2014-05-02,Bay of Fundy,4.643
+2014-05-02,Scotian Shelf,4.38
+2014-05-02,Gulf of St. Lawrence,1.483
+2014-06-02,Bay of Fundy,8.16
+2014-06-02,Scotian Shelf,7.601
+2014-06-02,Gulf of St. Lawrence,7.424
+2014-07-02,Bay of Fundy,12.633
+2014-07-02,Scotian Shelf,14.323
+2014-07-02,Gulf of St. Lawrence,16.458
+2014-08-02,Bay of Fundy,14.756
+2014-08-02,Scotian Shelf,19.289
+2014-08-02,Gulf of St. Lawrence,18.377
+2014-09-02,Bay of Fundy,15.191
+2014-09-02,Scotian Shelf,18.555
+2014-09-02,Gulf of St. Lawrence,16.538
+2014-10-02,Bay of Fundy,13.462
+2014-10-02,Scotian Shelf,15.973
+2014-10-02,Gulf of St. Lawrence,10.741
+2014-11-02,Bay of Fundy,12.157
+2014-11-02,Scotian Shelf,13.6
+2014-11-02,Gulf of St. Lawrence,7.76
+2014-12-02,Bay of Fundy,8.793
+2014-12-02,Scotian Shelf,8.493
+2014-12-02,Gulf of St. Lawrence,3.704
+2015-01-02,Bay of Fundy,6.328
+2015-01-02,Scotian Shelf,6.144
+2015-01-02,Gulf of St. Lawrence,1.161
+2015-02-02,Bay of Fundy,4.04
+2015-02-02,Scotian Shelf,3.95
+2015-02-02,Gulf of St. Lawrence,0.179
+2015-03-02,Bay of Fundy,1.566
+2015-03-02,Scotian Shelf,2.299
+2015-03-02,Gulf of St. Lawrence,-0.634
+2015-04-02,Bay of Fundy,1.144
+2015-04-02,Scotian Shelf,1.955
+2015-04-02,Gulf of St. Lawrence,-0.529
+2015-05-02,Bay of Fundy,3.967
+2015-05-02,Scotian Shelf,3.889
+2015-05-02,Gulf of St. Lawrence,0.796
+2015-06-02,Bay of Fundy,8.17
+2015-06-02,Scotian Shelf,8.289
+2015-06-02,Gulf of St. Lawrence,7.142
+2015-07-02,Bay of Fundy,10.966
+2015-07-02,Scotian Shelf,12.438
+2015-07-02,Gulf of St. Lawrence,12.097
+2015-08-02,Bay of Fundy,13.773
+2015-08-02,Scotian Shelf,17.036
+2015-08-02,Gulf of St. Lawrence,15.894
+2015-09-02,Bay of Fundy,15.555
+2015-09-02,Scotian Shelf,18.509
+2015-09-02,Gulf of St. Lawrence,16.619
+2015-10-02,Bay of Fundy,14.221
+2015-10-02,Scotian Shelf,17.131
+2015-10-02,Gulf of St. Lawrence,12.356
+2015-11-02,Bay of Fundy,11.139
+2015-11-02,Scotian Shelf,12.193
+2015-11-02,Gulf of St. Lawrence,6.505
+2015-12-02,Bay of Fundy,8.729
+2015-12-02,Scotian Shelf,9.099
+2015-12-02,Gulf of St. Lawrence,4.159
+2016-01-02,Bay of Fundy,6.982
+2016-01-02,Scotian Shelf,7.03
+2016-01-02,Gulf of St. Lawrence,1.554
+2016-02-02,Bay of Fundy,4.612
+2016-02-02,Scotian Shelf,3.522
+2016-02-02,Gulf of St. Lawrence,-0.245
+2016-03-02,Bay of Fundy,3.615
+2016-03-02,Scotian Shelf,3.584
+2016-03-02,Gulf of St. Lawrence,-0.868
+2016-04-02,Bay of Fundy,3.386
+2016-04-02,Scotian Shelf,3.633
+2016-04-02,Gulf of St. Lawrence,-0.868
+2016-05-02,Bay of Fundy,5.667
+2016-05-02,Scotian Shelf,5.709
+2016-05-02,Gulf of St. Lawrence,3.452
+2016-06-02,Bay of Fundy,9.216
+2016-06-02,Scotian Shelf,8.688
+2016-06-02,Gulf of St. Lawrence,8.077
+2016-07-02,Bay of Fundy,13.213
+2016-07-02,Scotian Shelf,14.299
+2016-07-02,Gulf of St. Lawrence,12.607
+2016-08-02,Bay of Fundy,16.089
+2016-08-02,Scotian Shelf,18.977
+2016-08-02,Gulf of St. Lawrence,17.664
+2016-09-02,Bay of Fundy,15.258
+2016-09-02,Scotian Shelf,17.933
+2016-09-02,Gulf of St. Lawrence,15.393
+2016-10-02,Bay of Fundy,13.992
+2016-10-02,Scotian Shelf,15.782
+2016-10-02,Gulf of St. Lawrence,12.218
+2016-11-02,Bay of Fundy,11.989
+2016-11-02,Scotian Shelf,12.387
+2016-11-02,Gulf of St. Lawrence,8.498
+2016-12-02,Bay of Fundy,9.612
+2016-12-02,Scotian Shelf,9.375
+2016-12-02,Gulf of St. Lawrence,5.281
+2017-01-02,Bay of Fundy,6.541
+2017-01-02,Scotian Shelf,5.415
+2017-01-02,Gulf of St. Lawrence,1.571
+2017-02-02,Bay of Fundy,4.13
+2017-02-02,Scotian Shelf,3.315
+2017-02-02,Gulf of St. Lawrence,-0.317
+2017-03-02,Bay of Fundy,3.195
+2017-03-02,Scotian Shelf,2.559
+2017-03-02,Gulf of St. Lawrence,-0.897
+2017-04-02,Bay of Fundy,2.449
+2017-04-02,Scotian Shelf,1.932
+2017-04-02,Gulf of St. Lawrence,-0.716
+2017-05-02,Bay of Fundy,4.455
+2017-05-02,Scotian Shelf,5.167
+2017-05-02,Gulf of St. Lawrence,2.259
+2017-06-02,Bay of Fundy,8.019
+2017-06-02,Scotian Shelf,8.065
+2017-06-02,Gulf of St. Lawrence,7.821
+2017-07-02,Bay of Fundy,11.834
+2017-07-02,Scotian Shelf,13.048
+2017-07-02,Gulf of St. Lawrence,13.569
+2017-08-02,Bay of Fundy,15.304
+2017-08-02,Scotian Shelf,18.345
+2017-08-02,Gulf of St. Lawrence,16.759
+2017-09-02,Bay of Fundy,13.895
+2017-09-02,Scotian Shelf,16.921
+2017-09-02,Gulf of St. Lawrence,15.314
+2017-10-02,Bay of Fundy,14.209
+2017-10-02,Scotian Shelf,16.772
+2017-10-02,Gulf of St. Lawrence,12.628
+2017-11-02,Bay of Fundy,12.826
+2017-11-02,Scotian Shelf,13.714
+2017-11-02,Gulf of St. Lawrence,8.335
+2017-12-02,Bay of Fundy,8.894
+2017-12-02,Scotian Shelf,8.93
+2017-12-02,Gulf of St. Lawrence,2.934
+2018-01-02,Bay of Fundy,5.355
+2018-01-02,Scotian Shelf,5.176
+2018-01-02,Gulf of St. Lawrence,0.707
+2018-02-02,Bay of Fundy,3.456
+2018-02-02,Scotian Shelf,3.331
+2018-02-02,Gulf of St. Lawrence,-1.117
+2018-03-02,Bay of Fundy,3.331
+2018-03-02,Scotian Shelf,3.227
+2018-03-02,Gulf of St. Lawrence,-1.287
+2018-04-02,Bay of Fundy,3.165
+2018-04-02,Scotian Shelf,3.759
+2018-04-02,Gulf of St. Lawrence,-0.575
+2018-05-02,Bay of Fundy,5.31
+2018-05-02,Scotian Shelf,5.643
+2018-05-02,Gulf of St. Lawrence,1.989
+2018-06-02,Bay of Fundy,9.648
+2018-06-02,Scotian Shelf,9.512
+2018-06-02,Gulf of St. Lawrence,6.702
+2018-07-02,Bay of Fundy,12.1
+2018-07-02,Scotian Shelf,12.84
+2018-07-02,Gulf of St. Lawrence,12.277
+2018-08-02,Bay of Fundy,15.833
+2018-08-02,Scotian Shelf,18.719
+2018-08-02,Gulf of St. Lawrence,17.604
+2018-09-02,Bay of Fundy,16.268
+2018-09-02,Scotian Shelf,19.283
+2018-09-02,Gulf of St. Lawrence,16.636
+2018-10-02,Bay of Fundy,13.821
+2018-10-02,Scotian Shelf,16.109
+2018-10-02,Gulf of St. Lawrence,10.761
+2018-11-02,Bay of Fundy,10.977
+2018-11-02,Scotian Shelf,11.605
+2018-11-02,Gulf of St. Lawrence,6.374
+2018-12-02,Bay of Fundy,8.022
+2018-12-02,Scotian Shelf,6.963
+2018-12-02,Gulf of St. Lawrence,2.945
+2019-01-02,Bay of Fundy,4.661
+2019-01-02,Scotian Shelf,3.819
+2019-01-02,Gulf of St. Lawrence,0.245
+2019-02-02,Bay of Fundy,2.055
+2019-02-02,Scotian Shelf,2.196
+2019-02-02,Gulf of St. Lawrence,-1.392
+2019-03-02,Bay of Fundy,2.279
+2019-03-02,Scotian Shelf,1.288
+2019-03-02,Gulf of St. Lawrence,-1.478
+2019-04-02,Bay of Fundy,2.746
+2019-04-02,Scotian Shelf,2.021
+2019-04-02,Gulf of St. Lawrence,-0.499
+2019-05-02,Bay of Fundy,4.78
+2019-05-02,Scotian Shelf,3.432
+2019-05-02,Gulf of St. Lawrence,0.816
+2019-06-02,Bay of Fundy,7.519
+2019-06-02,Scotian Shelf,6.684
+2019-06-02,Gulf of St. Lawrence,6.993
+2019-07-02,Bay of Fundy,11.119
+2019-07-02,Scotian Shelf,11.905
+2019-07-02,Gulf of St. Lawrence,11.823
+2019-08-02,Bay of Fundy,15.714
+2019-08-02,Scotian Shelf,18.1
+2019-08-02,Gulf of St. Lawrence,17.82
+2019-09-02,Bay of Fundy,14.805
+2019-09-02,Scotian Shelf,17.449
+2019-09-02,Gulf of St. Lawrence,16.045
+2019-10-02,Bay of Fundy,12.945
+2019-10-02,Scotian Shelf,13.477
+2019-10-02,Gulf of St. Lawrence,10.289
+2019-11-02,Bay of Fundy,11.785
+2019-11-02,Scotian Shelf,11.667
+2019-11-02,Gulf of St. Lawrence,7.669
+2019-12-02,Bay of Fundy,8.172
+2019-12-02,Scotian Shelf,7.91
+2019-12-02,Gulf of St. Lawrence,3.074
+2020-01-02,Bay of Fundy,5.472
+2020-01-02,Scotian Shelf,4.758
+2020-01-02,Gulf of St. Lawrence,0.468
+2020-02-02,Bay of Fundy,4.145
+2020-02-02,Scotian Shelf,3.067
+2020-02-02,Gulf of St. Lawrence,-1.06
+2020-03-02,Bay of Fundy,3.222
+2020-03-02,Scotian Shelf,1.884
+2020-03-02,Gulf of St. Lawrence,-1.392
+2020-04-02,Bay of Fundy,3.349
+2020-04-02,Scotian Shelf,2.56
+2020-04-02,Gulf of St. Lawrence,-0.741
+2020-05-02,Bay of Fundy,5.482
+2020-05-02,Scotian Shelf,4.296
+2020-05-02,Gulf of St. Lawrence,2.44
+2020-06-02,Bay of Fundy,8.326
+2020-06-02,Scotian Shelf,6.878
+2020-06-02,Gulf of St. Lawrence,6.622
+2020-07-02,Bay of Fundy,11.982
+2020-07-02,Scotian Shelf,14.289
+2020-07-02,Gulf of St. Lawrence,15.315
+2020-08-02,Bay of Fundy,16.028
+2020-08-02,Scotian Shelf,18.219
+2020-08-02,Gulf of St. Lawrence,17.916
+2020-09-02,Bay of Fundy,13.955
+2020-09-02,Scotian Shelf,16.695
+2020-09-02,Gulf of St. Lawrence,13.514
+2020-10-02,Bay of Fundy,13.54
+2020-10-02,Scotian Shelf,16.102
+2020-10-02,Gulf of St. Lawrence,11.217
+2020-11-02,Bay of Fundy,11.28
+2020-11-02,Scotian Shelf,12.659
+2020-11-02,Gulf of St. Lawrence,6.416
+2020-12-02,Bay of Fundy,9.173
+2020-12-02,Scotian Shelf,10.687
+2020-12-02,Gulf of St. Lawrence,4.122
+2021-01-02,Bay of Fundy,6.194
+2021-01-02,Scotian Shelf,6.839
+2021-01-02,Gulf of St. Lawrence,1.383
+2021-02-02,Bay of Fundy,5.082
+2021-02-02,Scotian Shelf,4.993
+2021-02-02,Gulf of St. Lawrence,0.066
+2021-03-02,Bay of Fundy,3.818
+2021-03-02,Scotian Shelf,3.491
+2021-03-02,Gulf of St. Lawrence,-0.351
+2021-04-02,Bay of Fundy,3.644
+2021-04-02,Scotian Shelf,2.92
+2021-04-02,Gulf of St. Lawrence,-0.496
+2021-05-02,Bay of Fundy,5.805
+2021-05-02,Scotian Shelf,5.332
+2021-05-02,Gulf of St. Lawrence,2.045
+2021-06-02,Bay of Fundy,8.627
+2021-06-02,Scotian Shelf,8.388
+2021-06-02,Gulf of St. Lawrence,7.292
+2021-07-02,Bay of Fundy,12.884
+2021-07-02,Scotian Shelf,14.679
+2021-07-02,Gulf of St. Lawrence,13.277
+2021-08-02,Bay of Fundy,14.207
+2021-08-02,Scotian Shelf,16.676
+2021-08-02,Gulf of St. Lawrence,16.054
+2021-09-02,Bay of Fundy,16.796
+2021-09-02,Scotian Shelf,19.521
+2021-09-02,Gulf of St. Lawrence,17.336
+2021-10-02,Bay of Fundy,14.63
+2021-10-02,Scotian Shelf,16.803
+2021-10-02,Gulf of St. Lawrence,13.123
+2021-11-02,Bay of Fundy,12.818
+2021-11-02,Scotian Shelf,12.861
+2021-11-02,Gulf of St. Lawrence,9.761
+2021-12-02,Bay of Fundy,9.334
+2021-12-02,Scotian Shelf,9.149
+2021-12-02,Gulf of St. Lawrence,5.245
+2022-01-02,Bay of Fundy,6.549
+2022-01-02,Scotian Shelf,5.749
+2022-01-02,Gulf of St. Lawrence,1.981
+2022-02-02,Bay of Fundy,3.483
+2022-02-02,Scotian Shelf,3.163
+2022-02-02,Gulf of St. Lawrence,-0.574
+2022-03-02,Bay of Fundy,2.788
+2022-03-02,Scotian Shelf,2.572
+2022-03-02,Gulf of St. Lawrence,-1.246
+2022-04-02,Bay of Fundy,3.358
+2022-04-02,Scotian Shelf,2.752
+2022-04-02,Gulf of St. Lawrence,-0.285
+2022-05-02,Bay of Fundy,5.318
+2022-05-02,Scotian Shelf,4.312
+2022-05-02,Gulf of St. Lawrence,1.577
+2022-06-02,Bay of Fundy,9.423
+2022-06-02,Scotian Shelf,8.572
+2022-06-02,Gulf of St. Lawrence,6.69
+2022-07-02,Bay of Fundy,12.588
+2022-07-02,Scotian Shelf,14.764
+2022-07-02,Gulf of St. Lawrence,13.904
+2022-08-02,Bay of Fundy,14.86
+2022-08-02,Scotian Shelf,18.239
+2022-08-02,Gulf of St. Lawrence,17.119
+2022-09-02,Bay of Fundy,16.033
+2022-09-02,Scotian Shelf,20.378
+2022-09-02,Gulf of St. Lawrence,18.056
+2022-10-02,Bay of Fundy,13.551
+2022-10-02,Scotian Shelf,14.68
+2022-10-02,Gulf of St. Lawrence,10.953
+2022-11-02,Bay of Fundy,13.016
+2022-11-02,Scotian Shelf,13.594
+2022-11-02,Gulf of St. Lawrence,8.821
+2022-12-02,Bay of Fundy,9.059
+2022-12-02,Scotian Shelf,9.265
+2022-12-02,Gulf of St. Lawrence,3.666
+2023-01-02,Bay of Fundy,6.233
+2023-01-02,Scotian Shelf,6.792
+2023-01-02,Gulf of St. Lawrence,1.91
+2023-02-02,Bay of Fundy,5.069
+2023-02-02,Scotian Shelf,5.312
+2023-02-02,Gulf of St. Lawrence,0.333
+2023-03-02,Bay of Fundy,3.468
+2023-03-02,Scotian Shelf,3.76
+2023-03-02,Gulf of St. Lawrence,-1.091
+2023-04-02,Bay of Fundy,3.96
+2023-04-02,Scotian Shelf,3.211
+2023-04-02,Gulf of St. Lawrence,0.502
+2023-05-02,Bay of Fundy,6.479
+2023-05-02,Scotian Shelf,5.165
+2023-05-02,Gulf of St. Lawrence,4.006
+2023-06-02,Bay of Fundy,9.891
+2023-06-02,Scotian Shelf,8.831
+2023-06-02,Gulf of St. Lawrence,7.551
+2023-07-02,Bay of Fundy,11.892
+2023-07-02,Scotian Shelf,13.279
+2023-07-02,Gulf of St. Lawrence,12.038
+2023-08-02,Bay of Fundy,14.966
+2023-08-02,Scotian Shelf,18.683
+2023-08-02,Gulf of St. Lawrence,17.853
+2023-09-02,Bay of Fundy,14.742
+2023-09-02,Scotian Shelf,18.324
+2023-09-02,Gulf of St. Lawrence,15.798
+2023-10-02,Bay of Fundy,13.481
+2023-10-02,Scotian Shelf,16.091
+2023-10-02,Gulf of St. Lawrence,14.189
+2023-11-02,Bay of Fundy,11.266
+2023-11-02,Scotian Shelf,11.874
+2023-11-02,Gulf of St. Lawrence,9.006
+2023-12-02,Bay of Fundy,8.321
+2023-12-02,Scotian Shelf,8.624
+2023-12-02,Gulf of St. Lawrence,4.569
+2024-01-02,Bay of Fundy,5.303
+2024-01-02,Scotian Shelf,5.016
+2024-01-02,Gulf of St. Lawrence,1.538
+2024-02-02,Bay of Fundy,3.228
+2024-02-02,Scotian Shelf,2.676
+2024-02-02,Gulf of St. Lawrence,-0.048
+2024-03-02,Bay of Fundy,2.527
+2024-03-02,Scotian Shelf,1.573
+2024-03-02,Gulf of St. Lawrence,-0.573
+2024-04-02,Bay of Fundy,3.597
+2024-04-02,Scotian Shelf,2.606
+2024-04-02,Gulf of St. Lawrence,0.606
+2024-05-02,Bay of Fundy,6.211
+2024-05-02,Scotian Shelf,4.154
+2024-05-02,Gulf of St. Lawrence,1.85
+2024-06-02,Bay of Fundy,9.42
+2024-06-02,Scotian Shelf,8.798
+2024-06-02,Gulf of St. Lawrence,7.725
+2024-07-02,Bay of Fundy,11.569
+2024-07-02,Scotian Shelf,13.038
+2024-07-02,Gulf of St. Lawrence,13.78
+2024-08-02,Bay of Fundy,14.897
+2024-08-02,Scotian Shelf,18.749
+2024-08-02,Gulf of St. Lawrence,17.864
+2024-09-02,Bay of Fundy,15.035
+2024-09-02,Scotian Shelf,18.757
+2024-09-02,Gulf of St. Lawrence,15.845
+2024-10-02,Bay of Fundy,14.347
+2024-10-02,Scotian Shelf,16.521
+2024-10-02,Gulf of St. Lawrence,14.42
+2024-11-02,Bay of Fundy,11.269
+2024-11-02,Scotian Shelf,11.916
+2024-11-02,Gulf of St. Lawrence,7.877
+2024-12-02,Bay of Fundy,8.047
+2024-12-02,Scotian Shelf,8.332
+2024-12-02,Gulf of St. Lawrence,4.313
+2025-01-02,Bay of Fundy,5.011
+2025-01-02,Scotian Shelf,5.27
+2025-01-02,Gulf of St. Lawrence,1.978
+2025-02-02,Bay of Fundy,3.377
+2025-02-02,Scotian Shelf,3.022
+2025-02-02,Gulf of St. Lawrence,0.337
+2025-03-02,Bay of Fundy,1.794
+2025-03-02,Scotian Shelf,1.286
+2025-03-02,Gulf of St. Lawrence,-0.738
+2025-04-02,Bay of Fundy,2.826
+2025-04-02,Scotian Shelf,2.344
+2025-04-02,Gulf of St. Lawrence,0.186
+2025-05-02,Bay of Fundy,5.12
+2025-05-02,Scotian Shelf,4.302
+2025-05-02,Gulf of St. Lawrence,2.139
+2025-06-02,Bay of Fundy,7.471
+2025-06-02,Scotian Shelf,7.495
+2025-06-02,Gulf of St. Lawrence,6.195
+2025-07-02,Bay of Fundy,11.789
+2025-07-02,Scotian Shelf,13.72
+2025-07-02,Gulf of St. Lawrence,12.486
+2025-08-02,Bay of Fundy,14.261
+2025-08-02,Scotian Shelf,17.348
+2025-08-02,Gulf of St. Lawrence,15.369
+2025-09-02,Bay of Fundy,15.511
+2025-09-02,Scotian Shelf,18.304
+2025-09-02,Gulf of St. Lawrence,16.89
+2025-10-02,Bay of Fundy,14.083
+2025-10-02,Scotian Shelf,16.838
+2025-10-02,Gulf of St. Lawrence,11.836
+2025-11-02,Bay of Fundy,11.672
+2025-11-02,Scotian Shelf,13.773
+2025-11-02,Gulf of St. Lawrence,9.13
+2025-12-02,Bay of Fundy,8.315
+2025-12-02,Scotian Shelf,8.706
+2025-12-02,Gulf of St. Lawrence,4.641
+2026-01-02,Bay of Fundy,4.066
+2026-01-02,Scotian Shelf,4.718
+2026-01-02,Gulf of St. Lawrence,0.675
+2026-02-02,Bay of Fundy,2.882
+2026-02-02,Scotian Shelf,3.189
+2026-02-02,Gulf of St. Lawrence,-0.477
+2026-03-02,Bay of Fundy,2.097
+2026-03-02,Scotian Shelf,2.815
+2026-03-02,Gulf of St. Lawrence,-0.822
+2026-04-02,Bay of Fundy,1.667
+2026-04-02,Scotian Shelf,1.875
+2026-04-02,Gulf of St. Lawrence,-0.568
+2026-05-02,Bay of Fundy,4.73
+2026-05-02,Scotian Shelf,4.064
+2026-05-02,Gulf of St. Lawrence,2.176
+1981-09-03,Bay of Fundy,13.17
+1981-09-03,Scotian Shelf,17.212
+1981-09-03,Gulf of St. Lawrence,14.532
+1981-10-03,Bay of Fundy,12.021
+1981-10-03,Scotian Shelf,13.527
+1981-10-03,Gulf of St. Lawrence,10.552
+1981-11-03,Bay of Fundy,10.074
+1981-11-03,Scotian Shelf,10.833
+1981-11-03,Gulf of St. Lawrence,6.511
+1981-12-03,Bay of Fundy,7.416
+1981-12-03,Scotian Shelf,7.251
+1981-12-03,Gulf of St. Lawrence,3.899
+1982-01-03,Bay of Fundy,4.139
+1982-01-03,Scotian Shelf,4.495
+1982-01-03,Gulf of St. Lawrence,1.66
+1982-02-03,Bay of Fundy,2.619
+1982-02-03,Scotian Shelf,2.31
+1982-02-03,Gulf of St. Lawrence,-0.165
+1982-03-03,Bay of Fundy,1.633
+1982-03-03,Scotian Shelf,1.142
+1982-03-03,Gulf of St. Lawrence,-0.461
+1982-04-03,Bay of Fundy,1.85
+1982-04-03,Scotian Shelf,1.123
+1982-04-03,Gulf of St. Lawrence,-0.395
+1982-05-03,Bay of Fundy,2.622
+1982-05-03,Scotian Shelf,3.621
+1982-05-03,Gulf of St. Lawrence,1.476
+1982-06-03,Bay of Fundy,7.974
+1982-06-03,Scotian Shelf,7.352
+1982-06-03,Gulf of St. Lawrence,5.843
+1982-07-03,Bay of Fundy,9.649
+1982-07-03,Scotian Shelf,10.409
+1982-07-03,Gulf of St. Lawrence,10.085
+1982-08-03,Bay of Fundy,13.459
+1982-08-03,Scotian Shelf,14.884
+1982-08-03,Gulf of St. Lawrence,14.028
+1982-09-03,Bay of Fundy,13.502
+1982-09-03,Scotian Shelf,15.853
+1982-09-03,Gulf of St. Lawrence,13.191
+1982-10-03,Bay of Fundy,12.432
+1982-10-03,Scotian Shelf,14.382
+1982-10-03,Gulf of St. Lawrence,10.061
+1982-11-03,Bay of Fundy,9.886
+1982-11-03,Scotian Shelf,10.871
+1982-11-03,Gulf of St. Lawrence,7.045
+1982-12-03,Bay of Fundy,7.944
+1982-12-03,Scotian Shelf,7.06
+1982-12-03,Gulf of St. Lawrence,2.619
+1983-01-03,Bay of Fundy,4.316
+1983-01-03,Scotian Shelf,5.143
+1983-01-03,Gulf of St. Lawrence,1.041
+1983-02-03,Bay of Fundy,3.072
+1983-02-03,Scotian Shelf,3.524
+1983-02-03,Gulf of St. Lawrence,0.069
+1983-03-03,Bay of Fundy,2.018
+1983-03-03,Scotian Shelf,2.356
+1983-03-03,Gulf of St. Lawrence,-0.34
+1983-04-03,Bay of Fundy,1.912
+1983-04-03,Scotian Shelf,2.676
+1983-04-03,Gulf of St. Lawrence,-0.283
+1983-05-03,Bay of Fundy,2.812
+1983-05-03,Scotian Shelf,5.011
+1983-05-03,Gulf of St. Lawrence,2.216
+1983-06-03,Bay of Fundy,5.608
+1983-06-03,Scotian Shelf,7.721
+1983-06-03,Gulf of St. Lawrence,5.946
+1983-07-03,Bay of Fundy,13.588
+1983-07-03,Scotian Shelf,14.111
+1983-07-03,Gulf of St. Lawrence,12.226
+1983-08-03,Bay of Fundy,15.926
+1983-08-03,Scotian Shelf,16.939
+1983-08-03,Gulf of St. Lawrence,14.947
+1983-09-03,Bay of Fundy,13.746
+1983-09-03,Scotian Shelf,16.014
+1983-09-03,Gulf of St. Lawrence,14.106
+1983-10-03,Bay of Fundy,13.532
+1983-10-03,Scotian Shelf,14.875
+1983-10-03,Gulf of St. Lawrence,11.952
+1983-11-03,Bay of Fundy,10.623
+1983-11-03,Scotian Shelf,10.789
+1983-11-03,Gulf of St. Lawrence,7.146
+1983-12-03,Bay of Fundy,7.892
+1983-12-03,Scotian Shelf,6.977
+1983-12-03,Gulf of St. Lawrence,3.375
+1984-01-03,Bay of Fundy,3.708
+1984-01-03,Scotian Shelf,3.627
+1984-01-03,Gulf of St. Lawrence,-0.011
+1984-02-03,Bay of Fundy,2.621
+1984-02-03,Scotian Shelf,2.338
+1984-02-03,Gulf of St. Lawrence,-0.265
+1984-03-03,Bay of Fundy,1.765
+1984-03-03,Scotian Shelf,2.106
+1984-03-03,Gulf of St. Lawrence,-0.322
+1984-04-03,Bay of Fundy,2.564
+1984-04-03,Scotian Shelf,2.875
+1984-04-03,Gulf of St. Lawrence,-0.291
+1984-05-03,Bay of Fundy,3.027
+1984-05-03,Scotian Shelf,4.234
+1984-05-03,Gulf of St. Lawrence,2.048
+1984-06-03,Bay of Fundy,4.803
+1984-06-03,Scotian Shelf,8.105
+1984-06-03,Gulf of St. Lawrence,5.154
+1984-07-03,Bay of Fundy,11.367
+1984-07-03,Scotian Shelf,12.673
+1984-07-03,Gulf of St. Lawrence,11.756
+1984-08-03,Bay of Fundy,13.026
+1984-08-03,Scotian Shelf,16.684
+1984-08-03,Gulf of St. Lawrence,15.76
+1984-09-03,Bay of Fundy,13.376
+1984-09-03,Scotian Shelf,17.486
+1984-09-03,Gulf of St. Lawrence,15.97
+1984-10-03,Bay of Fundy,12.121
+1984-10-03,Scotian Shelf,14.012
+1984-10-03,Gulf of St. Lawrence,8.689
+1984-11-03,Bay of Fundy,10.998
+1984-11-03,Scotian Shelf,10.487
+1984-11-03,Gulf of St. Lawrence,5.19
+1984-12-03,Bay of Fundy,7.495
+1984-12-03,Scotian Shelf,6.913
+1984-12-03,Gulf of St. Lawrence,2.927
+1985-01-03,Bay of Fundy,3.945
+1985-01-03,Scotian Shelf,4.483
+1985-01-03,Gulf of St. Lawrence,0.364
+1985-02-03,Bay of Fundy,2.376
+1985-02-03,Scotian Shelf,1.674
+1985-02-03,Gulf of St. Lawrence,-0.233
+1985-03-03,Bay of Fundy,1.92
+1985-03-03,Scotian Shelf,1.661
+1985-03-03,Gulf of St. Lawrence,-0.699
+1985-04-03,Bay of Fundy,1.765
+1985-04-03,Scotian Shelf,1.519
+1985-04-03,Gulf of St. Lawrence,-0.627
+1985-05-03,Bay of Fundy,2.894
+1985-05-03,Scotian Shelf,2.502
+1985-05-03,Gulf of St. Lawrence,1.227
+1985-06-03,Bay of Fundy,6.573
+1985-06-03,Scotian Shelf,6.801
+1985-06-03,Gulf of St. Lawrence,6.538
+1985-07-03,Bay of Fundy,10.112
+1985-07-03,Scotian Shelf,11.626
+1985-07-03,Gulf of St. Lawrence,12.293
+1985-08-03,Bay of Fundy,12.488
+1985-08-03,Scotian Shelf,14.905
+1985-08-03,Gulf of St. Lawrence,15.745
+1985-09-03,Bay of Fundy,12.501
+1985-09-03,Scotian Shelf,15.268
+1985-09-03,Gulf of St. Lawrence,14.982
+1985-10-03,Bay of Fundy,13.068
+1985-10-03,Scotian Shelf,14.834
+1985-10-03,Gulf of St. Lawrence,11.757
+1985-11-03,Bay of Fundy,9.574
+1985-11-03,Scotian Shelf,9.302
+1985-11-03,Gulf of St. Lawrence,5.731
+1985-12-03,Bay of Fundy,6.602
+1985-12-03,Scotian Shelf,5.704
+1985-12-03,Gulf of St. Lawrence,1.759
+1986-01-03,Bay of Fundy,3.336
+1986-01-03,Scotian Shelf,3.211
+1986-01-03,Gulf of St. Lawrence,-0.309
+1986-02-03,Bay of Fundy,2.32
+1986-02-03,Scotian Shelf,1.661
+1986-02-03,Gulf of St. Lawrence,-0.565
+1986-03-03,Bay of Fundy,1.531
+1986-03-03,Scotian Shelf,1.374
+1986-03-03,Gulf of St. Lawrence,-0.687
+1986-04-03,Bay of Fundy,2.342
+1986-04-03,Scotian Shelf,1.872
+1986-04-03,Gulf of St. Lawrence,-0.58
+1986-05-03,Bay of Fundy,3.65
+1986-05-03,Scotian Shelf,4.233
+1986-05-03,Gulf of St. Lawrence,2.64
+1986-06-03,Bay of Fundy,7.224
+1986-06-03,Scotian Shelf,7.447
+1986-06-03,Gulf of St. Lawrence,7.101
+1986-07-03,Bay of Fundy,9.978
+1986-07-03,Scotian Shelf,10.78
+1986-07-03,Gulf of St. Lawrence,10.876
+1986-08-03,Bay of Fundy,13.402
+1986-08-03,Scotian Shelf,16.266
+1986-08-03,Gulf of St. Lawrence,14.491
+1986-09-03,Bay of Fundy,12.886
+1986-09-03,Scotian Shelf,15.475
+1986-09-03,Gulf of St. Lawrence,13.803
+1986-10-03,Bay of Fundy,12.059
+1986-10-03,Scotian Shelf,13.297
+1986-10-03,Gulf of St. Lawrence,10.479
+1986-11-03,Bay of Fundy,9.164
+1986-11-03,Scotian Shelf,9.826
+1986-11-03,Gulf of St. Lawrence,5.506
+1986-12-03,Bay of Fundy,7.072
+1986-12-03,Scotian Shelf,6.482
+1986-12-03,Gulf of St. Lawrence,1.95
+1987-01-03,Bay of Fundy,3.826
+1987-01-03,Scotian Shelf,3.644
+1987-01-03,Gulf of St. Lawrence,-0.099
+1987-02-03,Bay of Fundy,2.122
+1987-02-03,Scotian Shelf,2.244
+1987-02-03,Gulf of St. Lawrence,-0.739
+1987-03-03,Bay of Fundy,1.042
+1987-03-03,Scotian Shelf,1.267
+1987-03-03,Gulf of St. Lawrence,-0.536
+1987-04-03,Bay of Fundy,1.343
+1987-04-03,Scotian Shelf,2.017
+1987-04-03,Gulf of St. Lawrence,0.016
+1987-05-03,Bay of Fundy,2.492
+1987-05-03,Scotian Shelf,3.178
+1987-05-03,Gulf of St. Lawrence,1.642
+1987-06-03,Bay of Fundy,7.976
+1987-06-03,Scotian Shelf,7.645
+1987-06-03,Gulf of St. Lawrence,7.854
+1987-07-03,Bay of Fundy,10.278
+1987-07-03,Scotian Shelf,11.53
+1987-07-03,Gulf of St. Lawrence,12.236
+1987-08-03,Bay of Fundy,12.874
+1987-08-03,Scotian Shelf,16.854
+1987-08-03,Gulf of St. Lawrence,15.382
+1987-09-03,Bay of Fundy,12.742
+1987-09-03,Scotian Shelf,16.181
+1987-09-03,Gulf of St. Lawrence,13.325
+1987-10-03,Bay of Fundy,11.772
+1987-10-03,Scotian Shelf,14.146
+1987-10-03,Gulf of St. Lawrence,10.773
+1987-11-03,Bay of Fundy,9.489
+1987-11-03,Scotian Shelf,10.451
+1987-11-03,Gulf of St. Lawrence,6.001
+1987-12-03,Bay of Fundy,4.988
+1987-12-03,Scotian Shelf,7.028
+1987-12-03,Gulf of St. Lawrence,2.307
+1988-01-03,Bay of Fundy,3.822
+1988-01-03,Scotian Shelf,3.737
+1988-01-03,Gulf of St. Lawrence,0.082
+1988-02-03,Bay of Fundy,2.294
+1988-02-03,Scotian Shelf,2.009
+1988-02-03,Gulf of St. Lawrence,-0.351
+1988-03-03,Bay of Fundy,2.039
+1988-03-03,Scotian Shelf,1.996
+1988-03-03,Gulf of St. Lawrence,-0.47
+1988-04-03,Bay of Fundy,2.629
+1988-04-03,Scotian Shelf,2.724
+1988-04-03,Gulf of St. Lawrence,0.047
+1988-05-03,Bay of Fundy,2.151
+1988-05-03,Scotian Shelf,3.804
+1988-05-03,Gulf of St. Lawrence,1.738
+1988-06-03,Bay of Fundy,6.622
+1988-06-03,Scotian Shelf,7.225
+1988-06-03,Gulf of St. Lawrence,5.852
+1988-07-03,Bay of Fundy,9.761
+1988-07-03,Scotian Shelf,10.781
+1988-07-03,Gulf of St. Lawrence,10.971
+1988-08-03,Bay of Fundy,14.484
+1988-08-03,Scotian Shelf,16.083
+1988-08-03,Gulf of St. Lawrence,16.362
+1988-09-03,Bay of Fundy,12.836
+1988-09-03,Scotian Shelf,16.566
+1988-09-03,Gulf of St. Lawrence,15.332
+1988-10-03,Bay of Fundy,11.698
+1988-10-03,Scotian Shelf,13.374
+1988-10-03,Gulf of St. Lawrence,9.502
+1988-11-03,Bay of Fundy,9.163
+1988-11-03,Scotian Shelf,10.076
+1988-11-03,Gulf of St. Lawrence,5.545
+1988-12-03,Bay of Fundy,6.821
+1988-12-03,Scotian Shelf,6.045
+1988-12-03,Gulf of St. Lawrence,2.626
+1989-01-03,Bay of Fundy,3.199
+1989-01-03,Scotian Shelf,3.53
+1989-01-03,Gulf of St. Lawrence,0.182
+1989-02-03,Bay of Fundy,2.12
+1989-02-03,Scotian Shelf,2.085
+1989-02-03,Gulf of St. Lawrence,-0.579
+1989-03-03,Bay of Fundy,1.448
+1989-03-03,Scotian Shelf,1.189
+1989-03-03,Gulf of St. Lawrence,-0.72
+1989-04-03,Bay of Fundy,1.749
+1989-04-03,Scotian Shelf,1.778
+1989-04-03,Gulf of St. Lawrence,-0.407
+1989-05-03,Bay of Fundy,3.62
+1989-05-03,Scotian Shelf,4.233
+1989-05-03,Gulf of St. Lawrence,2.542
+1989-06-03,Bay of Fundy,8.744
+1989-06-03,Scotian Shelf,9.167
+1989-06-03,Gulf of St. Lawrence,8.388
+1989-07-03,Bay of Fundy,11.685
+1989-07-03,Scotian Shelf,13.098
+1989-07-03,Gulf of St. Lawrence,13.91
+1989-08-03,Bay of Fundy,13.61
+1989-08-03,Scotian Shelf,16.976
+1989-08-03,Gulf of St. Lawrence,16.215
+1989-09-03,Bay of Fundy,12.959
+1989-09-03,Scotian Shelf,15.726
+1989-09-03,Gulf of St. Lawrence,12.519
+1989-10-03,Bay of Fundy,11.756
+1989-10-03,Scotian Shelf,13.653
+1989-10-03,Gulf of St. Lawrence,8.904
+1989-11-03,Bay of Fundy,10.076
+1989-11-03,Scotian Shelf,11.005
+1989-11-03,Gulf of St. Lawrence,6.276
+1989-12-03,Bay of Fundy,6.336
+1989-12-03,Scotian Shelf,6.399
+1989-12-03,Gulf of St. Lawrence,1.804
+1990-01-03,Bay of Fundy,3.603
+1990-01-03,Scotian Shelf,3.117
+1990-01-03,Gulf of St. Lawrence,-0.241
+1990-02-03,Bay of Fundy,2.184
+1990-02-03,Scotian Shelf,1.955
+1990-02-03,Gulf of St. Lawrence,-0.327
+1990-03-03,Bay of Fundy,1.897
+1990-03-03,Scotian Shelf,1.609
+1990-03-03,Gulf of St. Lawrence,-0.647
+1990-04-03,Bay of Fundy,1.541
+1990-04-03,Scotian Shelf,1.9
+1990-04-03,Gulf of St. Lawrence,-0.046
+1990-05-03,Bay of Fundy,4.323
+1990-05-03,Scotian Shelf,4.211
+1990-05-03,Gulf of St. Lawrence,2.073
+1990-06-03,Bay of Fundy,6.439
+1990-06-03,Scotian Shelf,6.298
+1990-06-03,Gulf of St. Lawrence,4.583
+1990-07-03,Bay of Fundy,10.917
+1990-07-03,Scotian Shelf,11.601
+1990-07-03,Gulf of St. Lawrence,12.358
+1990-08-03,Bay of Fundy,14.435
+1990-08-03,Scotian Shelf,15.906
+1990-08-03,Gulf of St. Lawrence,15.202
+1990-09-03,Bay of Fundy,15.639
+1990-09-03,Scotian Shelf,18.471
+1990-09-03,Gulf of St. Lawrence,15.39
+1990-10-03,Bay of Fundy,12.754
+1990-10-03,Scotian Shelf,15.171
+1990-10-03,Gulf of St. Lawrence,11.018
+1990-11-03,Bay of Fundy,9.901
+1990-11-03,Scotian Shelf,10.026
+1990-11-03,Gulf of St. Lawrence,5.523
+1990-12-03,Bay of Fundy,6.767
+1990-12-03,Scotian Shelf,6.393
+1990-12-03,Gulf of St. Lawrence,2.441
+1991-01-03,Bay of Fundy,4.076
+1991-01-03,Scotian Shelf,4.361
+1991-01-03,Gulf of St. Lawrence,-0.239
+1991-02-03,Bay of Fundy,2.194
+1991-02-03,Scotian Shelf,1.942
+1991-02-03,Gulf of St. Lawrence,-0.713
+1991-03-03,Bay of Fundy,1.386
+1991-03-03,Scotian Shelf,1.574
+1991-03-03,Gulf of St. Lawrence,-0.439
+1991-04-03,Bay of Fundy,2.479
+1991-04-03,Scotian Shelf,2.51
+1991-04-03,Gulf of St. Lawrence,-0.655
+1991-05-03,Bay of Fundy,2.715
+1991-05-03,Scotian Shelf,3.534
+1991-05-03,Gulf of St. Lawrence,1.895
+1991-06-03,Bay of Fundy,7.692
+1991-06-03,Scotian Shelf,7.385
+1991-06-03,Gulf of St. Lawrence,6.401
+1991-07-03,Bay of Fundy,12.037
+1991-07-03,Scotian Shelf,12.082
+1991-07-03,Gulf of St. Lawrence,10.33
+1991-08-03,Bay of Fundy,14.884
+1991-08-03,Scotian Shelf,16.425
+1991-08-03,Gulf of St. Lawrence,15.781
+1991-09-03,Bay of Fundy,12.726
+1991-09-03,Scotian Shelf,15.791
+1991-09-03,Gulf of St. Lawrence,13.515
+1991-10-03,Bay of Fundy,12.604
+1991-10-03,Scotian Shelf,13.659
+1991-10-03,Gulf of St. Lawrence,10.46
+1991-11-03,Bay of Fundy,10.371
+1991-11-03,Scotian Shelf,10.515
+1991-11-03,Gulf of St. Lawrence,7.19
+1991-12-03,Bay of Fundy,7.487
+1991-12-03,Scotian Shelf,7.557
+1991-12-03,Gulf of St. Lawrence,3.552
+1992-01-03,Bay of Fundy,3.583
+1992-01-03,Scotian Shelf,3.944
+1992-01-03,Gulf of St. Lawrence,0.271
+1992-02-03,Bay of Fundy,2.202
+1992-02-03,Scotian Shelf,1.953
+1992-02-03,Gulf of St. Lawrence,-0.229
+1992-03-03,Bay of Fundy,1.412
+1992-03-03,Scotian Shelf,1.212
+1992-03-03,Gulf of St. Lawrence,-0.616
+1992-04-03,Bay of Fundy,1.407
+1992-04-03,Scotian Shelf,1.807
+1992-04-03,Gulf of St. Lawrence,-0.103
+1992-05-03,Bay of Fundy,2.392
+1992-05-03,Scotian Shelf,3.202
+1992-05-03,Gulf of St. Lawrence,1.253
+1992-06-03,Bay of Fundy,5.732
+1992-06-03,Scotian Shelf,7.349
+1992-06-03,Gulf of St. Lawrence,6.56
+1992-07-03,Bay of Fundy,10.086
+1992-07-03,Scotian Shelf,11.387
+1992-07-03,Gulf of St. Lawrence,11.246
+1992-08-03,Bay of Fundy,12.726
+1992-08-03,Scotian Shelf,15.387
+1992-08-03,Gulf of St. Lawrence,13.826
+1992-09-03,Bay of Fundy,12.972
+1992-09-03,Scotian Shelf,16.449
+1992-09-03,Gulf of St. Lawrence,13.601
+1992-10-03,Bay of Fundy,10.84
+1992-10-03,Scotian Shelf,14.161
+1992-10-03,Gulf of St. Lawrence,9.968
+1992-11-03,Bay of Fundy,8.754
+1992-11-03,Scotian Shelf,10.298
+1992-11-03,Gulf of St. Lawrence,5.812
+1992-12-03,Bay of Fundy,6.734
+1992-12-03,Scotian Shelf,7.43
+1992-12-03,Gulf of St. Lawrence,2.483
+1993-01-03,Bay of Fundy,3.71
+1993-01-03,Scotian Shelf,4.257
+1993-01-03,Gulf of St. Lawrence,-0.214
+1993-02-03,Bay of Fundy,2.46
+1993-02-03,Scotian Shelf,2.298
+1993-02-03,Gulf of St. Lawrence,-0.742
+1993-03-03,Bay of Fundy,1.434
+1993-03-03,Scotian Shelf,2.033
+1993-03-03,Gulf of St. Lawrence,-0.892
+1993-04-03,Bay of Fundy,1.078
+1993-04-03,Scotian Shelf,2.26
+1993-04-03,Gulf of St. Lawrence,-0.515
+1993-05-03,Bay of Fundy,2.422
+1993-05-03,Scotian Shelf,3.639
+1993-05-03,Gulf of St. Lawrence,1.109
+1993-06-03,Bay of Fundy,5.583
+1993-06-03,Scotian Shelf,6.73
+1993-06-03,Gulf of St. Lawrence,5.319
+1993-07-03,Bay of Fundy,9.499
+1993-07-03,Scotian Shelf,11.191
+1993-07-03,Gulf of St. Lawrence,10.755
+1993-08-03,Bay of Fundy,14.804
+1993-08-03,Scotian Shelf,16.646
+1993-08-03,Gulf of St. Lawrence,15.406
+1993-09-03,Bay of Fundy,14.136
+1993-09-03,Scotian Shelf,17.355
+1993-09-03,Gulf of St. Lawrence,14.821
+1993-10-03,Bay of Fundy,11.716
+1993-10-03,Scotian Shelf,14.603
+1993-10-03,Gulf of St. Lawrence,10.0
+1993-11-03,Bay of Fundy,9.408
+1993-11-03,Scotian Shelf,10.386
+1993-11-03,Gulf of St. Lawrence,5.345
+1993-12-03,Bay of Fundy,6.692
+1993-12-03,Scotian Shelf,7.14
+1993-12-03,Gulf of St. Lawrence,1.994
+1994-01-03,Bay of Fundy,2.783
+1994-01-03,Scotian Shelf,3.929
+1994-01-03,Gulf of St. Lawrence,0.062
+1994-02-03,Bay of Fundy,2.461
+1994-02-03,Scotian Shelf,2.156
+1994-02-03,Gulf of St. Lawrence,-0.722
+1994-03-03,Bay of Fundy,1.59
+1994-03-03,Scotian Shelf,1.325
+1994-03-03,Gulf of St. Lawrence,-0.673
+1994-04-03,Bay of Fundy,1.884
+1994-04-03,Scotian Shelf,1.996
+1994-04-03,Gulf of St. Lawrence,-0.147
+1994-05-03,Bay of Fundy,4.287
+1994-05-03,Scotian Shelf,4.145
+1994-05-03,Gulf of St. Lawrence,1.683
+1994-06-03,Bay of Fundy,6.808
+1994-06-03,Scotian Shelf,6.761
+1994-06-03,Gulf of St. Lawrence,5.262
+1994-07-03,Bay of Fundy,12.703
+1994-07-03,Scotian Shelf,14.308
+1994-07-03,Gulf of St. Lawrence,12.658
+1994-08-03,Bay of Fundy,16.606
+1994-08-03,Scotian Shelf,19.333
+1994-08-03,Gulf of St. Lawrence,16.483
+1994-09-03,Bay of Fundy,13.888
+1994-09-03,Scotian Shelf,17.003
+1994-09-03,Gulf of St. Lawrence,13.079
+1994-10-03,Bay of Fundy,12.128
+1994-10-03,Scotian Shelf,13.869
+1994-10-03,Gulf of St. Lawrence,10.421
+1994-11-03,Bay of Fundy,10.199
+1994-11-03,Scotian Shelf,10.367
+1994-11-03,Gulf of St. Lawrence,7.191
+1994-12-03,Bay of Fundy,7.491
+1994-12-03,Scotian Shelf,6.417
+1994-12-03,Gulf of St. Lawrence,2.751
+1995-01-03,Bay of Fundy,2.833
+1995-01-03,Scotian Shelf,3.394
+1995-01-03,Gulf of St. Lawrence,-0.216
+1995-02-03,Bay of Fundy,2.337
+1995-02-03,Scotian Shelf,2.954
+1995-02-03,Gulf of St. Lawrence,-0.021
+1995-03-03,Bay of Fundy,1.897
+1995-03-03,Scotian Shelf,1.998
+1995-03-03,Gulf of St. Lawrence,-0.787
+1995-04-03,Bay of Fundy,1.451
+1995-04-03,Scotian Shelf,1.96
+1995-04-03,Gulf of St. Lawrence,-0.155
+1995-05-03,Bay of Fundy,3.115
+1995-05-03,Scotian Shelf,3.341
+1995-05-03,Gulf of St. Lawrence,1.658
+1995-06-03,Bay of Fundy,5.934
+1995-06-03,Scotian Shelf,6.452
+1995-06-03,Gulf of St. Lawrence,6.777
+1995-07-03,Bay of Fundy,11.009
+1995-07-03,Scotian Shelf,12.704
+1995-07-03,Gulf of St. Lawrence,12.857
+1995-08-03,Bay of Fundy,14.514
+1995-08-03,Scotian Shelf,16.684
+1995-08-03,Gulf of St. Lawrence,16.737
+1995-09-03,Bay of Fundy,13.915
+1995-09-03,Scotian Shelf,15.806
+1995-09-03,Gulf of St. Lawrence,13.895
+1995-10-03,Bay of Fundy,12.156
+1995-10-03,Scotian Shelf,13.864
+1995-10-03,Gulf of St. Lawrence,10.871
+1995-11-03,Bay of Fundy,10.614
+1995-11-03,Scotian Shelf,11.248
+1995-11-03,Gulf of St. Lawrence,7.006
+1995-12-03,Bay of Fundy,7.354
+1995-12-03,Scotian Shelf,7.744
+1995-12-03,Gulf of St. Lawrence,2.654
+1996-01-03,Bay of Fundy,4.206
+1996-01-03,Scotian Shelf,4.049
+1996-01-03,Gulf of St. Lawrence,0.59
+1996-02-03,Bay of Fundy,1.934
+1996-02-03,Scotian Shelf,2.083
+1996-02-03,Gulf of St. Lawrence,-0.284
+1996-03-03,Bay of Fundy,1.736
+1996-03-03,Scotian Shelf,2.316
+1996-03-03,Gulf of St. Lawrence,-0.198
+1996-04-03,Bay of Fundy,1.537
+1996-04-03,Scotian Shelf,1.901
+1996-04-03,Gulf of St. Lawrence,-0.445
+1996-05-03,Bay of Fundy,3.691
+1996-05-03,Scotian Shelf,4.194
+1996-05-03,Gulf of St. Lawrence,1.667
+1996-06-03,Bay of Fundy,7.046
+1996-06-03,Scotian Shelf,7.178
+1996-06-03,Gulf of St. Lawrence,6.827
+1996-07-03,Bay of Fundy,10.306
+1996-07-03,Scotian Shelf,13.263
+1996-07-03,Gulf of St. Lawrence,12.712
+1996-08-03,Bay of Fundy,11.933
+1996-08-03,Scotian Shelf,15.214
+1996-08-03,Gulf of St. Lawrence,16.424
+1996-09-03,Bay of Fundy,13.542
+1996-09-03,Scotian Shelf,17.205
+1996-09-03,Gulf of St. Lawrence,15.617
+1996-10-03,Bay of Fundy,12.369
+1996-10-03,Scotian Shelf,13.178
+1996-10-03,Gulf of St. Lawrence,11.06
+1996-11-03,Bay of Fundy,9.288
+1996-11-03,Scotian Shelf,9.705
+1996-11-03,Gulf of St. Lawrence,6.76
+1996-12-03,Bay of Fundy,6.817
+1996-12-03,Scotian Shelf,7.133
+1996-12-03,Gulf of St. Lawrence,3.209
+1997-01-03,Bay of Fundy,3.374
+1997-01-03,Scotian Shelf,4.265
+1997-01-03,Gulf of St. Lawrence,0.527
+1997-02-03,Bay of Fundy,2.208
+1997-02-03,Scotian Shelf,2.878
+1997-02-03,Gulf of St. Lawrence,-0.283
+1997-03-03,Bay of Fundy,2.242
+1997-03-03,Scotian Shelf,1.976
+1997-03-03,Gulf of St. Lawrence,-0.574
+1997-04-03,Bay of Fundy,1.709
+1997-04-03,Scotian Shelf,1.814
+1997-04-03,Gulf of St. Lawrence,-0.629
+1997-05-03,Bay of Fundy,2.441
+1997-05-03,Scotian Shelf,3.021
+1997-05-03,Gulf of St. Lawrence,0.597
+1997-06-03,Bay of Fundy,7.019
+1997-06-03,Scotian Shelf,6.532
+1997-06-03,Gulf of St. Lawrence,5.551
+1997-07-03,Bay of Fundy,11.852
+1997-07-03,Scotian Shelf,12.104
+1997-07-03,Gulf of St. Lawrence,13.038
+1997-08-03,Bay of Fundy,13.634
+1997-08-03,Scotian Shelf,16.172
+1997-08-03,Gulf of St. Lawrence,15.344
+1997-09-03,Bay of Fundy,13.003
+1997-09-03,Scotian Shelf,16.381
+1997-09-03,Gulf of St. Lawrence,14.938
+1997-10-03,Bay of Fundy,11.441
+1997-10-03,Scotian Shelf,13.676
+1997-10-03,Gulf of St. Lawrence,10.552
+1997-11-03,Bay of Fundy,9.97
+1997-11-03,Scotian Shelf,9.766
+1997-11-03,Gulf of St. Lawrence,7.146
+1997-12-03,Bay of Fundy,6.682
+1997-12-03,Scotian Shelf,6.302
+1997-12-03,Gulf of St. Lawrence,2.5
+1998-01-03,Bay of Fundy,3.506
+1998-01-03,Scotian Shelf,3.499
+1998-01-03,Gulf of St. Lawrence,-0.197
+1998-02-03,Bay of Fundy,2.316
+1998-02-03,Scotian Shelf,1.907
+1998-02-03,Gulf of St. Lawrence,-0.511
+1998-03-03,Bay of Fundy,1.144
+1998-03-03,Scotian Shelf,1.845
+1998-03-03,Gulf of St. Lawrence,0.107
+1998-04-03,Bay of Fundy,1.805
+1998-04-03,Scotian Shelf,2.572
+1998-04-03,Gulf of St. Lawrence,-0.215
+1998-05-03,Bay of Fundy,3.706
+1998-05-03,Scotian Shelf,4.59
+1998-05-03,Gulf of St. Lawrence,2.681
+1998-06-03,Bay of Fundy,7.779
+1998-06-03,Scotian Shelf,8.156
+1998-06-03,Gulf of St. Lawrence,7.44
+1998-07-03,Bay of Fundy,11.258
+1998-07-03,Scotian Shelf,12.664
+1998-07-03,Gulf of St. Lawrence,12.306
+1998-08-03,Bay of Fundy,14.527
+1998-08-03,Scotian Shelf,17.785
+1998-08-03,Gulf of St. Lawrence,16.308
+1998-09-03,Bay of Fundy,14.241
+1998-09-03,Scotian Shelf,16.815
+1998-09-03,Gulf of St. Lawrence,15.099
+1998-10-03,Bay of Fundy,11.541
+1998-10-03,Scotian Shelf,13.53
+1998-10-03,Gulf of St. Lawrence,9.765
+1998-11-03,Bay of Fundy,8.711
+1998-11-03,Scotian Shelf,9.951
+1998-11-03,Gulf of St. Lawrence,5.553
+1998-12-03,Bay of Fundy,6.618
+1998-12-03,Scotian Shelf,6.998
+1998-12-03,Gulf of St. Lawrence,2.474
+1999-01-03,Bay of Fundy,2.807
+1999-01-03,Scotian Shelf,3.619
+1999-01-03,Gulf of St. Lawrence,0.128
+1999-02-03,Bay of Fundy,2.145
+1999-02-03,Scotian Shelf,2.177
+1999-02-03,Gulf of St. Lawrence,-0.328
+1999-03-03,Bay of Fundy,1.766
+1999-03-03,Scotian Shelf,2.101
+1999-03-03,Gulf of St. Lawrence,-0.312
+1999-04-03,Bay of Fundy,2.084
+1999-04-03,Scotian Shelf,2.866
+1999-04-03,Gulf of St. Lawrence,-0.356
+1999-05-03,Bay of Fundy,4.289
+1999-05-03,Scotian Shelf,4.929
+1999-05-03,Gulf of St. Lawrence,2.315
+1999-06-03,Bay of Fundy,6.559
+1999-06-03,Scotian Shelf,9.887
+1999-06-03,Gulf of St. Lawrence,6.651
+1999-07-03,Bay of Fundy,13.257
+1999-07-03,Scotian Shelf,15.134
+1999-07-03,Gulf of St. Lawrence,13.978
+1999-08-03,Bay of Fundy,15.627
+1999-08-03,Scotian Shelf,18.58
+1999-08-03,Gulf of St. Lawrence,17.009
+1999-09-03,Bay of Fundy,16.245
+1999-09-03,Scotian Shelf,18.95
+1999-09-03,Gulf of St. Lawrence,16.772
+1999-10-03,Bay of Fundy,13.662
+1999-10-03,Scotian Shelf,15.836
+1999-10-03,Gulf of St. Lawrence,12.47
+1999-11-03,Bay of Fundy,10.747
+1999-11-03,Scotian Shelf,10.451
+1999-11-03,Gulf of St. Lawrence,5.788
+1999-12-03,Bay of Fundy,8.723
+1999-12-03,Scotian Shelf,8.115
+1999-12-03,Gulf of St. Lawrence,3.337
+2000-01-03,Bay of Fundy,4.901
+2000-01-03,Scotian Shelf,5.085
+2000-01-03,Gulf of St. Lawrence,0.564
+2000-02-03,Bay of Fundy,2.812
+2000-02-03,Scotian Shelf,3.261
+2000-02-03,Gulf of St. Lawrence,-0.205
+2000-03-03,Bay of Fundy,2.218
+2000-03-03,Scotian Shelf,2.133
+2000-03-03,Gulf of St. Lawrence,-0.031
+2000-04-03,Bay of Fundy,2.532
+2000-04-03,Scotian Shelf,3.212
+2000-04-03,Gulf of St. Lawrence,0.207
+2000-05-03,Bay of Fundy,4.932
+2000-05-03,Scotian Shelf,4.601
+2000-05-03,Gulf of St. Lawrence,1.631
+2000-06-03,Bay of Fundy,9.027
+2000-06-03,Scotian Shelf,8.772
+2000-06-03,Gulf of St. Lawrence,6.273
+2000-07-03,Bay of Fundy,12.711
+2000-07-03,Scotian Shelf,13.304
+2000-07-03,Gulf of St. Lawrence,13.592
+2000-08-03,Bay of Fundy,14.642
+2000-08-03,Scotian Shelf,16.644
+2000-08-03,Gulf of St. Lawrence,16.838
+2000-09-03,Bay of Fundy,14.657
+2000-09-03,Scotian Shelf,17.387
+2000-09-03,Gulf of St. Lawrence,15.636
+2000-10-03,Bay of Fundy,13.661
+2000-10-03,Scotian Shelf,15.293
+2000-10-03,Gulf of St. Lawrence,11.169
+2000-11-03,Bay of Fundy,10.571
+2000-11-03,Scotian Shelf,11.94
+2000-11-03,Gulf of St. Lawrence,6.511
+2000-12-03,Bay of Fundy,7.877
+2000-12-03,Scotian Shelf,8.071
+2000-12-03,Gulf of St. Lawrence,3.855
+2001-01-03,Bay of Fundy,3.23
+2001-01-03,Scotian Shelf,3.505
+2001-01-03,Gulf of St. Lawrence,0.644
+2001-02-03,Bay of Fundy,2.416
+2001-02-03,Scotian Shelf,2.692
+2001-02-03,Gulf of St. Lawrence,-0.228
+2001-03-03,Bay of Fundy,1.373
+2001-03-03,Scotian Shelf,1.187
+2001-03-03,Gulf of St. Lawrence,-0.108
+2001-04-03,Bay of Fundy,1.639
+2001-04-03,Scotian Shelf,1.863
+2001-04-03,Gulf of St. Lawrence,-0.392
+2001-05-03,Bay of Fundy,3.746
+2001-05-03,Scotian Shelf,3.333
+2001-05-03,Gulf of St. Lawrence,1.88
+2001-06-03,Bay of Fundy,7.639
+2001-06-03,Scotian Shelf,7.72
+2001-06-03,Gulf of St. Lawrence,8.875
+2001-07-03,Bay of Fundy,11.872
+2001-07-03,Scotian Shelf,12.654
+2001-07-03,Gulf of St. Lawrence,12.205
+2001-08-03,Bay of Fundy,14.37
+2001-08-03,Scotian Shelf,16.263
+2001-08-03,Gulf of St. Lawrence,16.846
+2001-09-03,Bay of Fundy,13.445
+2001-09-03,Scotian Shelf,17.291
+2001-09-03,Gulf of St. Lawrence,14.687
+2001-10-03,Bay of Fundy,12.61
+2001-10-03,Scotian Shelf,15.433
+2001-10-03,Gulf of St. Lawrence,12.245
+2001-11-03,Bay of Fundy,10.272
+2001-11-03,Scotian Shelf,12.133
+2001-11-03,Gulf of St. Lawrence,7.286
+2001-12-03,Bay of Fundy,8.21
+2001-12-03,Scotian Shelf,8.009
+2001-12-03,Gulf of St. Lawrence,3.556
+2002-01-03,Bay of Fundy,5.995
+2002-01-03,Scotian Shelf,5.351
+2002-01-03,Gulf of St. Lawrence,0.783
+2002-02-03,Bay of Fundy,3.75
+2002-02-03,Scotian Shelf,2.954
+2002-02-03,Gulf of St. Lawrence,-0.41
+2002-03-03,Bay of Fundy,2.521
+2002-03-03,Scotian Shelf,2.357
+2002-03-03,Gulf of St. Lawrence,-0.563
+2002-04-03,Bay of Fundy,2.37
+2002-04-03,Scotian Shelf,2.496
+2002-04-03,Gulf of St. Lawrence,-0.735
+2002-05-03,Bay of Fundy,3.923
+2002-05-03,Scotian Shelf,4.035
+2002-05-03,Gulf of St. Lawrence,1.671
+2002-06-03,Bay of Fundy,7.204
+2002-06-03,Scotian Shelf,7.689
+2002-06-03,Gulf of St. Lawrence,5.962
+2002-07-03,Bay of Fundy,11.926
+2002-07-03,Scotian Shelf,11.947
+2002-07-03,Gulf of St. Lawrence,12.959
+2002-08-03,Bay of Fundy,14.243
+2002-08-03,Scotian Shelf,16.186
+2002-08-03,Gulf of St. Lawrence,15.749
+2002-09-03,Bay of Fundy,15.039
+2002-09-03,Scotian Shelf,17.964
+2002-09-03,Gulf of St. Lawrence,15.069
+2002-10-03,Bay of Fundy,13.459
+2002-10-03,Scotian Shelf,14.81
+2002-10-03,Gulf of St. Lawrence,10.866
+2002-11-03,Bay of Fundy,10.098
+2002-11-03,Scotian Shelf,9.915
+2002-11-03,Gulf of St. Lawrence,5.246
+2002-12-03,Bay of Fundy,6.976
+2002-12-03,Scotian Shelf,6.536
+2002-12-03,Gulf of St. Lawrence,1.976
+2003-01-03,Bay of Fundy,3.602
+2003-01-03,Scotian Shelf,4.035
+2003-01-03,Gulf of St. Lawrence,0.208
+2003-02-03,Bay of Fundy,1.63
+2003-02-03,Scotian Shelf,1.616
+2003-02-03,Gulf of St. Lawrence,-0.326
+2003-03-03,Bay of Fundy,1.271
+2003-03-03,Scotian Shelf,1.487
+2003-03-03,Gulf of St. Lawrence,-0.2
+2003-04-03,Bay of Fundy,1.492
+2003-04-03,Scotian Shelf,1.638
+2003-04-03,Gulf of St. Lawrence,-0.805
+2003-05-03,Bay of Fundy,2.953
+2003-05-03,Scotian Shelf,3.472
+2003-05-03,Gulf of St. Lawrence,1.488
+2003-06-03,Bay of Fundy,6.004
+2003-06-03,Scotian Shelf,6.858
+2003-06-03,Gulf of St. Lawrence,4.843
+2003-07-03,Bay of Fundy,12.304
+2003-07-03,Scotian Shelf,13.169
+2003-07-03,Gulf of St. Lawrence,12.75
+2003-08-03,Bay of Fundy,13.538
+2003-08-03,Scotian Shelf,17.664
+2003-08-03,Gulf of St. Lawrence,16.618
+2003-09-03,Bay of Fundy,13.14
+2003-09-03,Scotian Shelf,16.819
+2003-09-03,Gulf of St. Lawrence,13.766
+2003-10-03,Bay of Fundy,13.37
+2003-10-03,Scotian Shelf,16.848
+2003-10-03,Gulf of St. Lawrence,12.284
+2003-11-03,Bay of Fundy,10.276
+2003-11-03,Scotian Shelf,12.018
+2003-11-03,Gulf of St. Lawrence,6.328
+2003-12-03,Bay of Fundy,7.413
+2003-12-03,Scotian Shelf,7.806
+2003-12-03,Gulf of St. Lawrence,2.874
+2004-01-03,Bay of Fundy,4.498
+2004-01-03,Scotian Shelf,4.728
+2004-01-03,Gulf of St. Lawrence,0.65
+2004-02-03,Bay of Fundy,2.636
+2004-02-03,Scotian Shelf,1.735
+2004-02-03,Gulf of St. Lawrence,-0.606
+2004-03-03,Bay of Fundy,1.239
+2004-03-03,Scotian Shelf,1.176
+2004-03-03,Gulf of St. Lawrence,-0.524
+2004-04-03,Bay of Fundy,0.968
+2004-04-03,Scotian Shelf,1.68
+2004-04-03,Gulf of St. Lawrence,-0.168
+2004-05-03,Bay of Fundy,2.963
+2004-05-03,Scotian Shelf,4.504
+2004-05-03,Gulf of St. Lawrence,2.021
+2004-06-03,Bay of Fundy,5.835
+2004-06-03,Scotian Shelf,6.845
+2004-06-03,Gulf of St. Lawrence,6.312
+2004-07-03,Bay of Fundy,10.741
+2004-07-03,Scotian Shelf,11.808
+2004-07-03,Gulf of St. Lawrence,11.273
+2004-08-03,Bay of Fundy,13.566
+2004-08-03,Scotian Shelf,16.985
+2004-08-03,Gulf of St. Lawrence,16.913
+2004-09-03,Bay of Fundy,13.074
+2004-09-03,Scotian Shelf,17.277
+2004-09-03,Gulf of St. Lawrence,14.937
+2004-10-03,Bay of Fundy,11.59
+2004-10-03,Scotian Shelf,13.207
+2004-10-03,Gulf of St. Lawrence,10.835
+2004-11-03,Bay of Fundy,9.846
+2004-11-03,Scotian Shelf,11.171
+2004-11-03,Gulf of St. Lawrence,7.663
+2004-12-03,Bay of Fundy,7.033
+2004-12-03,Scotian Shelf,7.35
+2004-12-03,Gulf of St. Lawrence,2.924
+2005-01-03,Bay of Fundy,4.541
+2005-01-03,Scotian Shelf,4.4
+2005-01-03,Gulf of St. Lawrence,0.177
+2005-02-03,Bay of Fundy,2.405
+2005-02-03,Scotian Shelf,3.261
+2005-02-03,Gulf of St. Lawrence,-0.217
+2005-03-03,Bay of Fundy,1.437
+2005-03-03,Scotian Shelf,2.335
+2005-03-03,Gulf of St. Lawrence,-0.199
+2005-04-03,Bay of Fundy,1.28
+2005-04-03,Scotian Shelf,2.126
+2005-04-03,Gulf of St. Lawrence,-0.03
+2005-05-03,Bay of Fundy,3.96
+2005-05-03,Scotian Shelf,4.187
+2005-05-03,Gulf of St. Lawrence,1.75
+2005-06-03,Bay of Fundy,6.741
+2005-06-03,Scotian Shelf,7.44
+2005-06-03,Gulf of St. Lawrence,7.502
+2005-07-03,Bay of Fundy,10.623
+2005-07-03,Scotian Shelf,12.898
+2005-07-03,Gulf of St. Lawrence,12.351
+2005-08-03,Bay of Fundy,13.845
+2005-08-03,Scotian Shelf,16.978
+2005-08-03,Gulf of St. Lawrence,15.785
+2005-09-03,Bay of Fundy,13.994
+2005-09-03,Scotian Shelf,18.974
+2005-09-03,Gulf of St. Lawrence,15.888
+2005-10-03,Bay of Fundy,12.818
+2005-10-03,Scotian Shelf,15.336
+2005-10-03,Gulf of St. Lawrence,11.164
+2005-11-03,Bay of Fundy,10.517
+2005-11-03,Scotian Shelf,11.525
+2005-11-03,Gulf of St. Lawrence,7.104
+2005-12-03,Bay of Fundy,8.266
+2005-12-03,Scotian Shelf,7.968
+2005-12-03,Gulf of St. Lawrence,4.304
+2006-01-03,Bay of Fundy,4.825
+2006-01-03,Scotian Shelf,4.673
+2006-01-03,Gulf of St. Lawrence,0.653
+2006-02-03,Bay of Fundy,4.314
+2006-02-03,Scotian Shelf,3.445
+2006-02-03,Gulf of St. Lawrence,-0.262
+2006-03-03,Bay of Fundy,2.282
+2006-03-03,Scotian Shelf,2.232
+2006-03-03,Gulf of St. Lawrence,-0.145
+2006-04-03,Bay of Fundy,3.534
+2006-04-03,Scotian Shelf,3.055
+2006-04-03,Gulf of St. Lawrence,0.313
+2006-05-03,Bay of Fundy,5.188
+2006-05-03,Scotian Shelf,5.408
+2006-05-03,Gulf of St. Lawrence,3.845
+2006-06-03,Bay of Fundy,9.602
+2006-06-03,Scotian Shelf,9.677
+2006-06-03,Gulf of St. Lawrence,9.009
+2006-07-03,Bay of Fundy,11.903
+2006-07-03,Scotian Shelf,13.895
+2006-07-03,Gulf of St. Lawrence,13.896
+2006-08-03,Bay of Fundy,15.383
+2006-08-03,Scotian Shelf,17.718
+2006-08-03,Gulf of St. Lawrence,16.527
+2006-09-03,Bay of Fundy,14.433
+2006-09-03,Scotian Shelf,17.429
+2006-09-03,Gulf of St. Lawrence,15.572
+2006-10-03,Bay of Fundy,13.145
+2006-10-03,Scotian Shelf,15.111
+2006-10-03,Gulf of St. Lawrence,11.238
+2006-11-03,Bay of Fundy,9.8
+2006-11-03,Scotian Shelf,10.499
+2006-11-03,Gulf of St. Lawrence,7.172
+2006-12-03,Bay of Fundy,8.531
+2006-12-03,Scotian Shelf,8.663
+2006-12-03,Gulf of St. Lawrence,4.403
+2007-01-03,Bay of Fundy,6.27
+2007-01-03,Scotian Shelf,4.91
+2007-01-03,Gulf of St. Lawrence,1.025
+2007-02-03,Bay of Fundy,4.281
+2007-02-03,Scotian Shelf,3.037
+2007-02-03,Gulf of St. Lawrence,-0.194
+2007-03-03,Bay of Fundy,2.444
+2007-03-03,Scotian Shelf,1.412
+2007-03-03,Gulf of St. Lawrence,-0.446
+2007-04-03,Bay of Fundy,2.05
+2007-04-03,Scotian Shelf,0.921
+2007-04-03,Gulf of St. Lawrence,-0.779
+2007-05-03,Bay of Fundy,3.825
+2007-05-03,Scotian Shelf,2.597
+2007-05-03,Gulf of St. Lawrence,2.181
+2007-06-03,Bay of Fundy,7.141
+2007-06-03,Scotian Shelf,7.562
+2007-06-03,Gulf of St. Lawrence,7.007
+2007-07-03,Bay of Fundy,10.884
+2007-07-03,Scotian Shelf,12.327
+2007-07-03,Gulf of St. Lawrence,12.891
+2007-08-03,Bay of Fundy,14.409
+2007-08-03,Scotian Shelf,17.435
+2007-08-03,Gulf of St. Lawrence,18.093
+2007-09-03,Bay of Fundy,13.394
+2007-09-03,Scotian Shelf,16.508
+2007-09-03,Gulf of St. Lawrence,14.525
+2007-10-03,Bay of Fundy,12.635
+2007-10-03,Scotian Shelf,14.603
+2007-10-03,Gulf of St. Lawrence,10.597
+2007-11-03,Bay of Fundy,10.168
+2007-11-03,Scotian Shelf,11.067
+2007-11-03,Gulf of St. Lawrence,6.93
+2007-12-03,Bay of Fundy,7.325
+2007-12-03,Scotian Shelf,7.29
+2007-12-03,Gulf of St. Lawrence,3.317
+2008-01-03,Bay of Fundy,3.517
+2008-01-03,Scotian Shelf,3.786
+2008-01-03,Gulf of St. Lawrence,-0.276
+2008-02-03,Bay of Fundy,2.287
+2008-02-03,Scotian Shelf,2.162
+2008-02-03,Gulf of St. Lawrence,0.034
+2008-03-03,Bay of Fundy,1.863
+2008-03-03,Scotian Shelf,2.076
+2008-03-03,Gulf of St. Lawrence,-0.51
+2008-04-03,Bay of Fundy,2.488
+2008-04-03,Scotian Shelf,2.369
+2008-04-03,Gulf of St. Lawrence,-0.647
+2008-05-03,Bay of Fundy,4.697
+2008-05-03,Scotian Shelf,4.088
+2008-05-03,Gulf of St. Lawrence,3.444
+2008-06-03,Bay of Fundy,7.696
+2008-06-03,Scotian Shelf,7.577
+2008-06-03,Gulf of St. Lawrence,7.168
+2008-07-03,Bay of Fundy,11.734
+2008-07-03,Scotian Shelf,14.734
+2008-07-03,Gulf of St. Lawrence,12.781
+2008-08-03,Bay of Fundy,14.316
+2008-08-03,Scotian Shelf,18.382
+2008-08-03,Gulf of St. Lawrence,18.163
+2008-09-03,Bay of Fundy,13.08
+2008-09-03,Scotian Shelf,15.745
+2008-09-03,Gulf of St. Lawrence,16.708
+2008-10-03,Bay of Fundy,12.682
+2008-10-03,Scotian Shelf,14.725
+2008-10-03,Gulf of St. Lawrence,11.074
+2008-11-03,Bay of Fundy,9.469
+2008-11-03,Scotian Shelf,10.024
+2008-11-03,Gulf of St. Lawrence,6.531
+2008-12-03,Bay of Fundy,8.202
+2008-12-03,Scotian Shelf,8.214
+2008-12-03,Gulf of St. Lawrence,3.946
+2009-01-03,Bay of Fundy,4.632
+2009-01-03,Scotian Shelf,4.52
+2009-01-03,Gulf of St. Lawrence,0.042
+2009-02-03,Bay of Fundy,2.903
+2009-02-03,Scotian Shelf,2.135
+2009-02-03,Gulf of St. Lawrence,0.22
+2009-03-03,Bay of Fundy,2.069
+2009-03-03,Scotian Shelf,1.967
+2009-03-03,Gulf of St. Lawrence,0.157
+2009-04-03,Bay of Fundy,2.384
+2009-04-03,Scotian Shelf,2.103
+2009-04-03,Gulf of St. Lawrence,-0.529
+2009-05-03,Bay of Fundy,4.912
+2009-05-03,Scotian Shelf,3.954
+2009-05-03,Gulf of St. Lawrence,1.987
+2009-06-03,Bay of Fundy,8.054
+2009-06-03,Scotian Shelf,8.219
+2009-06-03,Gulf of St. Lawrence,7.071
+2009-07-03,Bay of Fundy,13.069
+2009-07-03,Scotian Shelf,15.136
+2009-07-03,Gulf of St. Lawrence,13.898
+2009-08-03,Bay of Fundy,14.945
+2009-08-03,Scotian Shelf,18.277
+2009-08-03,Gulf of St. Lawrence,17.627
+2009-09-03,Bay of Fundy,13.847
+2009-09-03,Scotian Shelf,15.838
+2009-09-03,Gulf of St. Lawrence,14.067
+2009-10-03,Bay of Fundy,12.685
+2009-10-03,Scotian Shelf,14.836
+2009-10-03,Gulf of St. Lawrence,12.105
+2009-11-03,Bay of Fundy,10.191
+2009-11-03,Scotian Shelf,10.126
+2009-11-03,Gulf of St. Lawrence,6.792
+2009-12-03,Bay of Fundy,8.693
+2009-12-03,Scotian Shelf,8.196
+2009-12-03,Gulf of St. Lawrence,4.018
+2010-01-03,Bay of Fundy,5.382
+2010-01-03,Scotian Shelf,4.854
+2010-01-03,Gulf of St. Lawrence,0.941
+2010-02-03,Bay of Fundy,3.061
+2010-02-03,Scotian Shelf,2.49
+2010-02-03,Gulf of St. Lawrence,-0.459
+2010-03-03,Bay of Fundy,2.742
+2010-03-03,Scotian Shelf,1.924
+2010-03-03,Gulf of St. Lawrence,-0.611
+2010-04-03,Bay of Fundy,3.132
+2010-04-03,Scotian Shelf,3.668
+2010-04-03,Gulf of St. Lawrence,0.613
+2010-05-03,Bay of Fundy,6.786
+2010-05-03,Scotian Shelf,5.543
+2010-05-03,Gulf of St. Lawrence,4.392
+2010-06-03,Bay of Fundy,9.137
+2010-06-03,Scotian Shelf,7.965
+2010-06-03,Gulf of St. Lawrence,7.894
+2010-07-03,Bay of Fundy,12.075
+2010-07-03,Scotian Shelf,13.269
+2010-07-03,Gulf of St. Lawrence,11.805
+2010-08-03,Bay of Fundy,15.703
+2010-08-03,Scotian Shelf,17.595
+2010-08-03,Gulf of St. Lawrence,17.392
+2010-09-03,Bay of Fundy,17.391
+2010-09-03,Scotian Shelf,20.268
+2010-09-03,Gulf of St. Lawrence,18.334
+2010-10-03,Bay of Fundy,13.456
+2010-10-03,Scotian Shelf,15.527
+2010-10-03,Gulf of St. Lawrence,11.791
+2010-11-03,Bay of Fundy,10.418
+2010-11-03,Scotian Shelf,10.609
+2010-11-03,Gulf of St. Lawrence,7.046
+2010-12-03,Bay of Fundy,8.239
+2010-12-03,Scotian Shelf,8.404
+2010-12-03,Gulf of St. Lawrence,4.63
+2011-01-03,Bay of Fundy,5.979
+2011-01-03,Scotian Shelf,5.863
+2011-01-03,Gulf of St. Lawrence,3.325
+2011-02-03,Bay of Fundy,3.637
+2011-02-03,Scotian Shelf,3.571
+2011-02-03,Gulf of St. Lawrence,0.415
+2011-03-03,Bay of Fundy,2.864
+2011-03-03,Scotian Shelf,2.359
+2011-03-03,Gulf of St. Lawrence,-0.241
+2011-04-03,Bay of Fundy,3.35
+2011-04-03,Scotian Shelf,2.515
+2011-04-03,Gulf of St. Lawrence,-0.077
+2011-05-03,Bay of Fundy,5.8
+2011-05-03,Scotian Shelf,4.406
+2011-05-03,Gulf of St. Lawrence,2.746
+2011-06-03,Bay of Fundy,8.63
+2011-06-03,Scotian Shelf,8.62
+2011-06-03,Gulf of St. Lawrence,7.273
+2011-07-03,Bay of Fundy,11.933
+2011-07-03,Scotian Shelf,13.338
+2011-07-03,Gulf of St. Lawrence,12.491
+2011-08-03,Bay of Fundy,14.133
+2011-08-03,Scotian Shelf,16.042
+2011-08-03,Gulf of St. Lawrence,16.329
+2011-09-03,Bay of Fundy,14.751
+2011-09-03,Scotian Shelf,17.359
+2011-09-03,Gulf of St. Lawrence,16.225
+2011-10-03,Bay of Fundy,14.081
+2011-10-03,Scotian Shelf,16.13
+2011-10-03,Gulf of St. Lawrence,12.095
+2011-11-03,Bay of Fundy,10.952
+2011-11-03,Scotian Shelf,10.719
+2011-11-03,Gulf of St. Lawrence,8.087
+2011-12-03,Bay of Fundy,8.748
+2011-12-03,Scotian Shelf,8.317
+2011-12-03,Gulf of St. Lawrence,4.369
+2012-01-03,Bay of Fundy,6.059
+2012-01-03,Scotian Shelf,6.11
+2012-01-03,Gulf of St. Lawrence,1.613
+2012-02-03,Bay of Fundy,4.356
+2012-02-03,Scotian Shelf,3.834
+2012-02-03,Gulf of St. Lawrence,-0.159
+2012-03-03,Bay of Fundy,3.65
+2012-03-03,Scotian Shelf,2.726
+2012-03-03,Gulf of St. Lawrence,-0.109
+2012-04-03,Bay of Fundy,4.391
+2012-04-03,Scotian Shelf,3.269
+2012-04-03,Gulf of St. Lawrence,0.307
+2012-05-03,Bay of Fundy,6.973
+2012-05-03,Scotian Shelf,5.919
+2012-05-03,Gulf of St. Lawrence,3.715
+2012-06-03,Bay of Fundy,10.007
+2012-06-03,Scotian Shelf,10.426
+2012-06-03,Gulf of St. Lawrence,8.847
+2012-07-03,Bay of Fundy,13.828
+2012-07-03,Scotian Shelf,14.9
+2012-07-03,Gulf of St. Lawrence,14.862
+2012-08-03,Bay of Fundy,16.375
+2012-08-03,Scotian Shelf,18.339
+2012-08-03,Gulf of St. Lawrence,18.489
+2012-09-03,Bay of Fundy,15.635
+2012-09-03,Scotian Shelf,18.091
+2012-09-03,Gulf of St. Lawrence,16.361
+2012-10-03,Bay of Fundy,15.008
+2012-10-03,Scotian Shelf,17.05
+2012-10-03,Gulf of St. Lawrence,13.082
+2012-11-03,Bay of Fundy,11.98
+2012-11-03,Scotian Shelf,13.195
+2012-11-03,Gulf of St. Lawrence,8.747
+2012-12-03,Bay of Fundy,9.226
+2012-12-03,Scotian Shelf,8.384
+2012-12-03,Gulf of St. Lawrence,4.218
+2013-01-03,Bay of Fundy,6.44
+2013-01-03,Scotian Shelf,6.375
+2013-01-03,Gulf of St. Lawrence,1.752
+2013-02-03,Bay of Fundy,4.418
+2013-02-03,Scotian Shelf,3.3
+2013-02-03,Gulf of St. Lawrence,-0.002
+2013-03-03,Bay of Fundy,3.205
+2013-03-03,Scotian Shelf,2.564
+2013-03-03,Gulf of St. Lawrence,-0.179
+2013-04-03,Bay of Fundy,3.168
+2013-04-03,Scotian Shelf,2.938
+2013-04-03,Gulf of St. Lawrence,0.014
+2013-05-03,Bay of Fundy,5.912
+2013-05-03,Scotian Shelf,5.095
+2013-05-03,Gulf of St. Lawrence,4.095
+2013-06-03,Bay of Fundy,9.71
+2013-06-03,Scotian Shelf,10.0
+2013-06-03,Gulf of St. Lawrence,7.355
+2013-07-03,Bay of Fundy,13.35
+2013-07-03,Scotian Shelf,14.041
+2013-07-03,Gulf of St. Lawrence,12.769
+2013-08-03,Bay of Fundy,15.093
+2013-08-03,Scotian Shelf,18.582
+2013-08-03,Gulf of St. Lawrence,16.705
+2013-09-03,Bay of Fundy,14.894
+2013-09-03,Scotian Shelf,17.813
+2013-09-03,Gulf of St. Lawrence,15.3
+2013-10-03,Bay of Fundy,13.909
+2013-10-03,Scotian Shelf,16.458
+2013-10-03,Gulf of St. Lawrence,12.634
+2013-11-03,Bay of Fundy,11.493
+2013-11-03,Scotian Shelf,12.441
+2013-11-03,Gulf of St. Lawrence,7.98
+2013-12-03,Bay of Fundy,7.883
+2013-12-03,Scotian Shelf,8.11
+2013-12-03,Gulf of St. Lawrence,3.509
+2014-01-03,Bay of Fundy,4.52
+2014-01-03,Scotian Shelf,4.369
+2014-01-03,Gulf of St. Lawrence,0.414
+2014-02-03,Bay of Fundy,3.446
+2014-02-03,Scotian Shelf,3.216
+2014-02-03,Gulf of St. Lawrence,0.068
+2014-03-03,Bay of Fundy,2.343
+2014-03-03,Scotian Shelf,2.009
+2014-03-03,Gulf of St. Lawrence,-0.539
+2014-04-03,Bay of Fundy,1.907
+2014-04-03,Scotian Shelf,2.867
+2014-04-03,Gulf of St. Lawrence,-0.399
+2014-05-03,Bay of Fundy,4.809
+2014-05-03,Scotian Shelf,4.482
+2014-05-03,Gulf of St. Lawrence,1.764
+2014-06-03,Bay of Fundy,8.422
+2014-06-03,Scotian Shelf,7.945
+2014-06-03,Gulf of St. Lawrence,7.835
+2014-07-03,Bay of Fundy,13.261
+2014-07-03,Scotian Shelf,14.806
+2014-07-03,Gulf of St. Lawrence,16.631
+2014-08-03,Bay of Fundy,14.863
+2014-08-03,Scotian Shelf,19.385
+2014-08-03,Gulf of St. Lawrence,18.76
+2014-09-03,Bay of Fundy,15.259
+2014-09-03,Scotian Shelf,18.721
+2014-09-03,Gulf of St. Lawrence,16.643
+2014-10-03,Bay of Fundy,13.277
+2014-10-03,Scotian Shelf,15.576
+2014-10-03,Gulf of St. Lawrence,10.892
+2014-11-03,Bay of Fundy,11.882
+2014-11-03,Scotian Shelf,13.224
+2014-11-03,Gulf of St. Lawrence,7.393
+2014-12-03,Bay of Fundy,8.909
+2014-12-03,Scotian Shelf,8.586
+2014-12-03,Gulf of St. Lawrence,3.543
+2015-01-03,Bay of Fundy,6.329
+2015-01-03,Scotian Shelf,5.991
+2015-01-03,Gulf of St. Lawrence,1.088
+2015-02-03,Bay of Fundy,3.886
+2015-02-03,Scotian Shelf,3.759
+2015-02-03,Gulf of St. Lawrence,0.113
+2015-03-03,Bay of Fundy,1.575
+2015-03-03,Scotian Shelf,2.303
+2015-03-03,Gulf of St. Lawrence,-0.621
+2015-04-03,Bay of Fundy,1.245
+2015-04-03,Scotian Shelf,2.007
+2015-04-03,Gulf of St. Lawrence,-0.518
+2015-05-03,Bay of Fundy,4.419
+2015-05-03,Scotian Shelf,4.675
+2015-05-03,Gulf of St. Lawrence,1.223
+2015-06-03,Bay of Fundy,8.273
+2015-06-03,Scotian Shelf,8.295
+2015-06-03,Gulf of St. Lawrence,7.087
+2015-07-03,Bay of Fundy,11.028
+2015-07-03,Scotian Shelf,12.638
+2015-07-03,Gulf of St. Lawrence,12.441
+2015-08-03,Bay of Fundy,13.735
+2015-08-03,Scotian Shelf,17.101
+2015-08-03,Gulf of St. Lawrence,16.198
+2015-09-03,Bay of Fundy,15.375
+2015-09-03,Scotian Shelf,18.29
+2015-09-03,Gulf of St. Lawrence,16.331
+2015-10-03,Bay of Fundy,13.277
+2015-10-03,Scotian Shelf,16.576
+2015-10-03,Gulf of St. Lawrence,11.854
+2015-11-03,Bay of Fundy,11.146
+2015-11-03,Scotian Shelf,12.126
+2015-11-03,Gulf of St. Lawrence,6.499
+2015-12-03,Bay of Fundy,8.769
+2015-12-03,Scotian Shelf,8.985
+2015-12-03,Gulf of St. Lawrence,3.857
+2016-01-03,Bay of Fundy,6.807
+2016-01-03,Scotian Shelf,6.932
+2016-01-03,Gulf of St. Lawrence,1.591
+2016-02-03,Bay of Fundy,4.526
+2016-02-03,Scotian Shelf,3.372
+2016-02-03,Gulf of St. Lawrence,-0.521
+2016-03-03,Bay of Fundy,3.391
+2016-03-03,Scotian Shelf,3.403
+2016-03-03,Gulf of St. Lawrence,-0.962
+2016-04-03,Bay of Fundy,3.271
+2016-04-03,Scotian Shelf,3.623
+2016-04-03,Gulf of St. Lawrence,-0.932
+2016-05-03,Bay of Fundy,5.789
+2016-05-03,Scotian Shelf,5.901
+2016-05-03,Gulf of St. Lawrence,4.007
+2016-06-03,Bay of Fundy,9.309
+2016-06-03,Scotian Shelf,9.027
+2016-06-03,Gulf of St. Lawrence,8.275
+2016-07-03,Bay of Fundy,12.767
+2016-07-03,Scotian Shelf,14.23
+2016-07-03,Gulf of St. Lawrence,12.174
+2016-08-03,Bay of Fundy,16.118
+2016-08-03,Scotian Shelf,18.941
+2016-08-03,Gulf of St. Lawrence,17.904
+2016-09-03,Bay of Fundy,15.274
+2016-09-03,Scotian Shelf,17.769
+2016-09-03,Gulf of St. Lawrence,15.42
+2016-10-03,Bay of Fundy,13.886
+2016-10-03,Scotian Shelf,15.582
+2016-10-03,Gulf of St. Lawrence,11.808
+2016-11-03,Bay of Fundy,11.938
+2016-11-03,Scotian Shelf,12.346
+2016-11-03,Gulf of St. Lawrence,8.601
+2016-12-03,Bay of Fundy,9.524
+2016-12-03,Scotian Shelf,9.266
+2016-12-03,Gulf of St. Lawrence,5.217
+2017-01-03,Bay of Fundy,6.359
+2017-01-03,Scotian Shelf,5.301
+2017-01-03,Gulf of St. Lawrence,1.476
+2017-02-03,Bay of Fundy,3.965
+2017-02-03,Scotian Shelf,3.191
+2017-02-03,Gulf of St. Lawrence,-0.322
+2017-03-03,Bay of Fundy,3.171
+2017-03-03,Scotian Shelf,2.565
+2017-03-03,Gulf of St. Lawrence,-0.931
+2017-04-03,Bay of Fundy,2.54
+2017-04-03,Scotian Shelf,2.013
+2017-04-03,Gulf of St. Lawrence,-0.625
+2017-05-03,Bay of Fundy,4.516
+2017-05-03,Scotian Shelf,5.267
+2017-05-03,Gulf of St. Lawrence,2.225
+2017-06-03,Bay of Fundy,8.153
+2017-06-03,Scotian Shelf,8.135
+2017-06-03,Gulf of St. Lawrence,7.831
+2017-07-03,Bay of Fundy,11.793
+2017-07-03,Scotian Shelf,13.239
+2017-07-03,Gulf of St. Lawrence,13.76
+2017-08-03,Bay of Fundy,15.375
+2017-08-03,Scotian Shelf,18.554
+2017-08-03,Gulf of St. Lawrence,17.147
+2017-09-03,Bay of Fundy,13.709
+2017-09-03,Scotian Shelf,16.682
+2017-09-03,Gulf of St. Lawrence,15.212
+2017-10-03,Bay of Fundy,14.148
+2017-10-03,Scotian Shelf,16.498
+2017-10-03,Gulf of St. Lawrence,12.367
+2017-11-03,Bay of Fundy,12.661
+2017-11-03,Scotian Shelf,13.577
+2017-11-03,Gulf of St. Lawrence,7.967
+2017-12-03,Bay of Fundy,8.872
+2017-12-03,Scotian Shelf,9.006
+2017-12-03,Gulf of St. Lawrence,2.82
+2018-01-03,Bay of Fundy,5.19
+2018-01-03,Scotian Shelf,5.047
+2018-01-03,Gulf of St. Lawrence,0.058
+2018-02-03,Bay of Fundy,3.167
+2018-02-03,Scotian Shelf,2.973
+2018-02-03,Gulf of St. Lawrence,-1.165
+2018-03-03,Bay of Fundy,3.378
+2018-03-03,Scotian Shelf,3.322
+2018-03-03,Gulf of St. Lawrence,-1.265
+2018-04-03,Bay of Fundy,3.152
+2018-04-03,Scotian Shelf,3.568
+2018-04-03,Gulf of St. Lawrence,-0.566
+2018-05-03,Bay of Fundy,5.253
+2018-05-03,Scotian Shelf,5.65
+2018-05-03,Gulf of St. Lawrence,2.229
+2018-06-03,Bay of Fundy,9.365
+2018-06-03,Scotian Shelf,9.008
+2018-06-03,Gulf of St. Lawrence,5.88
+2018-07-03,Bay of Fundy,12.672
+2018-07-03,Scotian Shelf,13.334
+2018-07-03,Gulf of St. Lawrence,12.767
+2018-08-03,Bay of Fundy,16.084
+2018-08-03,Scotian Shelf,18.951
+2018-08-03,Gulf of St. Lawrence,17.81
+2018-09-03,Bay of Fundy,16.201
+2018-09-03,Scotian Shelf,19.405
+2018-09-03,Gulf of St. Lawrence,16.681
+2018-10-03,Bay of Fundy,13.703
+2018-10-03,Scotian Shelf,15.903
+2018-10-03,Gulf of St. Lawrence,10.794
+2018-11-03,Bay of Fundy,10.834
+2018-11-03,Scotian Shelf,11.569
+2018-11-03,Gulf of St. Lawrence,5.933
+2018-12-03,Bay of Fundy,8.226
+2018-12-03,Scotian Shelf,6.861
+2018-12-03,Gulf of St. Lawrence,3.008
+2019-01-03,Bay of Fundy,4.637
+2019-01-03,Scotian Shelf,3.479
+2019-01-03,Gulf of St. Lawrence,0.071
+2019-02-03,Bay of Fundy,2.123
+2019-02-03,Scotian Shelf,2.186
+2019-02-03,Gulf of St. Lawrence,-1.404
+2019-03-03,Bay of Fundy,2.244
+2019-03-03,Scotian Shelf,1.237
+2019-03-03,Gulf of St. Lawrence,-1.499
+2019-04-03,Bay of Fundy,2.462
+2019-04-03,Scotian Shelf,1.808
+2019-04-03,Gulf of St. Lawrence,-0.589
+2019-05-03,Bay of Fundy,5.436
+2019-05-03,Scotian Shelf,3.772
+2019-05-03,Gulf of St. Lawrence,1.064
+2019-06-03,Bay of Fundy,7.545
+2019-06-03,Scotian Shelf,6.804
+2019-06-03,Gulf of St. Lawrence,7.067
+2019-07-03,Bay of Fundy,11.358
+2019-07-03,Scotian Shelf,12.069
+2019-07-03,Gulf of St. Lawrence,11.765
+2019-08-03,Bay of Fundy,15.461
+2019-08-03,Scotian Shelf,18.184
+2019-08-03,Gulf of St. Lawrence,17.779
+2019-09-03,Bay of Fundy,14.924
+2019-09-03,Scotian Shelf,17.402
+2019-09-03,Gulf of St. Lawrence,15.646
+2019-10-03,Bay of Fundy,12.896
+2019-10-03,Scotian Shelf,13.319
+2019-10-03,Gulf of St. Lawrence,10.19
+2019-11-03,Bay of Fundy,11.6
+2019-11-03,Scotian Shelf,11.359
+2019-11-03,Gulf of St. Lawrence,7.374
+2019-12-03,Bay of Fundy,8.156
+2019-12-03,Scotian Shelf,7.942
+2019-12-03,Gulf of St. Lawrence,3.083
+2020-01-03,Bay of Fundy,5.404
+2020-01-03,Scotian Shelf,4.607
+2020-01-03,Gulf of St. Lawrence,0.379
+2020-02-03,Bay of Fundy,4.147
+2020-02-03,Scotian Shelf,3.003
+2020-02-03,Gulf of St. Lawrence,-0.908
+2020-03-03,Bay of Fundy,3.081
+2020-03-03,Scotian Shelf,1.854
+2020-03-03,Gulf of St. Lawrence,-1.412
+2020-04-03,Bay of Fundy,3.365
+2020-04-03,Scotian Shelf,2.657
+2020-04-03,Gulf of St. Lawrence,-0.592
+2020-05-03,Bay of Fundy,5.625
+2020-05-03,Scotian Shelf,4.537
+2020-05-03,Gulf of St. Lawrence,2.809
+2020-06-03,Bay of Fundy,8.82
+2020-06-03,Scotian Shelf,7.059
+2020-06-03,Gulf of St. Lawrence,6.913
+2020-07-03,Bay of Fundy,11.53
+2020-07-03,Scotian Shelf,14.285
+2020-07-03,Gulf of St. Lawrence,14.666
+2020-08-03,Bay of Fundy,15.943
+2020-08-03,Scotian Shelf,18.46
+2020-08-03,Gulf of St. Lawrence,18.051
+2020-09-03,Bay of Fundy,14.042
+2020-09-03,Scotian Shelf,16.836
+2020-09-03,Gulf of St. Lawrence,13.619
+2020-10-03,Bay of Fundy,13.495
+2020-10-03,Scotian Shelf,15.711
+2020-10-03,Gulf of St. Lawrence,11.131
+2020-11-03,Bay of Fundy,10.981
+2020-11-03,Scotian Shelf,12.318
+2020-11-03,Gulf of St. Lawrence,5.933
+2020-12-03,Bay of Fundy,9.136
+2020-12-03,Scotian Shelf,10.541
+2020-12-03,Gulf of St. Lawrence,4.081
+2021-01-03,Bay of Fundy,6.395
+2021-01-03,Scotian Shelf,6.965
+2021-01-03,Gulf of St. Lawrence,1.262
+2021-02-03,Bay of Fundy,5.188
+2021-02-03,Scotian Shelf,5.15
+2021-02-03,Gulf of St. Lawrence,0.21
+2021-03-03,Bay of Fundy,3.567
+2021-03-03,Scotian Shelf,3.385
+2021-03-03,Gulf of St. Lawrence,-0.384
+2021-04-03,Bay of Fundy,3.565
+2021-04-03,Scotian Shelf,2.857
+2021-04-03,Gulf of St. Lawrence,-0.5
+2021-05-03,Bay of Fundy,6.197
+2021-05-03,Scotian Shelf,5.477
+2021-05-03,Gulf of St. Lawrence,2.49
+2021-06-03,Bay of Fundy,8.761
+2021-06-03,Scotian Shelf,8.554
+2021-06-03,Gulf of St. Lawrence,7.808
+2021-07-03,Bay of Fundy,12.596
+2021-07-03,Scotian Shelf,14.552
+2021-07-03,Gulf of St. Lawrence,13.318
+2021-08-03,Bay of Fundy,14.324
+2021-08-03,Scotian Shelf,16.511
+2021-08-03,Gulf of St. Lawrence,16.003
+2021-09-03,Bay of Fundy,16.125
+2021-09-03,Scotian Shelf,19.125
+2021-09-03,Gulf of St. Lawrence,17.214
+2021-10-03,Bay of Fundy,14.436
+2021-10-03,Scotian Shelf,16.605
+2021-10-03,Gulf of St. Lawrence,12.722
+2021-11-03,Bay of Fundy,12.713
+2021-11-03,Scotian Shelf,12.701
+2021-11-03,Gulf of St. Lawrence,9.538
+2021-12-03,Bay of Fundy,9.274
+2021-12-03,Scotian Shelf,9.132
+2021-12-03,Gulf of St. Lawrence,5.038
+2022-01-03,Bay of Fundy,6.569
+2022-01-03,Scotian Shelf,5.709
+2022-01-03,Gulf of St. Lawrence,1.963
+2022-02-03,Bay of Fundy,3.418
+2022-02-03,Scotian Shelf,3.025
+2022-02-03,Gulf of St. Lawrence,-0.565
+2022-03-03,Bay of Fundy,2.729
+2022-03-03,Scotian Shelf,2.519
+2022-03-03,Gulf of St. Lawrence,-1.262
+2022-04-03,Bay of Fundy,3.39
+2022-04-03,Scotian Shelf,2.797
+2022-04-03,Gulf of St. Lawrence,-0.201
+2022-05-03,Bay of Fundy,5.596
+2022-05-03,Scotian Shelf,4.4
+2022-05-03,Gulf of St. Lawrence,1.872
+2022-06-03,Bay of Fundy,9.485
+2022-06-03,Scotian Shelf,8.567
+2022-06-03,Gulf of St. Lawrence,6.945
+2022-07-03,Bay of Fundy,12.609
+2022-07-03,Scotian Shelf,14.709
+2022-07-03,Gulf of St. Lawrence,14.253
+2022-08-03,Bay of Fundy,15.196
+2022-08-03,Scotian Shelf,18.388
+2022-08-03,Gulf of St. Lawrence,17.162
+2022-09-03,Bay of Fundy,16.075
+2022-09-03,Scotian Shelf,20.29
+2022-09-03,Gulf of St. Lawrence,17.774
+2022-10-03,Bay of Fundy,13.443
+2022-10-03,Scotian Shelf,14.469
+2022-10-03,Gulf of St. Lawrence,10.781
+2022-11-03,Bay of Fundy,12.887
+2022-11-03,Scotian Shelf,13.344
+2022-11-03,Gulf of St. Lawrence,8.483
+2022-12-03,Bay of Fundy,9.083
+2022-12-03,Scotian Shelf,9.158
+2022-12-03,Gulf of St. Lawrence,3.531
+2023-01-03,Bay of Fundy,6.305
+2023-01-03,Scotian Shelf,6.737
+2023-01-03,Gulf of St. Lawrence,1.977
+2023-02-03,Bay of Fundy,5.016
+2023-02-03,Scotian Shelf,5.302
+2023-02-03,Gulf of St. Lawrence,0.264
+2023-03-03,Bay of Fundy,3.471
+2023-03-03,Scotian Shelf,3.669
+2023-03-03,Gulf of St. Lawrence,-1.113
+2023-04-03,Bay of Fundy,3.94
+2023-04-03,Scotian Shelf,3.132
+2023-04-03,Gulf of St. Lawrence,0.357
+2023-05-03,Bay of Fundy,6.271
+2023-05-03,Scotian Shelf,4.903
+2023-05-03,Gulf of St. Lawrence,3.447
+2023-06-03,Bay of Fundy,10.004
+2023-06-03,Scotian Shelf,8.904
+2023-06-03,Gulf of St. Lawrence,7.225
+2023-07-03,Bay of Fundy,12.212
+2023-07-03,Scotian Shelf,13.647
+2023-07-03,Gulf of St. Lawrence,12.355
+2023-08-03,Bay of Fundy,14.709
+2023-08-03,Scotian Shelf,18.856
+2023-08-03,Gulf of St. Lawrence,17.741
+2023-09-03,Bay of Fundy,14.684
+2023-09-03,Scotian Shelf,18.23
+2023-09-03,Gulf of St. Lawrence,15.899
+2023-10-03,Bay of Fundy,13.562
+2023-10-03,Scotian Shelf,16.213
+2023-10-03,Gulf of St. Lawrence,14.116
+2023-11-03,Bay of Fundy,11.039
+2023-11-03,Scotian Shelf,11.714
+2023-11-03,Gulf of St. Lawrence,8.817
+2023-12-03,Bay of Fundy,8.032
+2023-12-03,Scotian Shelf,8.404
+2023-12-03,Gulf of St. Lawrence,4.411
+2024-01-03,Bay of Fundy,5.221
+2024-01-03,Scotian Shelf,4.955
+2024-01-03,Gulf of St. Lawrence,1.522
+2024-02-03,Bay of Fundy,3.091
+2024-02-03,Scotian Shelf,2.566
+2024-02-03,Gulf of St. Lawrence,-0.288
+2024-03-03,Bay of Fundy,2.673
+2024-03-03,Scotian Shelf,1.634
+2024-03-03,Gulf of St. Lawrence,-0.534
+2024-04-03,Bay of Fundy,3.707
+2024-04-03,Scotian Shelf,2.693
+2024-04-03,Gulf of St. Lawrence,0.837
+2024-05-03,Bay of Fundy,6.014
+2024-05-03,Scotian Shelf,4.082
+2024-05-03,Gulf of St. Lawrence,1.85
+2024-06-03,Bay of Fundy,9.65
+2024-06-03,Scotian Shelf,8.898
+2024-06-03,Gulf of St. Lawrence,7.885
+2024-07-03,Bay of Fundy,12.075
+2024-07-03,Scotian Shelf,13.207
+2024-07-03,Gulf of St. Lawrence,14.327
+2024-08-03,Bay of Fundy,14.859
+2024-08-03,Scotian Shelf,18.825
+2024-08-03,Gulf of St. Lawrence,18.242
+2024-09-03,Bay of Fundy,14.903
+2024-09-03,Scotian Shelf,18.678
+2024-09-03,Gulf of St. Lawrence,15.594
+2024-10-03,Bay of Fundy,14.428
+2024-10-03,Scotian Shelf,16.501
+2024-10-03,Gulf of St. Lawrence,14.393
+2024-11-03,Bay of Fundy,11.104
+2024-11-03,Scotian Shelf,11.769
+2024-11-03,Gulf of St. Lawrence,7.734
+2024-12-03,Bay of Fundy,7.89
+2024-12-03,Scotian Shelf,8.089
+2024-12-03,Gulf of St. Lawrence,4.089
+2025-01-03,Bay of Fundy,5.08
+2025-01-03,Scotian Shelf,5.213
+2025-01-03,Gulf of St. Lawrence,1.802
+2025-02-03,Bay of Fundy,3.322
+2025-02-03,Scotian Shelf,3.038
+2025-02-03,Gulf of St. Lawrence,0.142
+2025-03-03,Bay of Fundy,1.799
+2025-03-03,Scotian Shelf,1.183
+2025-03-03,Gulf of St. Lawrence,-0.774
+2025-04-03,Bay of Fundy,2.747
+2025-04-03,Scotian Shelf,2.15
+2025-04-03,Gulf of St. Lawrence,0.061
+2025-05-03,Bay of Fundy,5.159
+2025-05-03,Scotian Shelf,4.351
+2025-05-03,Gulf of St. Lawrence,2.032
+2025-06-03,Bay of Fundy,7.645
+2025-06-03,Scotian Shelf,7.81
+2025-06-03,Gulf of St. Lawrence,6.585
+2025-07-03,Bay of Fundy,11.859
+2025-07-03,Scotian Shelf,14.139
+2025-07-03,Gulf of St. Lawrence,13.322
+2025-08-03,Bay of Fundy,14.243
+2025-08-03,Scotian Shelf,17.407
+2025-08-03,Gulf of St. Lawrence,15.512
+2025-09-03,Bay of Fundy,15.723
+2025-09-03,Scotian Shelf,18.631
+2025-09-03,Gulf of St. Lawrence,17.2
+2025-10-03,Bay of Fundy,13.961
+2025-10-03,Scotian Shelf,16.689
+2025-10-03,Gulf of St. Lawrence,11.774
+2025-11-03,Bay of Fundy,11.511
+2025-11-03,Scotian Shelf,13.427
+2025-11-03,Gulf of St. Lawrence,8.882
+2025-12-03,Bay of Fundy,8.285
+2025-12-03,Scotian Shelf,8.819
+2025-12-03,Gulf of St. Lawrence,4.555
+2026-01-03,Bay of Fundy,3.957
+2026-01-03,Scotian Shelf,4.565
+2026-01-03,Gulf of St. Lawrence,0.485
+2026-02-03,Bay of Fundy,2.891
+2026-02-03,Scotian Shelf,3.144
+2026-02-03,Gulf of St. Lawrence,-0.508
+2026-03-03,Bay of Fundy,2.075
+2026-03-03,Scotian Shelf,2.761
+2026-03-03,Gulf of St. Lawrence,-0.796
+2026-04-03,Bay of Fundy,1.931
+2026-04-03,Scotian Shelf,2.02
+2026-04-03,Gulf of St. Lawrence,-0.495
+2026-05-03,Bay of Fundy,4.667
+2026-05-03,Scotian Shelf,3.991
+2026-05-03,Gulf of St. Lawrence,2.187
+1981-09-04,Bay of Fundy,13.222
+1981-09-04,Scotian Shelf,17.108
+1981-09-04,Gulf of St. Lawrence,14.697
+1981-10-04,Bay of Fundy,12.32
+1981-10-04,Scotian Shelf,13.628
+1981-10-04,Gulf of St. Lawrence,10.47
+1981-11-04,Bay of Fundy,9.826
+1981-11-04,Scotian Shelf,10.625
+1981-11-04,Gulf of St. Lawrence,6.339
+1981-12-04,Bay of Fundy,7.46
+1981-12-04,Scotian Shelf,7.263
+1981-12-04,Gulf of St. Lawrence,3.847
+1982-01-04,Bay of Fundy,3.824
+1982-01-04,Scotian Shelf,4.344
+1982-01-04,Gulf of St. Lawrence,1.797
+1982-02-04,Bay of Fundy,2.641
+1982-02-04,Scotian Shelf,2.718
+1982-02-04,Gulf of St. Lawrence,-0.017
+1982-03-04,Bay of Fundy,1.651
+1982-03-04,Scotian Shelf,1.126
+1982-03-04,Gulf of St. Lawrence,-0.478
+1982-04-04,Bay of Fundy,1.616
+1982-04-04,Scotian Shelf,1.106
+1982-04-04,Gulf of St. Lawrence,-0.382
+1982-05-04,Bay of Fundy,3.057
+1982-05-04,Scotian Shelf,3.979
+1982-05-04,Gulf of St. Lawrence,1.685
+1982-06-04,Bay of Fundy,7.227
+1982-06-04,Scotian Shelf,7.181
+1982-06-04,Gulf of St. Lawrence,5.862
+1982-07-04,Bay of Fundy,10.052
+1982-07-04,Scotian Shelf,10.883
+1982-07-04,Gulf of St. Lawrence,10.46
+1982-08-04,Bay of Fundy,13.508
+1982-08-04,Scotian Shelf,15.431
+1982-08-04,Gulf of St. Lawrence,13.917
+1982-09-04,Bay of Fundy,12.889
+1982-09-04,Scotian Shelf,15.895
+1982-09-04,Gulf of St. Lawrence,13.065
+1982-10-04,Bay of Fundy,12.692
+1982-10-04,Scotian Shelf,14.244
+1982-10-04,Gulf of St. Lawrence,10.142
+1982-11-04,Bay of Fundy,9.841
+1982-11-04,Scotian Shelf,11.091
+1982-11-04,Gulf of St. Lawrence,7.273
+1982-12-04,Bay of Fundy,7.75
+1982-12-04,Scotian Shelf,7.102
+1982-12-04,Gulf of St. Lawrence,2.783
+1983-01-04,Bay of Fundy,4.328
+1983-01-04,Scotian Shelf,4.706
+1983-01-04,Gulf of St. Lawrence,0.868
+1983-02-04,Bay of Fundy,2.711
+1983-02-04,Scotian Shelf,3.614
+1983-02-04,Gulf of St. Lawrence,0.087
+1983-03-04,Bay of Fundy,2.202
+1983-03-04,Scotian Shelf,2.21
+1983-03-04,Gulf of St. Lawrence,-0.45
+1983-04-04,Bay of Fundy,2.068
+1983-04-04,Scotian Shelf,2.752
+1983-04-04,Gulf of St. Lawrence,-0.088
+1983-05-04,Bay of Fundy,2.852
+1983-05-04,Scotian Shelf,5.285
+1983-05-04,Gulf of St. Lawrence,2.304
+1983-06-04,Bay of Fundy,6.589
+1983-06-04,Scotian Shelf,7.899
+1983-06-04,Gulf of St. Lawrence,6.276
+1983-07-04,Bay of Fundy,13.69
+1983-07-04,Scotian Shelf,14.897
+1983-07-04,Gulf of St. Lawrence,12.638
+1983-08-04,Bay of Fundy,15.309
+1983-08-04,Scotian Shelf,16.559
+1983-08-04,Gulf of St. Lawrence,14.867
+1983-09-04,Bay of Fundy,13.99
+1983-09-04,Scotian Shelf,15.985
+1983-09-04,Gulf of St. Lawrence,14.186
+1983-10-04,Bay of Fundy,13.45
+1983-10-04,Scotian Shelf,15.105
+1983-10-04,Gulf of St. Lawrence,11.863
+1983-11-04,Bay of Fundy,10.325
+1983-11-04,Scotian Shelf,10.729
+1983-11-04,Gulf of St. Lawrence,6.666
+1983-12-04,Bay of Fundy,7.755
+1983-12-04,Scotian Shelf,6.659
+1983-12-04,Gulf of St. Lawrence,3.358
+1984-01-04,Bay of Fundy,3.609
+1984-01-04,Scotian Shelf,3.6
+1984-01-04,Gulf of St. Lawrence,-0.138
+1984-02-04,Bay of Fundy,2.8
+1984-02-04,Scotian Shelf,2.317
+1984-02-04,Gulf of St. Lawrence,-0.281
+1984-03-04,Bay of Fundy,1.918
+1984-03-04,Scotian Shelf,2.008
+1984-03-04,Gulf of St. Lawrence,-0.409
+1984-04-04,Bay of Fundy,2.336
+1984-04-04,Scotian Shelf,2.999
+1984-04-04,Gulf of St. Lawrence,-0.334
+1984-05-04,Bay of Fundy,2.877
+1984-05-04,Scotian Shelf,4.21
+1984-05-04,Gulf of St. Lawrence,1.99
+1984-06-04,Bay of Fundy,5.139
+1984-06-04,Scotian Shelf,7.881
+1984-06-04,Gulf of St. Lawrence,5.114
+1984-07-04,Bay of Fundy,11.411
+1984-07-04,Scotian Shelf,13.107
+1984-07-04,Gulf of St. Lawrence,12.003
+1984-08-04,Bay of Fundy,13.027
+1984-08-04,Scotian Shelf,16.924
+1984-08-04,Gulf of St. Lawrence,16.192
+1984-09-04,Bay of Fundy,13.308
+1984-09-04,Scotian Shelf,17.345
+1984-09-04,Gulf of St. Lawrence,15.496
+1984-10-04,Bay of Fundy,12.043
+1984-10-04,Scotian Shelf,13.97
+1984-10-04,Gulf of St. Lawrence,8.597
+1984-11-04,Bay of Fundy,11.051
+1984-11-04,Scotian Shelf,10.513
+1984-11-04,Gulf of St. Lawrence,5.256
+1984-12-04,Bay of Fundy,7.61
+1984-12-04,Scotian Shelf,6.818
+1984-12-04,Gulf of St. Lawrence,2.852
+1985-01-04,Bay of Fundy,3.632
+1985-01-04,Scotian Shelf,4.276
+1985-01-04,Gulf of St. Lawrence,0.462
+1985-02-04,Bay of Fundy,2.316
+1985-02-04,Scotian Shelf,1.714
+1985-02-04,Gulf of St. Lawrence,-0.26
+1985-03-04,Bay of Fundy,1.897
+1985-03-04,Scotian Shelf,1.557
+1985-03-04,Gulf of St. Lawrence,-0.644
+1985-04-04,Bay of Fundy,1.875
+1985-04-04,Scotian Shelf,1.617
+1985-04-04,Gulf of St. Lawrence,-0.575
+1985-05-04,Bay of Fundy,2.747
+1985-05-04,Scotian Shelf,2.589
+1985-05-04,Gulf of St. Lawrence,1.177
+1985-06-04,Bay of Fundy,6.402
+1985-06-04,Scotian Shelf,7.074
+1985-06-04,Gulf of St. Lawrence,6.568
+1985-07-04,Bay of Fundy,10.164
+1985-07-04,Scotian Shelf,11.801
+1985-07-04,Gulf of St. Lawrence,12.948
+1985-08-04,Bay of Fundy,12.794
+1985-08-04,Scotian Shelf,15.129
+1985-08-04,Gulf of St. Lawrence,16.101
+1985-09-04,Bay of Fundy,12.314
+1985-09-04,Scotian Shelf,15.237
+1985-09-04,Gulf of St. Lawrence,14.978
+1985-10-04,Bay of Fundy,12.729
+1985-10-04,Scotian Shelf,14.772
+1985-10-04,Gulf of St. Lawrence,11.685
+1985-11-04,Bay of Fundy,9.588
+1985-11-04,Scotian Shelf,9.26
+1985-11-04,Gulf of St. Lawrence,5.781
+1985-12-04,Bay of Fundy,6.62
+1985-12-04,Scotian Shelf,5.87
+1985-12-04,Gulf of St. Lawrence,1.851
+1986-01-04,Bay of Fundy,3.647
+1986-01-04,Scotian Shelf,3.297
+1986-01-04,Gulf of St. Lawrence,0.064
+1986-02-04,Bay of Fundy,2.266
+1986-02-04,Scotian Shelf,1.485
+1986-02-04,Gulf of St. Lawrence,-0.661
+1986-03-04,Bay of Fundy,1.596
+1986-03-04,Scotian Shelf,1.373
+1986-03-04,Gulf of St. Lawrence,-0.831
+1986-04-04,Bay of Fundy,2.08
+1986-04-04,Scotian Shelf,1.621
+1986-04-04,Gulf of St. Lawrence,-0.632
+1986-05-04,Bay of Fundy,4.231
+1986-05-04,Scotian Shelf,4.016
+1986-05-04,Gulf of St. Lawrence,2.037
+1986-06-04,Bay of Fundy,7.313
+1986-06-04,Scotian Shelf,7.537
+1986-06-04,Gulf of St. Lawrence,7.222
+1986-07-04,Bay of Fundy,10.185
+1986-07-04,Scotian Shelf,10.703
+1986-07-04,Gulf of St. Lawrence,10.858
+1986-08-04,Bay of Fundy,13.494
+1986-08-04,Scotian Shelf,16.491
+1986-08-04,Gulf of St. Lawrence,14.966
+1986-09-04,Bay of Fundy,12.905
+1986-09-04,Scotian Shelf,15.246
+1986-09-04,Gulf of St. Lawrence,13.756
+1986-10-04,Bay of Fundy,11.89
+1986-10-04,Scotian Shelf,13.23
+1986-10-04,Gulf of St. Lawrence,10.458
+1986-11-04,Bay of Fundy,9.231
+1986-11-04,Scotian Shelf,9.818
+1986-11-04,Gulf of St. Lawrence,5.423
+1986-12-04,Bay of Fundy,7.041
+1986-12-04,Scotian Shelf,6.465
+1986-12-04,Gulf of St. Lawrence,2.011
+1987-01-04,Bay of Fundy,4.103
+1987-01-04,Scotian Shelf,3.463
+1987-01-04,Gulf of St. Lawrence,-0.325
+1987-02-04,Bay of Fundy,2.008
+1987-02-04,Scotian Shelf,2.216
+1987-02-04,Gulf of St. Lawrence,-0.723
+1987-03-04,Bay of Fundy,1.125
+1987-03-04,Scotian Shelf,1.091
+1987-03-04,Gulf of St. Lawrence,-0.643
+1987-04-04,Bay of Fundy,1.439
+1987-04-04,Scotian Shelf,2.162
+1987-04-04,Gulf of St. Lawrence,0.002
+1987-05-04,Bay of Fundy,2.063
+1987-05-04,Scotian Shelf,3.302
+1987-05-04,Gulf of St. Lawrence,1.892
+1987-06-04,Bay of Fundy,8.081
+1987-06-04,Scotian Shelf,8.203
+1987-06-04,Gulf of St. Lawrence,8.003
+1987-07-04,Bay of Fundy,11.161
+1987-07-04,Scotian Shelf,11.753
+1987-07-04,Gulf of St. Lawrence,12.392
+1987-08-04,Bay of Fundy,13.249
+1987-08-04,Scotian Shelf,16.985
+1987-08-04,Gulf of St. Lawrence,15.214
+1987-09-04,Bay of Fundy,12.817
+1987-09-04,Scotian Shelf,16.077
+1987-09-04,Gulf of St. Lawrence,13.113
+1987-10-04,Bay of Fundy,11.557
+1987-10-04,Scotian Shelf,13.987
+1987-10-04,Gulf of St. Lawrence,10.797
+1987-11-04,Bay of Fundy,9.899
+1987-11-04,Scotian Shelf,10.627
+1987-11-04,Gulf of St. Lawrence,5.947
+1987-12-04,Bay of Fundy,4.494
+1987-12-04,Scotian Shelf,6.896
+1987-12-04,Gulf of St. Lawrence,2.335
+1988-01-04,Bay of Fundy,3.693
+1988-01-04,Scotian Shelf,3.669
+1988-01-04,Gulf of St. Lawrence,0.119
+1988-02-04,Bay of Fundy,2.244
+1988-02-04,Scotian Shelf,1.963
+1988-02-04,Gulf of St. Lawrence,-0.456
+1988-03-04,Bay of Fundy,1.86
+1988-03-04,Scotian Shelf,2.039
+1988-03-04,Gulf of St. Lawrence,-0.382
+1988-04-04,Bay of Fundy,2.414
+1988-04-04,Scotian Shelf,2.628
+1988-04-04,Gulf of St. Lawrence,0.234
+1988-05-04,Bay of Fundy,3.341
+1988-05-04,Scotian Shelf,3.812
+1988-05-04,Gulf of St. Lawrence,1.814
+1988-06-04,Bay of Fundy,6.734
+1988-06-04,Scotian Shelf,7.191
+1988-06-04,Gulf of St. Lawrence,5.968
+1988-07-04,Bay of Fundy,9.958
+1988-07-04,Scotian Shelf,11.513
+1988-07-04,Gulf of St. Lawrence,11.301
+1988-08-04,Bay of Fundy,13.752
+1988-08-04,Scotian Shelf,16.062
+1988-08-04,Gulf of St. Lawrence,16.446
+1988-09-04,Bay of Fundy,13.218
+1988-09-04,Scotian Shelf,16.408
+1988-09-04,Gulf of St. Lawrence,15.239
+1988-10-04,Bay of Fundy,11.606
+1988-10-04,Scotian Shelf,13.433
+1988-10-04,Gulf of St. Lawrence,9.423
+1988-11-04,Bay of Fundy,9.164
+1988-11-04,Scotian Shelf,9.931
+1988-11-04,Gulf of St. Lawrence,5.53
+1988-12-04,Bay of Fundy,6.603
+1988-12-04,Scotian Shelf,5.944
+1988-12-04,Gulf of St. Lawrence,2.49
+1989-01-04,Bay of Fundy,3.091
+1989-01-04,Scotian Shelf,3.438
+1989-01-04,Gulf of St. Lawrence,0.202
+1989-02-04,Bay of Fundy,2.18
+1989-02-04,Scotian Shelf,2.012
+1989-02-04,Gulf of St. Lawrence,-0.653
