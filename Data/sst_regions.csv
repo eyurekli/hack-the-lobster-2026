@@ -1,8 +1,139 @@
-date,region,lat_min,lat_max,lon_min,lon_max,sst_mean,sst_min,sst_max,sst_std,anom_mean,ice_mean,n_valid
-2025-01-01,Gulf of Maine,40.0,44.0,-71.0,-63.0,7.2,3.66,21.18,2.566,-1.077,,488
-2025-01-01,Bay of Fundy,44.0,46.5,-68.0,-63.5,5.021,-0.58,6.49,1.972,0.548,0.337,56
-2025-01-01,SW Scotian Shelf,43.0,45.5,-66.5,-62.0,4.59,3.03,6.49,0.881,-0.184,,114
-2025-01-01,NE Scotian Shelf,44.5,47.0,-62.0,-58.0,3.508,2.34,4.61,0.435,1.129,,136
-2025-01-01,Cape Breton,45.5,47.5,-62.0,-59.0,3.098,2.0,4.1,0.451,1.467,,76
-2025-01-01,Gulf of St. Lawrence,46.0,50.0,-66.0,-60.0,2.038,-0.58,3.85,0.688,1.173,0.276,295
-2025-01-01,S Newfoundland,46.5,50.5,-56.0,-52.0,2.182,0.75,4.86,1.243,1.207,0.227,162
+region,year,mean_temp
+Bay of Fundy,1981,10.661
+Bay of Fundy,1982,7.296
+Bay of Fundy,1983,7.792
+Bay of Fundy,1984,7.298
+Bay of Fundy,1985,6.932
+Bay of Fundy,1986,7.1
+Bay of Fundy,1987,6.845
+Bay of Fundy,1988,7.015
+Bay of Fundy,1989,7.081
+Bay of Fundy,1990,7.446
+Bay of Fundy,1991,7.445
+Bay of Fundy,1992,6.65
+Bay of Fundy,1993,6.93
+Bay of Fundy,1994,7.672
+Bay of Fundy,1995,7.143
+Bay of Fundy,1996,7.023
+Bay of Fundy,1997,7.193
+Bay of Fundy,1998,7.306
+Bay of Fundy,1999,8.046
+Bay of Fundy,2000,8.328
+Bay of Fundy,2001,7.557
+Bay of Fundy,2002,8.038
+Bay of Fundy,2003,7.318
+Bay of Fundy,2004,6.927
+Bay of Fundy,2005,7.501
+Bay of Fundy,2006,8.609
+Bay of Fundy,2007,7.784
+Bay of Fundy,2008,7.828
+Bay of Fundy,2009,8.083
+Bay of Fundy,2010,8.879
+Bay of Fundy,2011,8.748
+Bay of Fundy,2012,9.718
+Bay of Fundy,2013,9.071
+Bay of Fundy,2014,8.554
+Bay of Fundy,2015,8.33
+Bay of Fundy,2016,9.393
+Bay of Fundy,2017,8.776
+Bay of Fundy,2018,8.963
+Bay of Fundy,2019,8.18
+Bay of Fundy,2020,8.893
+Bay of Fundy,2021,9.55
+Bay of Fundy,2022,9.212
+Bay of Fundy,2023,9.132
+Bay of Fundy,2024,8.773
+Bay of Fundy,2025,8.456
+Bay of Fundy,2026,3.05
+Gulf of St. Lawrence,1981,8.761
+Gulf of St. Lawrence,1982,5.533
+Gulf of St. Lawrence,1983,6.024
+Gulf of St. Lawrence,1984,5.691
+Gulf of St. Lawrence,1985,5.702
+Gulf of St. Lawrence,1986,5.385
+Gulf of St. Lawrence,1987,5.736
+Gulf of St. Lawrence,1988,5.628
+Gulf of St. Lawrence,1989,5.482
+Gulf of St. Lawrence,1990,5.657
+Gulf of St. Lawrence,1991,5.603
+Gulf of St. Lawrence,1992,5.465
+Gulf of St. Lawrence,1993,5.273
+Gulf of St. Lawrence,1994,5.654
+Gulf of St. Lawrence,1995,5.891
+Gulf of St. Lawrence,1996,6.077
+Gulf of St. Lawrence,1997,5.733
+Gulf of St. Lawrence,1998,5.985
+Gulf of St. Lawrence,1999,6.374
+Gulf of St. Lawrence,2000,6.295
+Gulf of St. Lawrence,2001,6.469
+Gulf of St. Lawrence,2002,5.712
+Gulf of St. Lawrence,2003,5.921
+Gulf of St. Lawrence,2004,5.977
+Gulf of St. Lawrence,2005,6.233
+Gulf of St. Lawrence,2006,6.875
+Gulf of St. Lawrence,2007,6.159
+Gulf of St. Lawrence,2008,6.598
+Gulf of St. Lawrence,2009,6.302
+Gulf of St. Lawrence,2010,6.902
+Gulf of St. Lawrence,2011,6.875
+Gulf of St. Lawrence,2012,7.376
+Gulf of St. Lawrence,2013,6.808
+Gulf of St. Lawrence,2014,6.777
+Gulf of St. Lawrence,2015,6.426
+Gulf of St. Lawrence,2016,6.771
+Gulf of St. Lawrence,2017,6.626
+Gulf of St. Lawrence,2018,6.025
+Gulf of St. Lawrence,2019,5.908
+Gulf of St. Lawrence,2020,6.209
+Gulf of St. Lawrence,2021,7.086
+Gulf of St. Lawrence,2022,6.793
+Gulf of St. Lawrence,2023,7.165
+Gulf of St. Lawrence,2024,7.181
+Gulf of St. Lawrence,2025,6.777
+Gulf of St. Lawrence,2026,0.096
+Scotian Shelf,1981,12.098
+Scotian Shelf,1982,7.902
+Scotian Shelf,1983,8.843
+Scotian Shelf,1984,8.54
+Scotian Shelf,1985,7.504
+Scotian Shelf,1986,7.664
+Scotian Shelf,1987,8.065
+Scotian Shelf,1988,7.834
+Scotian Shelf,1989,7.986
+Scotian Shelf,1990,8.066
+Scotian Shelf,1991,8.051
+Scotian Shelf,1992,7.972
+Scotian Shelf,1993,8.222
+Scotian Shelf,1994,8.442
+Scotian Shelf,1995,8.172
+Scotian Shelf,1996,8.031
+Scotian Shelf,1997,7.939
+Scotian Shelf,1998,8.382
+Scotian Shelf,1999,9.324
+Scotian Shelf,2000,9.111
+Scotian Shelf,2001,8.597
+Scotian Shelf,2002,8.541
+Scotian Shelf,2003,8.615
+Scotian Shelf,2004,8.215
+Scotian Shelf,2005,8.84
+Scotian Shelf,2006,9.243
+Scotian Shelf,2007,8.254
+Scotian Shelf,2008,8.567
+Scotian Shelf,2009,8.692
+Scotian Shelf,2010,9.285
+Scotian Shelf,2011,9.044
+Scotian Shelf,2012,10.243
+Scotian Shelf,2013,9.811
+Scotian Shelf,2014,9.559
+Scotian Shelf,2015,9.446
+Scotian Shelf,2016,10.068
+Scotian Shelf,2017,9.502
+Scotian Shelf,2018,9.692
+Scotian Shelf,2019,8.354
+Scotian Shelf,2020,9.376
+Scotian Shelf,2021,10.113
+Scotian Shelf,2022,9.881
+Scotian Shelf,2023,9.943
+Scotian Shelf,2024,9.344
+Scotian Shelf,2025,9.408
+Scotian Shelf,2026,3.294
