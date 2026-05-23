@@ -152,24 +152,24 @@ def run(csv_source, json_path: str | Path) -> dict:
 # ---------------------------------------------------------------------------
 
 SAMPLE_CSV = """region,year,mean_temp
-Bay of Fundy,2000,9.2
-Bay of Fundy,2005,9.5
-Bay of Fundy,2010,9.9
-Bay of Fundy,2015,10.4
-Bay of Fundy,2020,10.9
-Bay of Fundy,2024,11.3
-Scotian Shelf,2000,10.1
-Scotian Shelf,2005,10.5
-Scotian Shelf,2010,11.0
-Scotian Shelf,2015,11.6
-Scotian Shelf,2020,12.2
-Scotian Shelf,2024,12.7
-Gulf of St. Lawrence,2000,7.8
-Gulf of St. Lawrence,2005,8.1
-Gulf of St. Lawrence,2010,8.6
-Gulf of St. Lawrence,2015,9.2
-Gulf of St. Lawrence,2020,9.8
-Gulf of St. Lawrence,2024,10.3
+Bay of Fundy,2000,9.56
+Bay of Fundy,2005,8.61
+Bay of Fundy,2010,9.91
+Bay of Fundy,2015,9.82
+Bay of Fundy,2020,10.36
+Bay of Fundy,2024,9.88
+Scotian Shelf,2000,8.54
+Scotian Shelf,2005,8.74
+Scotian Shelf,2010,8.94
+Scotian Shelf,2015,9.14
+Scotian Shelf,2020,9.34
+Scotian Shelf,2024,9.50
+Gulf of St. Lawrence,2000,6.16
+Gulf of St. Lawrence,2005,6.33
+Gulf of St. Lawrence,2010,6.51
+Gulf of St. Lawrence,2015,6.68
+Gulf of St. Lawrence,2020,6.86
+Gulf of St. Lawrence,2024,7.00
 """
 
 
