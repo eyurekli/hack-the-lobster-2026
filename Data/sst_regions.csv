@@ -1,5 +1,4 @@
 region,year,mean_temp
-Bay of Fundy,1981,10.661
 Bay of Fundy,1982,7.296
 Bay of Fundy,1983,7.792
 Bay of Fundy,1984,7.298
@@ -44,8 +43,6 @@ Bay of Fundy,2022,9.212
 Bay of Fundy,2023,9.132
 Bay of Fundy,2024,8.773
 Bay of Fundy,2025,8.456
-Bay of Fundy,2026,3.05
-Gulf of St. Lawrence,1981,8.761
 Gulf of St. Lawrence,1982,5.533
 Gulf of St. Lawrence,1983,6.024
 Gulf of St. Lawrence,1984,5.691
@@ -90,8 +87,6 @@ Gulf of St. Lawrence,2022,6.793
 Gulf of St. Lawrence,2023,7.165
 Gulf of St. Lawrence,2024,7.181
 Gulf of St. Lawrence,2025,6.777
-Gulf of St. Lawrence,2026,0.096
-Scotian Shelf,1981,12.098
 Scotian Shelf,1982,7.902
 Scotian Shelf,1983,8.843
 Scotian Shelf,1984,8.54
@@ -136,4 +131,3 @@ Scotian Shelf,2022,9.881
 Scotian Shelf,2023,9.943
 Scotian Shelf,2024,9.344
 Scotian Shelf,2025,9.408
-Scotian Shelf,2026,3.294

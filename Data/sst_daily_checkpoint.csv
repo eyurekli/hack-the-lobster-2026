@@ -1,7 +1,4 @@
 date,region,sst
-1981-09-01,Bay of Fundy,12.742
-1981-09-01,Scotian Shelf,17.489
-1981-09-01,Gulf of St. Lawrence,15.277
 1982-07-15,Bay of Fundy,11.999
 1982-07-15,Scotian Shelf,13.745
 1982-07-15,Gulf of St. Lawrence,13.812
@@ -134,21 +131,6 @@ date,region,sst
 2025-07-15,Bay of Fundy,13.725
 2025-07-15,Scotian Shelf,16.257
 2025-07-15,Gulf of St. Lawrence,16.778
-2026-01-15,Bay of Fundy,3.674
-2026-01-15,Scotian Shelf,3.877
-2026-01-15,Gulf of St. Lawrence,0.037
-1981-09-15,Bay of Fundy,13.977
-1981-09-15,Scotian Shelf,16.606
-1981-09-15,Gulf of St. Lawrence,14.773
-1981-10-15,Bay of Fundy,11.872
-1981-10-15,Scotian Shelf,12.561
-1981-10-15,Gulf of St. Lawrence,8.387
-1981-11-15,Bay of Fundy,9.449
-1981-11-15,Scotian Shelf,9.515
-1981-11-15,Gulf of St. Lawrence,5.217
-1981-12-15,Bay of Fundy,6.939
-1981-12-15,Scotian Shelf,6.959
-1981-12-15,Gulf of St. Lawrence,3.427
 1982-01-15,Bay of Fundy,3.327
 1982-01-15,Scotian Shelf,3.024
 1982-01-15,Gulf of St. Lawrence,0.566
@@ -1601,24 +1583,6 @@ date,region,sst
 2025-12-15,Bay of Fundy,6.348
 2025-12-15,Scotian Shelf,6.836
 2025-12-15,Gulf of St. Lawrence,2.263
-2026-02-15,Bay of Fundy,2.356
-2026-02-15,Scotian Shelf,3.054
-2026-02-15,Gulf of St. Lawrence,-0.716
-2026-03-15,Bay of Fundy,1.862
-2026-03-15,Scotian Shelf,2.457
-2026-03-15,Gulf of St. Lawrence,-0.842
-2026-04-15,Bay of Fundy,3.132
-2026-04-15,Scotian Shelf,3.041
-2026-04-15,Gulf of St. Lawrence,0.474
-1981-10-01,Bay of Fundy,12.203
-1981-10-01,Scotian Shelf,13.779
-1981-10-01,Gulf of St. Lawrence,10.934
-1981-11-01,Bay of Fundy,10.402
-1981-11-01,Scotian Shelf,10.978
-1981-11-01,Gulf of St. Lawrence,6.359
-1981-12-01,Bay of Fundy,7.641
-1981-12-01,Scotian Shelf,7.542
-1981-12-01,Gulf of St. Lawrence,3.797
 1982-01-01,Bay of Fundy,4.718
 1982-01-01,Scotian Shelf,4.968
 1982-01-01,Gulf of St. Lawrence,1.454
@@ -3203,33 +3167,6 @@ date,region,sst
 2025-12-01,Bay of Fundy,8.341
 2025-12-01,Scotian Shelf,8.579
 2025-12-01,Gulf of St. Lawrence,4.678
-2026-01-01,Bay of Fundy,4.261
-2026-01-01,Scotian Shelf,4.901
-2026-01-01,Gulf of St. Lawrence,0.676
-2026-02-01,Bay of Fundy,2.998
-2026-02-01,Scotian Shelf,3.22
-2026-02-01,Gulf of St. Lawrence,-0.489
-2026-03-01,Bay of Fundy,2.182
-2026-03-01,Scotian Shelf,3.049
-2026-03-01,Gulf of St. Lawrence,-0.733
-2026-04-01,Bay of Fundy,1.888
-2026-04-01,Scotian Shelf,1.956
-2026-04-01,Gulf of St. Lawrence,-0.601
-2026-05-01,Bay of Fundy,4.628
-2026-05-01,Scotian Shelf,3.891
-2026-05-01,Gulf of St. Lawrence,2.154
-1981-09-02,Bay of Fundy,12.869
-1981-09-02,Scotian Shelf,17.276
-1981-09-02,Gulf of St. Lawrence,14.939
-1981-10-02,Bay of Fundy,12.154
-1981-10-02,Scotian Shelf,13.533
-1981-10-02,Gulf of St. Lawrence,10.745
-1981-11-02,Bay of Fundy,10.264
-1981-11-02,Scotian Shelf,10.96
-1981-11-02,Gulf of St. Lawrence,6.573
-1981-12-02,Bay of Fundy,7.204
-1981-12-02,Scotian Shelf,7.309
-1981-12-02,Gulf of St. Lawrence,3.936
 1982-01-02,Bay of Fundy,4.258
 1982-01-02,Scotian Shelf,4.7
 1982-01-02,Gulf of St. Lawrence,1.397
@@ -4814,33 +4751,6 @@ date,region,sst
 2025-12-02,Bay of Fundy,8.315
 2025-12-02,Scotian Shelf,8.706
 2025-12-02,Gulf of St. Lawrence,4.641
-2026-01-02,Bay of Fundy,4.066
-2026-01-02,Scotian Shelf,4.718
-2026-01-02,Gulf of St. Lawrence,0.675
-2026-02-02,Bay of Fundy,2.882
-2026-02-02,Scotian Shelf,3.189
-2026-02-02,Gulf of St. Lawrence,-0.477
-2026-03-02,Bay of Fundy,2.097
-2026-03-02,Scotian Shelf,2.815
-2026-03-02,Gulf of St. Lawrence,-0.822
-2026-04-02,Bay of Fundy,1.667
-2026-04-02,Scotian Shelf,1.875
-2026-04-02,Gulf of St. Lawrence,-0.568
-2026-05-02,Bay of Fundy,4.73
-2026-05-02,Scotian Shelf,4.064
-2026-05-02,Gulf of St. Lawrence,2.176
-1981-09-03,Bay of Fundy,13.17
-1981-09-03,Scotian Shelf,17.212
-1981-09-03,Gulf of St. Lawrence,14.532
-1981-10-03,Bay of Fundy,12.021
-1981-10-03,Scotian Shelf,13.527
-1981-10-03,Gulf of St. Lawrence,10.552
-1981-11-03,Bay of Fundy,10.074
-1981-11-03,Scotian Shelf,10.833
-1981-11-03,Gulf of St. Lawrence,6.511
-1981-12-03,Bay of Fundy,7.416
-1981-12-03,Scotian Shelf,7.251
-1981-12-03,Gulf of St. Lawrence,3.899
 1982-01-03,Bay of Fundy,4.139
 1982-01-03,Scotian Shelf,4.495
 1982-01-03,Gulf of St. Lawrence,1.66
@@ -6425,33 +6335,6 @@ date,region,sst
 2025-12-03,Bay of Fundy,8.285
 2025-12-03,Scotian Shelf,8.819
 2025-12-03,Gulf of St. Lawrence,4.555
-2026-01-03,Bay of Fundy,3.957
-2026-01-03,Scotian Shelf,4.565
-2026-01-03,Gulf of St. Lawrence,0.485
-2026-02-03,Bay of Fundy,2.891
-2026-02-03,Scotian Shelf,3.144
-2026-02-03,Gulf of St. Lawrence,-0.508
-2026-03-03,Bay of Fundy,2.075
-2026-03-03,Scotian Shelf,2.761
-2026-03-03,Gulf of St. Lawrence,-0.796
-2026-04-03,Bay of Fundy,1.931
-2026-04-03,Scotian Shelf,2.02
-2026-04-03,Gulf of St. Lawrence,-0.495
-2026-05-03,Bay of Fundy,4.667
-2026-05-03,Scotian Shelf,3.991
-2026-05-03,Gulf of St. Lawrence,2.187
-1981-09-04,Bay of Fundy,13.222
-1981-09-04,Scotian Shelf,17.108
-1981-09-04,Gulf of St. Lawrence,14.697
-1981-10-04,Bay of Fundy,12.32
-1981-10-04,Scotian Shelf,13.628
-1981-10-04,Gulf of St. Lawrence,10.47
-1981-11-04,Bay of Fundy,9.826
-1981-11-04,Scotian Shelf,10.625
-1981-11-04,Gulf of St. Lawrence,6.339
-1981-12-04,Bay of Fundy,7.46
-1981-12-04,Scotian Shelf,7.263
-1981-12-04,Gulf of St. Lawrence,3.847
 1982-01-04,Bay of Fundy,3.824
 1982-01-04,Scotian Shelf,4.344
 1982-01-04,Gulf of St. Lawrence,1.797
