@@ -1,6 +1,6 @@
 import matplotlib.pyplot as plt
 import numpy as np
-from suitability_score import suitability  # or whatever you named the script
+from suitability_score import suitability
 
 temps = np.linspace(0, 28, 200)
 scores = [suitability(t) for t in temps]

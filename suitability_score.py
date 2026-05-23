@@ -146,40 +146,7 @@ def run(csv_source, json_path: str | Path) -> dict:
     Path(json_path).write_text(json.dumps(output, indent=2))
     return output
 
-
-# ---------------------------------------------------------------------------
-# 4. Sample run with embedded CSV
-# ---------------------------------------------------------------------------
-
-SAMPLE_CSV = """region,year,mean_temp
-Bay of Fundy,2000,9.2
-Bay of Fundy,2005,9.5
-Bay of Fundy,2010,9.9
-Bay of Fundy,2015,10.4
-Bay of Fundy,2020,10.9
-Bay of Fundy,2024,11.3
-Scotian Shelf,2000,10.1
-Scotian Shelf,2005,10.5
-Scotian Shelf,2010,11.0
-Scotian Shelf,2015,11.6
-Scotian Shelf,2020,12.2
-Scotian Shelf,2024,12.7
-Gulf of St. Lawrence,2000,7.8
-Gulf of St. Lawrence,2005,8.1
-Gulf of St. Lawrence,2010,8.6
-Gulf of St. Lawrence,2015,9.2
-Gulf of St. Lawrence,2020,9.8
-Gulf of St. Lawrence,2024,10.3
-"""
-
-
 if __name__ == "__main__":
-    # Quick sanity check on the suitability curve
-    print("Suitability curve check:")
-    for t in [3, 5, 10, 15, 19, 21, 23, 25]:
-        print(f"  {t}°C -> {suitability(t):.2f}")
-    print()
-
     # Main pipeline
-    result = run(io.StringIO(SAMPLE_CSV), "habitat_suitability.json")
+    result = run("Data/sst_regions.csv", "habitat_suitability.json")
     print(json.dumps(result, indent=2))
