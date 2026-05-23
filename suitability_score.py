@@ -120,6 +120,7 @@ def build_output(by_region: dict[str, list[tuple[int, float]]]) -> dict:
         # Projections: linear fit -> projected temp -> suitability.
         if len(years) >= 2:
             slope, intercept = fit_trend(years, temps)
+            print(f"  {region}: warming at {slope*10:.2f} °C/decade")
             for fy in PROJECTION_YEARS:
                 proj_t = project_temp(fy, slope, intercept)
                 region_out[str(fy)] = round(suitability(proj_t), 3)
