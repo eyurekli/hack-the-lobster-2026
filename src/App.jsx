@@ -3,23 +3,55 @@ import L from 'leaflet';
 import 'leaflet/dist/leaflet.css';
 import { REGIONS } from './regions.js';
 import { scoreToColor, scoreToLabel } from './colorScale.js';
-import LobsterMigration from './LobsterMigration.jsx';
 
-function interpolateScore(data, region, year) {
+function getSuitabilityValue(entry) {
+  if (entry == null) return 0;
+
+  // New JSON shape: { temperature: 8.5, suitability: 0.49 }
+  if (typeof entry === 'object') return Number(entry.suitability ?? 0);
+
+  // Old JSON shape: 0.49
+  return Number(entry);
+}
+
+function getTemperatureValue(entry) {
+  if (entry == null || typeof entry !== 'object') return null;
+  const temperature = Number(entry.temperature);
+  return Number.isFinite(temperature) ? temperature : null;
+}
+
+function interpolateMetric(data, region, year, getValue) {
   const regionData = data[region];
-  if (!regionData) return 0;
+  if (!regionData) return null;
 
   const years = Object.keys(regionData).map(Number).sort((a, b) => a - b);
-  if (years.length === 0) return 0;
-  if (year <= years[0]) return regionData[years[0]];
-  if (year >= years[years.length - 1]) return regionData[years[years.length - 1]];
+  if (years.length === 0) return null;
+
+  const firstValue = getValue(regionData[years[0]]);
+  const lastValue = getValue(regionData[years[years.length - 1]]);
+
+  if (year <= years[0]) return firstValue;
+  if (year >= years[years.length - 1]) return lastValue;
 
   const lo = years.filter((y) => y <= year).at(-1);
   const hi = years.filter((y) => y >= year)[0];
-  if (lo === hi) return regionData[lo];
+
+  const loValue = getValue(regionData[lo]);
+  const hiValue = getValue(regionData[hi]);
+
+  if (lo === hi) return loValue;
+  if (loValue == null || hiValue == null) return null;
 
   const t = (year - lo) / (hi - lo);
-  return regionData[lo] + t * (regionData[hi] - regionData[lo]);
+  return loValue + t * (hiValue - loValue);
+}
+
+function interpolateScore(data, region, year) {
+  return interpolateMetric(data, region, year, getSuitabilityValue) ?? 0;
+}
+
+function interpolateTemperature(data, region, year) {
+  return interpolateMetric(data, region, year, getTemperatureValue);
 }
 
 export default function App() {
@@ -33,8 +65,7 @@ export default function App() {
   const [yearRange, setYearRange] = useState([2024, 2050]);
   const [activeRegion, setActiveRegion] = useState(null);
   const [scores, setScores] = useState({});
-  const [mapInstance, setMapInstance] = useState(null);
-  const [showMigration, setShowMigration] = useState(true);
+  const [temperatures, setTemperatures] = useState({});
   const [yearInputValue, setYearInputValue] = useState('');
 
   // Load JSON
@@ -104,11 +135,9 @@ export default function App() {
     });
 
     leafletMap.current = map;
-    setMapInstance(map);
     return () => {
       map.remove();
       leafletMap.current = null;
-      setMapInstance(null);
     };
   }, []);
 
@@ -116,10 +145,13 @@ export default function App() {
   useEffect(() => {
     if (!data) return;
     const newScores = {};
+    const newTemperatures = {};
 
     REGIONS.forEach((region) => {
       const score = interpolateScore(data, region.name, year);
+      const temperature = interpolateTemperature(data, region.name, year);
       newScores[region.name] = score;
+      newTemperatures[region.name] = temperature;
 
       const poly = polygonsRef.current[region.name];
       if (poly) {
@@ -152,10 +184,12 @@ export default function App() {
     });
 
     setScores(newScores);
+    setTemperatures(newTemperatures);
   }, [data, year]);
 
   const activeRegionData = activeRegion ? REGIONS.find((r) => r.name === activeRegion) : null;
   const activeScore = activeRegion ? scores[activeRegion] : null;
+  const activeTemperature = activeRegion ? temperatures[activeRegion] : null;
 
   const yearStep = 1;
 
@@ -228,9 +262,6 @@ export default function App() {
         {/* Map */}
         <div className="flex-1 relative">
           <div ref={mapRef} className="w-full h-full" />
-          {showMigration && (
-            <LobsterMigration map={mapInstance} scores={scores} year={year} />
-          )}
 
           {/* Year Slider Overlay */}
           <div className="absolute bottom-8 left-1/2 -translate-x-1/2 z-[1000] w-[min(480px,90vw)]">
@@ -303,23 +334,6 @@ export default function App() {
                   temperature model output
                 </p>
               </div>
-              <div className="mt-2 pt-2 border-t border-slate-700">
-                <button
-                  onClick={() => setShowMigration((v) => !v)}
-                  className={`flex items-center gap-2 w-full rounded-md px-2 py-1.5 text-xs font-medium transition-colors ${
-                    showMigration
-                      ? 'bg-cyan-500/15 border border-cyan-500/30 text-cyan-300'
-                      : 'bg-slate-800 border border-slate-700 text-slate-500'
-                  }`}
-                >
-                  <span
-                    className={`inline-block w-2 h-2 rounded-full ${
-                      showMigration ? 'bg-cyan-400 animate-pulse' : 'bg-slate-600'
-                    }`}
-                  />
-                  Migration Flow
-                </button>
-              </div>
             </div>
           </div>
         </div>
@@ -378,6 +392,12 @@ export default function App() {
               >
                 {(activeScore * 100).toFixed(1)}% — {scoreToLabel(activeScore)}
               </div>
+              {activeTemperature !== null && (
+                <div className="text-sm font-semibold text-cyan-300 mb-2">
+                  Estimated temperature: {activeTemperature.toFixed(1)}°C
+                </div>
+              )}
+
               <p className="text-xs text-slate-400 leading-relaxed mb-4">
                 {activeRegionData.description}
               </p>
@@ -385,37 +405,43 @@ export default function App() {
               {data && (
                 <>
                   <h4 className="text-xs font-semibold text-slate-400 uppercase tracking-wider mb-2">
-                    Projected Trend
+                    Projected Temperature
                   </h4>
                   <div className="space-y-1">
                     {Object.entries(data[activeRegionData.name] ?? {})
                       .sort(([a], [b]) => Number(a) - Number(b))
-                      .map(([y, s]) => (
-                        <div key={y} className="flex items-center gap-2">
-                          <span
-                            className={`text-xs w-10 ${
-                              Number(y) === year ? 'text-cyan-400 font-bold' : 'text-slate-500'
-                            }`}
-                          >
-                            {y}
-                          </span>
-                          <div className="flex-1 h-1.5 bg-slate-800 rounded-full overflow-hidden">
-                            <div
-                              className="h-full rounded-full"
-                              style={{
-                                width: `${(s * 100).toFixed(0)}%`,
-                                background: scoreToColor(s),
-                              }}
-                            />
+                      .map(([y, entry]) => {
+                        const temperature = getTemperatureValue(entry);
+                        const suitability = getSuitabilityValue(entry);
+                        const tempPercent =
+                          temperature === null
+                            ? suitability * 100
+                            : Math.max(0, Math.min(100, ((temperature - 0) / (25 - 0)) * 100));
+
+                        return (
+                          <div key={y} className="flex items-center gap-2">
+                            <span
+                              className={`text-xs w-10 ${
+                                Number(y) === year ? 'text-cyan-400 font-bold' : 'text-slate-500'
+                              }`}
+                            >
+                              {y}
+                            </span>
+                            <div className="flex-1 h-1.5 bg-slate-800 rounded-full overflow-hidden">
+                              <div
+                                className="h-full rounded-full"
+                                style={{
+                                  width: `${tempPercent.toFixed(0)}%`,
+                                  background: scoreToColor(suitability),
+                                }}
+                              />
+                            </div>
+                            <span className="text-xs w-14 text-right text-cyan-300">
+                              {temperature === null ? 'N/A' : `${temperature.toFixed(1)}°C`}
+                            </span>
                           </div>
-                          <span
-                            className="text-xs w-8 text-right"
-                            style={{ color: scoreToColor(s) }}
-                          >
-                            {(s * 100).toFixed(0)}%
-                          </span>
-                        </div>
-                      ))}
+                        );
+                      })}
                   </div>
                 </>
               )}
@@ -450,7 +476,7 @@ export default function App() {
               American lobster are thermally stressed above ~20°C. As the Gulf of Maine warms,
               suitable habitat is shifting northward toward Atlantic Canada.
             </p>
-            <p className="text-xs text-slate-700 mt-2">Data: Prototype / fake scores for development</p>
+            <p className="text-xs text-slate-700 mt-2">Data: CSV-derived sea surface temperatures and modeled suitability scores</p>
           </div>
         </aside>
       </div>

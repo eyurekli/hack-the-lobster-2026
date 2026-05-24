@@ -2,7 +2,15 @@
 Blue Lobster — habitat suitability scorer & projector
 -----------------------------------------------------
 Input : CSV with columns [region, year, mean_temp]
-Output: JSON of {region: {year: suitability_score}}
+Output: JSON of:
+{
+  region: {
+    year: {
+      "temperature": mean_temp_or_projected_temp,
+      "suitability": suitability_score
+    }
+  }
+}
 
 Model (kept deliberately simple & defensible):
   - Suitability is a piecewise-linear function of temperature based on
@@ -22,7 +30,6 @@ Model (kept deliberately simple & defensible):
 from __future__ import annotations
 
 import csv
-import io
 import json
 from collections import defaultdict
 from pathlib import Path
@@ -45,6 +52,7 @@ _SUITABILITY_ANCHORS = [
     (24.0, 0.0),   # acute stress
     (40.0, 0.0),
 ]
+
 _ANCHOR_T = np.array([t for t, _ in _SUITABILITY_ANCHORS])
 _ANCHOR_S = np.array([s for _, s in _SUITABILITY_ANCHORS])
 
@@ -60,12 +68,16 @@ def suitability(temp_c: float) -> float:
 
 def fit_trend(years: list[int], temps: list[float]) -> tuple[float, float]:
     """Return (slope_per_year, intercept) from a degree-1 polyfit."""
-    slope, intercept = np.polyfit(np.array(years, dtype=float),
-                                  np.array(temps, dtype=float), 1)
+    slope, intercept = np.polyfit(
+        np.array(years, dtype=float),
+        np.array(temps, dtype=float),
+        1,
+    )
     return float(slope), float(intercept)
 
 
 def project_temp(year: int, slope: float, intercept: float) -> float:
+    """Project temperature for a future year using the linear trend."""
     return slope * year + intercept
 
 
@@ -79,7 +91,9 @@ EXPECTED_REGIONS = ("Bay of Fundy", "Scotian Shelf", "Gulf of St. Lawrence")
 
 def load_csv(source) -> dict[str, list[tuple[int, float]]]:
     """
-    Accepts a file path or any text iterable. Returns:
+    Accepts a file path or any text iterable.
+
+    Returns:
         { region: [(year, mean_temp), ...] sorted by year }
     """
     if isinstance(source, (str, Path)):
@@ -92,47 +106,61 @@ def load_csv(source) -> dict[str, list[tuple[int, float]]]:
     try:
         reader = csv.DictReader(f)
         by_region: dict[str, list[tuple[int, float]]] = defaultdict(list)
+
         for row in reader:
             region = row["region"].strip()
             year = int(row["year"])
             temp = float(row["mean_temp"])
             by_region[region].append((year, temp))
+
     finally:
         if close:
             f.close()
 
     for region in by_region:
         by_region[region].sort(key=lambda yt: yt[0])
+
     return by_region
 
 
 def build_output(by_region: dict[str, list[tuple[int, float]]]) -> dict:
-    out: dict[str, dict[str, float]] = {}
+    """
+    Build JSON-ready output containing both temperature and suitability.
+
+    Historical years use observed CSV temperatures.
+    Projection years use temperatures projected from the regional trend.
+    """
+    out: dict[str, dict[str, dict[str, float]]] = {}
 
     for region, series in by_region.items():
         years = [y for y, _ in series]
         temps = [t for _, t in series]
 
-        # Historical: score each observed year directly.
-        region_out = {str(y): round(suitability(t), 3)
-                      for y, t in zip(years, temps)}
+        region_out: dict[str, dict[str, float]] = {}
+
+        # Historical: keep the real observed temperature and calculate suitability.
+        for year, temp in zip(years, temps):
+            region_out[str(year)] = {
+                "temperature": round(temp, 3),
+                "suitability": round(suitability(temp), 3),
+            }
 
         # Projections: linear fit -> projected temp -> suitability.
         if len(years) >= 2:
             slope, intercept = fit_trend(years, temps)
-            print(f"  {region}: warming at {slope*10:.2f} °C/decade")
-            for fy in PROJECTION_YEARS:
-                proj_t = project_temp(fy, slope, intercept)
-                region_out[str(fy)] = round(suitability(proj_t), 3)
-        else:
-            # Not enough points to fit a line; skip projections rather
-            # than fabricate a trend.
-            pass
+            print(f"  {region}: warming at {slope * 10:.2f} °C/decade")
+
+            for future_year in PROJECTION_YEARS:
+                projected_temperature = project_temp(future_year, slope, intercept)
+
+                region_out[str(future_year)] = {
+                    "temperature": round(projected_temperature, 3),
+                    "suitability": round(suitability(projected_temperature), 3),
+                }
 
         out[region] = region_out
 
-    # Warn (not fail) if a contracted region is missing — keeps the
-    # JSON contract loud without crashing during partial datasets.
+    # Warn, but do not fail, if an expected region is missing.
     missing = [r for r in EXPECTED_REGIONS if r not in out]
     if missing:
         print(f"[warn] missing expected regions in input: {missing}")
@@ -146,7 +174,7 @@ def run(csv_source, json_path: str | Path) -> dict:
     Path(json_path).write_text(json.dumps(output, indent=2))
     return output
 
+
 if __name__ == "__main__":
-    # Main pipeline
     result = run("Data/sst_regions.csv", "public/habitat_suitability.json")
     print(json.dumps(result, indent=2))

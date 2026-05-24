@@ -1,149 +1,572 @@
 {
   "Bay of Fundy": {
-    "1982": 0.328,
-    "1983": 0.399,
-    "1984": 0.328,
-    "1985": 0.276,
-    "1986": 0.3,
-    "1987": 0.264,
-    "1988": 0.288,
-    "1989": 0.297,
-    "1990": 0.349,
-    "1991": 0.349,
-    "1992": 0.236,
-    "1993": 0.276,
-    "1994": 0.382,
-    "1995": 0.306,
-    "1996": 0.289,
-    "1997": 0.313,
-    "1998": 0.329,
-    "1999": 0.435,
-    "2000": 0.475,
-    "2001": 0.365,
-    "2002": 0.434,
-    "2003": 0.331,
-    "2004": 0.275,
-    "2005": 0.357,
-    "2006": 0.516,
-    "2007": 0.398,
-    "2008": 0.404,
-    "2009": 0.44,
-    "2010": 0.554,
-    "2011": 0.535,
-    "2012": 0.674,
-    "2013": 0.582,
-    "2014": 0.508,
-    "2015": 0.476,
-    "2016": 0.628,
-    "2017": 0.539,
-    "2018": 0.566,
-    "2019": 0.454,
-    "2020": 0.556,
-    "2021": 0.65,
-    "2022": 0.602,
-    "2023": 0.59,
-    "2024": 0.539,
-    "2025": 0.494,
-    "2030": 0.631,
-    "2040": 0.708,
-    "2050": 0.786
+    "1982": {
+      "temperature": 7.296,
+      "suitability": 0.328
+    },
+    "1983": {
+      "temperature": 7.792,
+      "suitability": 0.399
+    },
+    "1984": {
+      "temperature": 7.298,
+      "suitability": 0.328
+    },
+    "1985": {
+      "temperature": 6.932,
+      "suitability": 0.276
+    },
+    "1986": {
+      "temperature": 7.1,
+      "suitability": 0.3
+    },
+    "1987": {
+      "temperature": 6.845,
+      "suitability": 0.264
+    },
+    "1988": {
+      "temperature": 7.015,
+      "suitability": 0.288
+    },
+    "1989": {
+      "temperature": 7.081,
+      "suitability": 0.297
+    },
+    "1990": {
+      "temperature": 7.446,
+      "suitability": 0.349
+    },
+    "1991": {
+      "temperature": 7.445,
+      "suitability": 0.349
+    },
+    "1992": {
+      "temperature": 6.65,
+      "suitability": 0.236
+    },
+    "1993": {
+      "temperature": 6.93,
+      "suitability": 0.276
+    },
+    "1994": {
+      "temperature": 7.672,
+      "suitability": 0.382
+    },
+    "1995": {
+      "temperature": 7.143,
+      "suitability": 0.306
+    },
+    "1996": {
+      "temperature": 7.023,
+      "suitability": 0.289
+    },
+    "1997": {
+      "temperature": 7.193,
+      "suitability": 0.313
+    },
+    "1998": {
+      "temperature": 7.306,
+      "suitability": 0.329
+    },
+    "1999": {
+      "temperature": 8.046,
+      "suitability": 0.435
+    },
+    "2000": {
+      "temperature": 8.328,
+      "suitability": 0.475
+    },
+    "2001": {
+      "temperature": 7.557,
+      "suitability": 0.365
+    },
+    "2002": {
+      "temperature": 8.038,
+      "suitability": 0.434
+    },
+    "2003": {
+      "temperature": 7.318,
+      "suitability": 0.331
+    },
+    "2004": {
+      "temperature": 6.927,
+      "suitability": 0.275
+    },
+    "2005": {
+      "temperature": 7.501,
+      "suitability": 0.357
+    },
+    "2006": {
+      "temperature": 8.609,
+      "suitability": 0.516
+    },
+    "2007": {
+      "temperature": 7.784,
+      "suitability": 0.398
+    },
+    "2008": {
+      "temperature": 7.828,
+      "suitability": 0.404
+    },
+    "2009": {
+      "temperature": 8.083,
+      "suitability": 0.44
+    },
+    "2010": {
+      "temperature": 8.879,
+      "suitability": 0.554
+    },
+    "2011": {
+      "temperature": 8.748,
+      "suitability": 0.535
+    },
+    "2012": {
+      "temperature": 9.718,
+      "suitability": 0.674
+    },
+    "2013": {
+      "temperature": 9.071,
+      "suitability": 0.582
+    },
+    "2014": {
+      "temperature": 8.554,
+      "suitability": 0.508
+    },
+    "2015": {
+      "temperature": 8.33,
+      "suitability": 0.476
+    },
+    "2016": {
+      "temperature": 9.393,
+      "suitability": 0.628
+    },
+    "2017": {
+      "temperature": 8.776,
+      "suitability": 0.539
+    },
+    "2018": {
+      "temperature": 8.963,
+      "suitability": 0.566
+    },
+    "2019": {
+      "temperature": 8.18,
+      "suitability": 0.454
+    },
+    "2020": {
+      "temperature": 8.893,
+      "suitability": 0.556
+    },
+    "2021": {
+      "temperature": 9.55,
+      "suitability": 0.65
+    },
+    "2022": {
+      "temperature": 9.212,
+      "suitability": 0.602
+    },
+    "2023": {
+      "temperature": 9.132,
+      "suitability": 0.59
+    },
+    "2024": {
+      "temperature": 8.773,
+      "suitability": 0.539
+    },
+    "2025": {
+      "temperature": 8.456,
+      "suitability": 0.494
+    },
+    "2030": {
+      "temperature": 9.414,
+      "suitability": 0.631
+    },
+    "2040": {
+      "temperature": 9.958,
+      "suitability": 0.708
+    },
+    "2050": {
+      "temperature": 10.501,
+      "suitability": 0.786
+    }
   },
   "Gulf of St. Lawrence": {
-    "1982": 0.076,
-    "1983": 0.146,
-    "1984": 0.099,
-    "1985": 0.1,
-    "1986": 0.055,
-    "1987": 0.105,
-    "1988": 0.09,
-    "1989": 0.069,
-    "1990": 0.094,
-    "1991": 0.086,
-    "1992": 0.066,
-    "1993": 0.039,
-    "1994": 0.093,
-    "1995": 0.127,
-    "1996": 0.154,
-    "1997": 0.105,
-    "1998": 0.141,
-    "1999": 0.196,
-    "2000": 0.185,
-    "2001": 0.21,
-    "2002": 0.102,
-    "2003": 0.132,
-    "2004": 0.14,
-    "2005": 0.176,
-    "2006": 0.268,
-    "2007": 0.166,
-    "2008": 0.228,
-    "2009": 0.186,
-    "2010": 0.272,
-    "2011": 0.268,
-    "2012": 0.339,
-    "2013": 0.258,
-    "2014": 0.254,
-    "2015": 0.204,
-    "2016": 0.253,
-    "2017": 0.232,
-    "2018": 0.146,
-    "2019": 0.13,
-    "2020": 0.173,
-    "2021": 0.298,
-    "2022": 0.256,
-    "2023": 0.309,
-    "2024": 0.312,
-    "2025": 0.254,
-    "2030": 0.303,
-    "2040": 0.353,
-    "2050": 0.402
+    "1982": {
+      "temperature": 5.533,
+      "suitability": 0.076
+    },
+    "1983": {
+      "temperature": 6.024,
+      "suitability": 0.146
+    },
+    "1984": {
+      "temperature": 5.691,
+      "suitability": 0.099
+    },
+    "1985": {
+      "temperature": 5.702,
+      "suitability": 0.1
+    },
+    "1986": {
+      "temperature": 5.385,
+      "suitability": 0.055
+    },
+    "1987": {
+      "temperature": 5.736,
+      "suitability": 0.105
+    },
+    "1988": {
+      "temperature": 5.628,
+      "suitability": 0.09
+    },
+    "1989": {
+      "temperature": 5.482,
+      "suitability": 0.069
+    },
+    "1990": {
+      "temperature": 5.657,
+      "suitability": 0.094
+    },
+    "1991": {
+      "temperature": 5.603,
+      "suitability": 0.086
+    },
+    "1992": {
+      "temperature": 5.465,
+      "suitability": 0.066
+    },
+    "1993": {
+      "temperature": 5.273,
+      "suitability": 0.039
+    },
+    "1994": {
+      "temperature": 5.654,
+      "suitability": 0.093
+    },
+    "1995": {
+      "temperature": 5.891,
+      "suitability": 0.127
+    },
+    "1996": {
+      "temperature": 6.077,
+      "suitability": 0.154
+    },
+    "1997": {
+      "temperature": 5.733,
+      "suitability": 0.105
+    },
+    "1998": {
+      "temperature": 5.985,
+      "suitability": 0.141
+    },
+    "1999": {
+      "temperature": 6.374,
+      "suitability": 0.196
+    },
+    "2000": {
+      "temperature": 6.295,
+      "suitability": 0.185
+    },
+    "2001": {
+      "temperature": 6.469,
+      "suitability": 0.21
+    },
+    "2002": {
+      "temperature": 5.712,
+      "suitability": 0.102
+    },
+    "2003": {
+      "temperature": 5.921,
+      "suitability": 0.132
+    },
+    "2004": {
+      "temperature": 5.977,
+      "suitability": 0.14
+    },
+    "2005": {
+      "temperature": 6.233,
+      "suitability": 0.176
+    },
+    "2006": {
+      "temperature": 6.875,
+      "suitability": 0.268
+    },
+    "2007": {
+      "temperature": 6.159,
+      "suitability": 0.166
+    },
+    "2008": {
+      "temperature": 6.598,
+      "suitability": 0.228
+    },
+    "2009": {
+      "temperature": 6.302,
+      "suitability": 0.186
+    },
+    "2010": {
+      "temperature": 6.902,
+      "suitability": 0.272
+    },
+    "2011": {
+      "temperature": 6.875,
+      "suitability": 0.268
+    },
+    "2012": {
+      "temperature": 7.376,
+      "suitability": 0.339
+    },
+    "2013": {
+      "temperature": 6.808,
+      "suitability": 0.258
+    },
+    "2014": {
+      "temperature": 6.777,
+      "suitability": 0.254
+    },
+    "2015": {
+      "temperature": 6.426,
+      "suitability": 0.204
+    },
+    "2016": {
+      "temperature": 6.771,
+      "suitability": 0.253
+    },
+    "2017": {
+      "temperature": 6.626,
+      "suitability": 0.232
+    },
+    "2018": {
+      "temperature": 6.025,
+      "suitability": 0.146
+    },
+    "2019": {
+      "temperature": 5.908,
+      "suitability": 0.13
+    },
+    "2020": {
+      "temperature": 6.209,
+      "suitability": 0.173
+    },
+    "2021": {
+      "temperature": 7.086,
+      "suitability": 0.298
+    },
+    "2022": {
+      "temperature": 6.793,
+      "suitability": 0.256
+    },
+    "2023": {
+      "temperature": 7.165,
+      "suitability": 0.309
+    },
+    "2024": {
+      "temperature": 7.181,
+      "suitability": 0.312
+    },
+    "2025": {
+      "temperature": 6.777,
+      "suitability": 0.254
+    },
+    "2030": {
+      "temperature": 7.123,
+      "suitability": 0.303
+    },
+    "2040": {
+      "temperature": 7.468,
+      "suitability": 0.353
+    },
+    "2050": {
+      "temperature": 7.813,
+      "suitability": 0.402
+    }
   },
   "Scotian Shelf": {
-    "1982": 0.415,
-    "1983": 0.549,
-    "1984": 0.506,
-    "1985": 0.358,
-    "1986": 0.381,
-    "1987": 0.438,
-    "1988": 0.405,
-    "1989": 0.427,
-    "1990": 0.438,
-    "1991": 0.436,
-    "1992": 0.425,
-    "1993": 0.46,
-    "1994": 0.492,
-    "1995": 0.453,
-    "1996": 0.433,
-    "1997": 0.42,
-    "1998": 0.483,
-    "1999": 0.618,
-    "2000": 0.587,
-    "2001": 0.514,
-    "2002": 0.506,
-    "2003": 0.516,
-    "2004": 0.459,
-    "2005": 0.549,
-    "2006": 0.606,
-    "2007": 0.465,
-    "2008": 0.51,
-    "2009": 0.527,
-    "2010": 0.612,
-    "2011": 0.578,
-    "2012": 0.749,
-    "2013": 0.687,
-    "2014": 0.651,
-    "2015": 0.635,
-    "2016": 0.724,
-    "2017": 0.643,
-    "2018": 0.67,
-    "2019": 0.479,
-    "2020": 0.625,
-    "2021": 0.73,
-    "2022": 0.697,
-    "2023": 0.706,
-    "2024": 0.621,
-    "2025": 0.63,
-    "2030": 0.718,
-    "2040": 0.784,
-    "2050": 0.851
+    "1982": {
+      "temperature": 7.902,
+      "suitability": 0.415
+    },
+    "1983": {
+      "temperature": 8.843,
+      "suitability": 0.549
+    },
+    "1984": {
+      "temperature": 8.54,
+      "suitability": 0.506
+    },
+    "1985": {
+      "temperature": 7.504,
+      "suitability": 0.358
+    },
+    "1986": {
+      "temperature": 7.664,
+      "suitability": 0.381
+    },
+    "1987": {
+      "temperature": 8.065,
+      "suitability": 0.438
+    },
+    "1988": {
+      "temperature": 7.834,
+      "suitability": 0.405
+    },
+    "1989": {
+      "temperature": 7.986,
+      "suitability": 0.427
+    },
+    "1990": {
+      "temperature": 8.066,
+      "suitability": 0.438
+    },
+    "1991": {
+      "temperature": 8.051,
+      "suitability": 0.436
+    },
+    "1992": {
+      "temperature": 7.972,
+      "suitability": 0.425
+    },
+    "1993": {
+      "temperature": 8.222,
+      "suitability": 0.46
+    },
+    "1994": {
+      "temperature": 8.442,
+      "suitability": 0.492
+    },
+    "1995": {
+      "temperature": 8.172,
+      "suitability": 0.453
+    },
+    "1996": {
+      "temperature": 8.031,
+      "suitability": 0.433
+    },
+    "1997": {
+      "temperature": 7.939,
+      "suitability": 0.42
+    },
+    "1998": {
+      "temperature": 8.382,
+      "suitability": 0.483
+    },
+    "1999": {
+      "temperature": 9.324,
+      "suitability": 0.618
+    },
+    "2000": {
+      "temperature": 9.111,
+      "suitability": 0.587
+    },
+    "2001": {
+      "temperature": 8.597,
+      "suitability": 0.514
+    },
+    "2002": {
+      "temperature": 8.541,
+      "suitability": 0.506
+    },
+    "2003": {
+      "temperature": 8.615,
+      "suitability": 0.516
+    },
+    "2004": {
+      "temperature": 8.215,
+      "suitability": 0.459
+    },
+    "2005": {
+      "temperature": 8.84,
+      "suitability": 0.549
+    },
+    "2006": {
+      "temperature": 9.243,
+      "suitability": 0.606
+    },
+    "2007": {
+      "temperature": 8.254,
+      "suitability": 0.465
+    },
+    "2008": {
+      "temperature": 8.567,
+      "suitability": 0.51
+    },
+    "2009": {
+      "temperature": 8.692,
+      "suitability": 0.527
+    },
+    "2010": {
+      "temperature": 9.285,
+      "suitability": 0.612
+    },
+    "2011": {
+      "temperature": 9.044,
+      "suitability": 0.578
+    },
+    "2012": {
+      "temperature": 10.243,
+      "suitability": 0.749
+    },
+    "2013": {
+      "temperature": 9.811,
+      "suitability": 0.687
+    },
+    "2014": {
+      "temperature": 9.559,
+      "suitability": 0.651
+    },
+    "2015": {
+      "temperature": 9.446,
+      "suitability": 0.635
+    },
+    "2016": {
+      "temperature": 10.068,
+      "suitability": 0.724
+    },
+    "2017": {
+      "temperature": 9.502,
+      "suitability": 0.643
+    },
+    "2018": {
+      "temperature": 9.692,
+      "suitability": 0.67
+    },
+    "2019": {
+      "temperature": 8.354,
+      "suitability": 0.479
+    },
+    "2020": {
+      "temperature": 9.376,
+      "suitability": 0.625
+    },
+    "2021": {
+      "temperature": 10.113,
+      "suitability": 0.73
+    },
+    "2022": {
+      "temperature": 9.881,
+      "suitability": 0.697
+    },
+    "2023": {
+      "temperature": 9.943,
+      "suitability": 0.706
+    },
+    "2024": {
+      "temperature": 9.344,
+      "suitability": 0.621
+    },
+    "2025": {
+      "temperature": 9.408,
+      "suitability": 0.63
+    },
+    "2030": {
+      "temperature": 10.024,
+      "suitability": 0.718
+    },
+    "2040": {
+      "temperature": 10.491,
+      "suitability": 0.784
+    },
+    "2050": {
+      "temperature": 10.957,
+      "suitability": 0.851
+    }
   }
 }
