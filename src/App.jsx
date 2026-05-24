@@ -1,21 +1,22 @@
-import { useEffect, useRef, useState } from 'react';
-import L from 'leaflet';
-import 'leaflet/dist/leaflet.css';
-import { REGIONS } from './regions.js';
-import { scoreToColor, scoreToLabel } from './colorScale.js';
+import { useEffect, useRef, useState } from "react";
+import L from "leaflet";
+import "leaflet/dist/leaflet.css";
+import { REGIONS } from "./regions.js";
+import { scoreToColor, scoreToLabel } from "./colorScale.js";
+import LobsterMigration from "./LobsterMigration.jsx";
 
 function getSuitabilityValue(entry) {
   if (entry == null) return 0;
 
   // New JSON shape: { temperature: 8.5, suitability: 0.49 }
-  if (typeof entry === 'object') return Number(entry.suitability ?? 0);
+  if (typeof entry === "object") return Number(entry.suitability ?? 0);
 
   // Old JSON shape: 0.49
   return Number(entry);
 }
 
 function getTemperatureValue(entry) {
-  if (entry == null || typeof entry !== 'object') return null;
+  if (entry == null || typeof entry !== "object") return null;
   const temperature = Number(entry.temperature);
   return Number.isFinite(temperature) ? temperature : null;
 }
@@ -24,7 +25,9 @@ function interpolateMetric(data, region, year, getValue) {
   const regionData = data[region];
   if (!regionData) return null;
 
-  const years = Object.keys(regionData).map(Number).sort((a, b) => a - b);
+  const years = Object.keys(regionData)
+    .map(Number)
+    .sort((a, b) => a - b);
   if (years.length === 0) return null;
 
   const firstValue = getValue(regionData[years[0]]);
@@ -66,14 +69,18 @@ export default function App() {
   const [activeRegion, setActiveRegion] = useState(null);
   const [scores, setScores] = useState({});
   const [temperatures, setTemperatures] = useState({});
-  const [yearInputValue, setYearInputValue] = useState('');
+  const [mapInstance, setMapInstance] = useState(null);
+  const [showMigration, setShowMigration] = useState(true);
+  const [yearInputValue, setYearInputValue] = useState("");
 
   // Load JSON
   useEffect(() => {
-    fetch('/habitat_suitability.json')
+    fetch("/habitat_suitability.json")
       .then((r) => r.json())
       .then((d) => {
-        const allYears = Object.values(d).flatMap((v) => Object.keys(v).map(Number));
+        const allYears = Object.values(d).flatMap((v) =>
+          Object.keys(v).map(Number),
+        );
         const min = Math.min(...allYears);
         const max = Math.max(...allYears);
         setYearRange([min, max]);
@@ -99,45 +106,53 @@ export default function App() {
       attributionControl: true,
     });
 
-    L.tileLayer('https://{s}.basemaps.cartocdn.com/dark_all/{z}/{x}/{y}{r}.png', {
-      attribution:
-        '&copy; <a href="https://carto.com/">CARTO</a> &copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a>',
-      subdomains: 'abcd',
-      maxZoom: 19,
-    }).addTo(map);
+    L.tileLayer(
+      "https://{s}.basemaps.cartocdn.com/dark_all/{z}/{x}/{y}{r}.png",
+      {
+        attribution:
+          '&copy; <a href="https://carto.com/">CARTO</a> &copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a>',
+        subdomains: "abcd",
+        maxZoom: 19,
+      },
+    ).addTo(map);
 
     REGIONS.forEach((region) => {
       const poly = L.polygon(region.coordinates, {
-        color: '#ffffff',
+        color: "#ffffff",
         weight: 1.5,
         opacity: 0.6,
-        fillColor: '#888888',
+        fillColor: "#888888",
         fillOpacity: 0.65,
       }).addTo(map);
 
-      poly.on('click', () => {
+      poly.on("click", () => {
         setActiveRegion((prev) => (prev === region.name ? null : region.name));
       });
 
-      poly.on('mouseover', function () {
+      poly.on("mouseover", function () {
         this.setStyle({ weight: 2.5, opacity: 1 });
       });
 
-      poly.on('mouseout', function () {
+      poly.on("mouseout", function () {
         this.setStyle({ weight: 1.5, opacity: 0.6 });
       });
 
       polygonsRef.current[region.name] = poly;
 
-      const icon = L.divIcon({ className: '', html: '', iconSize: [0, 0] });
-      const marker = L.marker(region.labelLatLng, { icon, interactive: false }).addTo(map);
+      const icon = L.divIcon({ className: "", html: "", iconSize: [0, 0] });
+      const marker = L.marker(region.labelLatLng, {
+        icon,
+        interactive: false,
+      }).addTo(map);
       labelsRef.current[region.name] = marker;
     });
 
     leafletMap.current = map;
+    setMapInstance(map);
     return () => {
       map.remove();
       leafletMap.current = null;
+      setMapInstance(null);
     };
   }, []);
 
@@ -178,7 +193,7 @@ export default function App() {
             <div style="color:#e2e8f0;font-size:11px;font-weight:600;letter-spacing:0.04em;">${region.name}</div>
             <div style="color:${scoreToColor(score)};font-size:13px;font-weight:700;">${(score * 100).toFixed(0)}% · ${label}</div>
           </div>`;
-        const icon = L.divIcon({ className: '', html, iconSize: [0, 0] });
+        const icon = L.divIcon({ className: "", html, iconSize: [0, 0] });
         marker.setIcon(icon);
       }
     });
@@ -187,7 +202,9 @@ export default function App() {
     setTemperatures(newTemperatures);
   }, [data, year]);
 
-  const activeRegionData = activeRegion ? REGIONS.find((r) => r.name === activeRegion) : null;
+  const activeRegionData = activeRegion
+    ? REGIONS.find((r) => r.name === activeRegion)
+    : null;
   const activeScore = activeRegion ? scores[activeRegion] : null;
   const activeTemperature = activeRegion ? temperatures[activeRegion] : null;
 
@@ -217,7 +234,7 @@ export default function App() {
 
   // Handle Enter key in text input
   const handleYearInputKeyDown = (e) => {
-    if (e.key === 'Enter') {
+    if (e.key === "Enter") {
       handleYearInputBlur();
     }
   };
@@ -262,6 +279,9 @@ export default function App() {
         {/* Map */}
         <div className="flex-1 relative">
           <div ref={mapRef} className="w-full h-full" />
+          {showMigration && (
+            <LobsterMigration map={mapInstance} scores={scores} year={year} />
+          )}
 
           {/* Year Slider Overlay */}
           <div className="absolute bottom-8 left-1/2 -translate-x-1/2 z-[1000] w-[min(480px,90vw)]">
@@ -270,7 +290,9 @@ export default function App() {
                 <span className="text-xs text-slate-400 font-medium uppercase tracking-wider">
                   Year
                 </span>
-                <span className="text-2xl font-bold text-cyan-400 tabular-nums">{year}</span>
+                <span className="text-2xl font-bold text-cyan-400 tabular-nums">
+                  {year}
+                </span>
               </div>
               <input
                 type="range"
@@ -282,7 +304,8 @@ export default function App() {
                 className="w-full h-2 rounded-full appearance-none cursor-pointer"
                 style={{
                   background: `linear-gradient(to right, #22d3ee ${
-                    ((year - yearRange[0]) / (yearRange[1] - yearRange[0])) * 100
+                    ((year - yearRange[0]) / (yearRange[1] - yearRange[0])) *
+                    100
                   }%, #334155 0%)`,
                 }}
               />
@@ -291,7 +314,9 @@ export default function App() {
                 <span>{yearRange[1]}</span>
               </div>
               <div className="mt-3 flex items-center gap-2">
-                <span className="text-xs text-slate-400 font-medium">Or type:</span>
+                <span className="text-xs text-slate-400 font-medium">
+                  Or type:
+                </span>
                 <input
                   type="text"
                   value={yearInputValue}
@@ -313,10 +338,10 @@ export default function App() {
               </p>
               <div className="space-y-1.5">
                 {[
-                  { label: 'High (75-100%)', score: 0.875 },
-                  { label: 'Moderate (50-75%)', score: 0.625 },
-                  { label: 'Low (25-50%)', score: 0.375 },
-                  { label: 'Unviable (0-25%)', score: 0.125 },
+                  { label: "High (75-100%)", score: 0.875 },
+                  { label: "Moderate (50-75%)", score: 0.625 },
+                  { label: "Low (25-50%)", score: 0.375 },
+                  { label: "Unviable (0-25%)", score: 0.125 },
                 ].map(({ label, score }) => (
                   <div key={label} className="flex items-center gap-2">
                     <div
@@ -333,6 +358,25 @@ export default function App() {
                   <br />
                   temperature model output
                 </p>
+              </div>
+              <div className="mt-2 pt-2 border-t border-slate-700">
+                <button
+                  onClick={() => setShowMigration((v) => !v)}
+                  className={`flex items-center gap-2 w-full rounded-md px-2 py-1.5 text-xs font-medium transition-colors ${
+                    showMigration
+                      ? "bg-cyan-500/15 border border-cyan-500/30 text-cyan-300"
+                      : "bg-slate-800 border border-slate-700 text-slate-500"
+                  }`}
+                >
+                  <span
+                    className={`inline-block w-2 h-2 rounded-full ${
+                      showMigration
+                        ? "bg-cyan-400 animate-pulse"
+                        : "bg-slate-600"
+                    }`}
+                  />
+                  Migration Flow
+                </button>
               </div>
             </div>
           </div>
@@ -353,24 +397,34 @@ export default function App() {
                   <button
                     key={region.name}
                     onClick={() =>
-                      setActiveRegion((prev) => (prev === region.name ? null : region.name))
+                      setActiveRegion((prev) =>
+                        prev === region.name ? null : region.name,
+                      )
                     }
                     className={`w-full text-left rounded-lg px-3 py-2.5 transition-colors border ${
                       isActive
-                        ? 'bg-slate-700 border-slate-500'
-                        : 'bg-slate-800 border-slate-700 hover:bg-slate-750 hover:border-slate-600'
+                        ? "bg-slate-700 border-slate-500"
+                        : "bg-slate-800 border-slate-700 hover:bg-slate-750 hover:border-slate-600"
                     }`}
                   >
                     <div className="flex items-center justify-between mb-1.5">
-                      <span className="text-sm font-medium text-slate-200">{region.name}</span>
-                      <span className="text-sm font-bold" style={{ color: scoreToColor(score) }}>
+                      <span className="text-sm font-medium text-slate-200">
+                        {region.name}
+                      </span>
+                      <span
+                        className="text-sm font-bold"
+                        style={{ color: scoreToColor(score) }}
+                      >
                         {pct}%
                       </span>
                     </div>
                     <div className="w-full h-1.5 bg-slate-700 rounded-full overflow-hidden">
                       <div
                         className="h-full rounded-full transition-all duration-500"
-                        style={{ width: `${pct}%`, background: scoreToColor(score) }}
+                        style={{
+                          width: `${pct}%`,
+                          background: scoreToColor(score),
+                        }}
                       />
                     </div>
                     <div className="mt-1 text-xs text-slate-500">
@@ -385,7 +439,9 @@ export default function App() {
           {/* Detail panel */}
           {activeRegionData && activeScore !== null ? (
             <div className="p-4 flex-1">
-              <h3 className="text-sm font-bold text-white mb-1">{activeRegionData.name}</h3>
+              <h3 className="text-sm font-bold text-white mb-1">
+                {activeRegionData.name}
+              </h3>
               <div
                 className="text-2xl font-bold mb-2 transition-colors duration-500"
                 style={{ color: scoreToColor(activeScore) }}
@@ -416,13 +472,21 @@ export default function App() {
                         const tempPercent =
                           temperature === null
                             ? suitability * 100
-                            : Math.max(0, Math.min(100, ((temperature - 0) / (25 - 0)) * 100));
+                            : Math.max(
+                                0,
+                                Math.min(
+                                  100,
+                                  ((temperature - 0) / (25 - 0)) * 100,
+                                ),
+                              );
 
                         return (
                           <div key={y} className="flex items-center gap-2">
                             <span
                               className={`text-xs w-10 ${
-                                Number(y) === year ? 'text-cyan-400 font-bold' : 'text-slate-500'
+                                Number(y) === year
+                                  ? "text-cyan-400 font-bold"
+                                  : "text-slate-500"
                               }`}
                             >
                               {y}
@@ -437,7 +501,9 @@ export default function App() {
                               />
                             </div>
                             <span className="text-xs w-14 text-right text-cyan-300">
-                              {temperature === null ? 'N/A' : `${temperature.toFixed(1)}°C`}
+                              {temperature === null
+                                ? "N/A"
+                                : `${temperature.toFixed(1)}°C`}
                             </span>
                           </div>
                         );
@@ -473,10 +539,14 @@ export default function App() {
 
           <div className="p-4 border-t border-slate-800">
             <p className="text-xs text-slate-600 leading-relaxed">
-              American lobster are thermally stressed above ~20°C. As the Gulf of Maine warms,
-              suitable habitat is shifting northward toward Atlantic Canada.
+              American lobster are thermally stressed above ~20°C. As the Gulf
+              of Maine warms, suitable habitat is shifting northward toward
+              Atlantic Canada.
             </p>
-            <p className="text-xs text-slate-700 mt-2">Data: CSV-derived sea surface temperatures and modeled suitability scores</p>
+            <p className="text-xs text-slate-700 mt-2">
+              Data: CSV-derived sea surface temperatures and modeled suitability
+              scores
+            </p>
           </div>
         </aside>
       </div>
