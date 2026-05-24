@@ -72,6 +72,9 @@ export default function App() {
   const [mapInstance, setMapInstance] = useState(null);
   const [showMigration, setShowMigration] = useState(true);
   const [yearInputValue, setYearInputValue] = useState("");
+  const [isPlaying, setIsPlaying] = useState(false);
+
+  const playbackIntervalMs = 450;
 
   // Load JSON
   useEffect(() => {
@@ -94,6 +97,31 @@ export default function App() {
   useEffect(() => {
     setYearInputValue(String(year));
   }, [year]);
+
+  // Advance the selected year while playback is active.
+  // The interval is intentionally short so the animation moves quickly.
+  useEffect(() => {
+    if (!isPlaying) return undefined;
+
+    const timer = window.setInterval(() => {
+      setYear((currentYear) => {
+        if (currentYear >= yearRange[1]) {
+          setIsPlaying(false);
+          return currentYear;
+        }
+
+        const nextYear = currentYear + 1;
+        if (nextYear >= yearRange[1]) {
+          setIsPlaying(false);
+          return yearRange[1];
+        }
+
+        return nextYear;
+      });
+    }, playbackIntervalMs);
+
+    return () => window.clearInterval(timer);
+  }, [isPlaying, playbackIntervalMs, yearRange]);
 
   // Initialize map
   useEffect(() => {
@@ -210,8 +238,14 @@ export default function App() {
 
   const yearStep = 1;
 
+  const handlePlayToggle = () => {
+    if (year >= yearRange[1]) return;
+    setIsPlaying((playing) => !playing);
+  };
+
   // Handle slider change
   const handleSliderChange = (e) => {
+    setIsPlaying(false);
     setYear(Number(e.target.value));
   };
 
@@ -228,6 +262,7 @@ export default function App() {
       setYearInputValue(String(year));
     } else {
       // Valid
+      setIsPlaying(false);
       setYear(parsed);
     }
   };
@@ -294,6 +329,46 @@ export default function App() {
                   {year}
                 </span>
               </div>
+              <div className="mb-3 flex items-center justify-center">
+                <button
+                  type="button"
+                  onClick={handlePlayToggle}
+                  disabled={year >= yearRange[1]}
+                  aria-label={isPlaying ? "Pause year animation" : "Play year animation"}
+                  title={isPlaying ? "Pause" : "Play"}
+                  className={`w-12 h-12 rounded-full grid place-items-center transition-all border shadow-lg ${
+                    year >= yearRange[1]
+                      ? "bg-slate-800 border-slate-700 text-slate-500 cursor-not-allowed opacity-60"
+                      : isPlaying
+                        ? "bg-orange-500/20 border-orange-400/50 text-orange-300 hover:bg-orange-500/30 hover:scale-105"
+                        : "bg-cyan-500/20 border-cyan-400/50 text-cyan-300 hover:bg-cyan-500/30 hover:scale-105"
+                  }`}
+                >
+                  {isPlaying ? (
+                    <svg
+                      width="18"
+                      height="18"
+                      viewBox="0 0 24 24"
+                      fill="currentColor"
+                      aria-hidden="true"
+                    >
+                      <rect x="6.5" y="5" width="4" height="14" rx="1" />
+                      <rect x="13.5" y="5" width="4" height="14" rx="1" />
+                    </svg>
+                  ) : (
+                    <svg
+                      width="20"
+                      height="20"
+                      viewBox="0 0 24 24"
+                      fill="currentColor"
+                      aria-hidden="true"
+                    >
+                      <polygon points="9.5,6.5 18,12 9.5,17.5" />
+                    </svg>
+                  )}
+                </button>
+              </div>
+
               <input
                 type="range"
                 min={yearRange[0]}
