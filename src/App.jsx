@@ -315,22 +315,32 @@ export default function App() {
         <div className="flex-1 relative">
           <div ref={mapRef} className="w-full h-full" />
           {showMigration && (
-            <LobsterMigration map={mapInstance} scores={scores} isPlaying={isPlaying} />
+            <LobsterMigration
+              map={mapInstance}
+              scores={scores}
+              isPlaying={isPlaying}
+            />
           )}
 
           {/* Year Slider Overlay */}
           <div className="absolute bottom-8 left-1/2 -translate-x-1/2 z-[1000] w-[min(420px,90vw)]">
             <div className="bg-slate-900/90 backdrop-blur border border-slate-700 rounded-xl px-4 py-3 shadow-2xl">
               <div className="flex items-center justify-between mb-2">
-                <span className="text-xs text-slate-400 font-medium uppercase tracking-wider">Year</span>
-                <span className="text-lg font-bold text-cyan-400 tabular-nums">{year}</span>
+                <span className="text-xs text-slate-400 font-medium uppercase tracking-wider">
+                  Year
+                </span>
+                <span className="text-lg font-bold text-cyan-400 tabular-nums">
+                  {year}
+                </span>
               </div>
               <div className="flex items-center gap-3 mb-1">
                 <button
                   type="button"
                   onClick={handlePlayToggle}
                   disabled={year >= yearRange[1]}
-                  aria-label={isPlaying ? "Pause year animation" : "Play year animation"}
+                  aria-label={
+                    isPlaying ? "Pause year animation" : "Play year animation"
+                  }
                   title={isPlaying ? "Pause" : "Play"}
                   className={`w-9 h-9 flex-shrink-0 rounded-full grid place-items-center transition-all border shadow-lg ${
                     year >= yearRange[1]
@@ -341,12 +351,24 @@ export default function App() {
                   }`}
                 >
                   {isPlaying ? (
-                    <svg width="14" height="14" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true">
+                    <svg
+                      width="14"
+                      height="14"
+                      viewBox="0 0 24 24"
+                      fill="currentColor"
+                      aria-hidden="true"
+                    >
                       <rect x="6.5" y="5" width="4" height="14" rx="1" />
                       <rect x="13.5" y="5" width="4" height="14" rx="1" />
                     </svg>
                   ) : (
-                    <svg width="15" height="15" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true">
+                    <svg
+                      width="15"
+                      height="15"
+                      viewBox="0 0 24 24"
+                      fill="currentColor"
+                      aria-hidden="true"
+                    >
                       <polygon points="9.5,6.5 18,12 9.5,17.5" />
                     </svg>
                   )}
@@ -372,7 +394,9 @@ export default function App() {
                 <span>{yearRange[1]}</span>
               </div>
               <div className="flex items-center gap-2">
-                <span className="text-xs text-slate-400 font-medium">Or type:</span>
+                <span className="text-xs text-slate-400 font-medium">
+                  Or type:
+                </span>
                 <input
                   type="text"
                   value={yearInputValue}
@@ -425,17 +449,19 @@ export default function App() {
                   }`}
                 >
                   <span
-                    className={`inline-block w-2 h-2 rounded-full ${
-                      showMigration
-                        ? "bg-cyan-400 animate-pulse"
-                        : "bg-slate-600"
-                    }`}
-                  />
+                    className={`inline-block rounded-full animate-pulse"
+                    `}
+                  >
+                    🦞
+                  </span>
                   Migration Flow
                 </button>
               </div>
               <div className="mt-2 pt-2 border-t border-slate-700">
-                <p className="text-xs text-slate-600 leading-snug">Data: CSV-derived sea surface temperatures and modeled suitability scores</p>
+                <p className="text-xs text-slate-600 leading-snug">
+                  Data: CSV-derived sea surface temperatures and modeled
+                  suitability scores
+                </p>
               </div>
             </div>
           </div>
@@ -444,38 +470,85 @@ export default function App() {
             <div className="absolute top-20 left-4 z-[1000] w-52">
               <div className="bg-slate-900 border border-slate-700 rounded-lg px-3 py-2.5 shadow-xl">
                 <div className="flex items-center justify-between mb-1.5">
-                  <span className="text-xs font-semibold text-slate-300 truncate">{activeRegionData.name}</span>
-                  <button onClick={() => setActiveRegion(null)} className="text-slate-600 hover:text-slate-300 ml-2 text-base leading-none" aria-label="Close">×</button>
+                  <span className="text-xs font-semibold text-slate-300 truncate">
+                    {activeRegionData.name}
+                  </span>
+                  <button
+                    onClick={() => setActiveRegion(null)}
+                    className="text-slate-600 hover:text-slate-300 ml-2 text-base leading-none"
+                    aria-label="Close"
+                  >
+                    ×
+                  </button>
                 </div>
                 <div className="flex items-baseline gap-1.5 mb-1">
-                  <span className="text-2xl font-bold tabular-nums" style={{ color: scoreToColor(activeScore) }}>{(activeScore * 100).toFixed(0)}%</span>
-                  <span className="text-xs text-slate-500">{scoreToLabel(activeScore)}</span>
+                  <span
+                    className="text-2xl font-bold tabular-nums"
+                    style={{ color: scoreToColor(activeScore) }}
+                  >
+                    {(activeScore * 100).toFixed(0)}%
+                  </span>
+                  <span className="text-xs text-slate-500">
+                    {scoreToLabel(activeScore)}
+                  </span>
                   {activeTemperature !== null && (
-                    <span className="text-xs text-slate-500 ml-auto">{activeTemperature.toFixed(1)}°C</span>
+                    <span className="text-xs text-slate-500 ml-auto">
+                      {activeTemperature.toFixed(1)}°C
+                    </span>
                   )}
                 </div>
-                <p className="text-xs text-slate-500 leading-relaxed mb-2">{activeRegionData.description}</p>
-                {data && (() => {
-                  const entries = Object.entries(data[activeRegionData.name] ?? {}).sort(([a], [b]) => Number(a) - Number(b));
-                  const keyYears = new Set([entries[0]?.[0], String(year), entries[entries.length - 1]?.[0]].filter(Boolean));
-                  return (
-                    <div className="space-y-0.5 pt-1 border-t border-slate-800">
-                      {entries.filter(([y]) => keyYears.has(y)).map(([y, entry]) => {
-                        const temperature = getTemperatureValue(entry);
-                        const suitability = getSuitabilityValue(entry);
-                        return (
-                          <div key={y} className="flex items-center gap-1.5">
-                            <span className={`text-xs w-9 tabular-nums ${Number(y) === year ? "text-cyan-400 font-bold" : "text-slate-600"}`}>{y}</span>
-                            <div className="flex-1 h-1 bg-slate-800 rounded-full overflow-hidden">
-                              <div className="h-full rounded-full" style={{ width: `${(suitability * 100).toFixed(0)}%`, background: scoreToColor(suitability) }} />
-                            </div>
-                            <span className="text-xs w-10 text-right text-slate-500">{temperature === null ? "—" : `${temperature.toFixed(1)}°`}</span>
-                          </div>
-                        );
-                      })}
-                    </div>
-                  );
-                })()}
+                <p className="text-xs text-slate-500 leading-relaxed mb-2">
+                  {activeRegionData.description}
+                </p>
+                {data &&
+                  (() => {
+                    const entries = Object.entries(
+                      data[activeRegionData.name] ?? {},
+                    ).sort(([a], [b]) => Number(a) - Number(b));
+                    const keyYears = new Set(
+                      [
+                        entries[0]?.[0],
+                        String(year),
+                        entries[entries.length - 1]?.[0],
+                      ].filter(Boolean),
+                    );
+                    return (
+                      <div className="space-y-0.5 pt-1 border-t border-slate-800">
+                        {entries
+                          .filter(([y]) => keyYears.has(y))
+                          .map(([y, entry]) => {
+                            const temperature = getTemperatureValue(entry);
+                            const suitability = getSuitabilityValue(entry);
+                            return (
+                              <div
+                                key={y}
+                                className="flex items-center gap-1.5"
+                              >
+                                <span
+                                  className={`text-xs w-9 tabular-nums ${Number(y) === year ? "text-cyan-400 font-bold" : "text-slate-600"}`}
+                                >
+                                  {y}
+                                </span>
+                                <div className="flex-1 h-1 bg-slate-800 rounded-full overflow-hidden">
+                                  <div
+                                    className="h-full rounded-full"
+                                    style={{
+                                      width: `${(suitability * 100).toFixed(0)}%`,
+                                      background: scoreToColor(suitability),
+                                    }}
+                                  />
+                                </div>
+                                <span className="text-xs w-10 text-right text-slate-500">
+                                  {temperature === null
+                                    ? "—"
+                                    : `${temperature.toFixed(1)}°`}
+                                </span>
+                              </div>
+                            );
+                          })}
+                      </div>
+                    );
+                  })()}
               </div>
             </div>
           )}
@@ -490,17 +563,30 @@ export default function App() {
             return (
               <button
                 key={region.name}
-                onClick={() => setActiveRegion((prev) => prev === region.name ? null : region.name)}
+                onClick={() =>
+                  setActiveRegion((prev) =>
+                    prev === region.name ? null : region.name,
+                  )
+                }
                 className={`text-left px-4 py-3 transition-colors ${isActive ? "bg-slate-800" : "hover:bg-slate-800/50"}`}
               >
                 <div
                   className="h-0.5 w-full mb-2 rounded-full transition-all duration-500"
                   style={{ background: scoreToColor(score) }}
                 />
-                <div className="text-xs text-slate-400 mb-0.5 truncate">{region.name}</div>
+                <div className="text-xs text-slate-400 mb-0.5 truncate">
+                  {region.name}
+                </div>
                 <div className="flex items-baseline gap-1.5">
-                  <span className="text-xl font-bold tabular-nums" style={{ color: scoreToColor(score) }}>{pct}%</span>
-                  <span className="text-xs text-slate-600">{scoreToLabel(score)}</span>
+                  <span
+                    className="text-xl font-bold tabular-nums"
+                    style={{ color: scoreToColor(score) }}
+                  >
+                    {pct}%
+                  </span>
+                  <span className="text-xs text-slate-600">
+                    {scoreToLabel(score)}
+                  </span>
                 </div>
               </button>
             );
