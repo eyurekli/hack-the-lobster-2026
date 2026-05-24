@@ -35,6 +35,7 @@ export default function App() {
   const [scores, setScores] = useState({});
   const [mapInstance, setMapInstance] = useState(null);
   const [showMigration, setShowMigration] = useState(true);
+  const [yearInputValue, setYearInputValue] = useState('');
 
   // Load JSON
   useEffect(() => {
@@ -46,9 +47,15 @@ export default function App() {
         const max = Math.max(...allYears);
         setYearRange([min, max]);
         setYear(min);
+        setYearInputValue(String(min));
         setData(d);
       });
   }, []);
+
+  // Sync text input with year slider
+  useEffect(() => {
+    setYearInputValue(String(year));
+  }, [year]);
 
   // Initialize map
   useEffect(() => {
@@ -152,6 +159,35 @@ export default function App() {
 
   const yearStep = 1;
 
+  // Handle slider change
+  const handleSliderChange = (e) => {
+    setYear(Number(e.target.value));
+  };
+
+  // Handle text input change
+  const handleYearInputChange = (e) => {
+    setYearInputValue(e.target.value);
+  };
+
+  // Handle text input blur and validation
+  const handleYearInputBlur = () => {
+    const parsed = parseInt(yearInputValue, 10);
+    if (isNaN(parsed) || parsed < yearRange[0] || parsed > yearRange[1]) {
+      // Invalid — revert to current year
+      setYearInputValue(String(year));
+    } else {
+      // Valid
+      setYear(parsed);
+    }
+  };
+
+  // Handle Enter key in text input
+  const handleYearInputKeyDown = (e) => {
+    if (e.key === 'Enter') {
+      handleYearInputBlur();
+    }
+  };
+
   return (
     <div className="flex flex-col h-screen bg-slate-950 text-slate-100">
       {/* Header */}
@@ -211,7 +247,7 @@ export default function App() {
                 max={yearRange[1]}
                 step={yearStep}
                 value={year}
-                onChange={(e) => setYear(Number(e.target.value))}
+                onChange={handleSliderChange}
                 className="w-full h-2 rounded-full appearance-none cursor-pointer"
                 style={{
                   background: `linear-gradient(to right, #22d3ee ${
@@ -222,6 +258,18 @@ export default function App() {
               <div className="flex justify-between mt-1 text-xs text-slate-500">
                 <span>{yearRange[0]}</span>
                 <span>{yearRange[1]}</span>
+              </div>
+              <div className="mt-3 flex items-center gap-2">
+                <span className="text-xs text-slate-400 font-medium">Or type:</span>
+                <input
+                  type="text"
+                  value={yearInputValue}
+                  onChange={handleYearInputChange}
+                  onBlur={handleYearInputBlur}
+                  onKeyDown={handleYearInputKeyDown}
+                  className="w-16 px-2 py-1 bg-slate-800 border border-slate-600 rounded text-cyan-400 font-mono text-center text-sm focus:outline-none focus:border-cyan-500 focus:ring-1 focus:ring-cyan-500/30"
+                  placeholder="YYYY"
+                />
               </div>
             </div>
           </div>
