@@ -52,8 +52,19 @@ jupyter lab
 
 **Getting a mid-run CSV:** run the last two cells at any point. They aggregate the checkpoint into annual means and overwrite `sst_regions.csv`.
 
-- Once the sst_regions.csv file has been created, run suitability_score.py. This will use the CSV file to create habitat_suitability.json, which is the data that the website uses. 
+Once `sst_regions.csv` has been created, generate the suitability data:
 
-- If npm isn't installed, run "npm install" in your terminal.
-- Run "npm run dev".
-- Click on the local host link provided at the end of this process, and the website will be opened.
+```bash
+python suitability_score.py
+```
+
+This writes `public/habitat_suitability.json`, which the website reads.
+
+Then start the dev server:
+
+```bash
+npm install   # first time only
+npm run dev
+```
+
+Open the localhost link printed in the terminal.
