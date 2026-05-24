@@ -315,7 +315,7 @@ export default function App() {
         <div className="flex-1 relative">
           <div ref={mapRef} className="w-full h-full" />
           {showMigration && (
-            <LobsterMigration map={mapInstance} scores={scores} year={year} />
+            <LobsterMigration map={mapInstance} scores={score} isPlaying={isPlaying} />
           )}
 
           {/* Year Slider Overlay */}

@@ -97,7 +97,7 @@ function hexToRgb(color) {
   return { r: 34, g: 211, b: 238 };
 }
 
-export default function LobsterMigration({ map, scores, year }) {
+export default function LobsterMigration({ map, scores, isPlaying }) {
   const canvasRef = useRef(null);
   const animRef = useRef(null);
   const particlesRef = useRef([]);
@@ -130,7 +130,7 @@ export default function LobsterMigration({ map, scores, year }) {
     return () => map.off("move zoom", onMove);
   }, [map]);
 
-  // Build/refresh particles whenever scores or year change
+  // Build/refresh particles whenever the play button is pressed
   useEffect(() => {
     if (!map || !scores || Object.keys(scores).length === 0) return;
 
@@ -166,7 +166,7 @@ export default function LobsterMigration({ map, scores, year }) {
     });
 
     particlesRef.current = allParticles;
-  }, [map, scores, year]);
+  }, [isPlaying]);
 
   // Animation loop
   useEffect(() => {
@@ -248,15 +248,6 @@ export default function LobsterMigration({ map, scores, year }) {
         ctx.save();
         ctx.translate(pt.x, pt.y);
         ctx.rotate(angle);
-
-        // Glow halo
-        const glow = ctx.createRadialGradient(0, 0, 0, 0, 0, p.size * 3);
-        glow.addColorStop(0, `rgba(${cr},${cg},${cb},${alpha * 0.6})`);
-        glow.addColorStop(1, `rgba(${cr},${cg},${cb},0)`);
-        ctx.beginPath();
-        ctx.arc(0, 0, p.size * 3, 0, Math.PI * 2);
-        ctx.fillStyle = glow;
-        ctx.fill();
 
         // Core emoji
         ctx.fillStyle = `rgba(${cr},${cg},${cb},${alpha})`;
