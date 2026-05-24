@@ -85,7 +85,7 @@ def project_temp(year: int, slope: float, intercept: float) -> float:
 # 3. Pipeline
 # ---------------------------------------------------------------------------
 
-PROJECTION_YEARS = (2030, 2040, 2050)
+PROJECTION_YEARS = tuple(range(2030, 2051))
 EXPECTED_REGIONS = ("Bay of Fundy", "Scotian Shelf", "Gulf of St. Lawrence")
 
 

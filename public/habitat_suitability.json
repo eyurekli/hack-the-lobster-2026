@@ -180,9 +180,81 @@
       "temperature": 9.414,
       "suitability": 0.631
     },
+    "2031": {
+      "temperature": 9.468,
+      "suitability": 0.638
+    },
+    "2032": {
+      "temperature": 9.523,
+      "suitability": 0.646
+    },
+    "2033": {
+      "temperature": 9.577,
+      "suitability": 0.654
+    },
+    "2034": {
+      "temperature": 9.631,
+      "suitability": 0.662
+    },
+    "2035": {
+      "temperature": 9.686,
+      "suitability": 0.669
+    },
+    "2036": {
+      "temperature": 9.74,
+      "suitability": 0.677
+    },
+    "2037": {
+      "temperature": 9.795,
+      "suitability": 0.685
+    },
+    "2038": {
+      "temperature": 9.849,
+      "suitability": 0.693
+    },
+    "2039": {
+      "temperature": 9.903,
+      "suitability": 0.7
+    },
     "2040": {
       "temperature": 9.958,
       "suitability": 0.708
+    },
+    "2041": {
+      "temperature": 10.012,
+      "suitability": 0.716
+    },
+    "2042": {
+      "temperature": 10.066,
+      "suitability": 0.724
+    },
+    "2043": {
+      "temperature": 10.121,
+      "suitability": 0.732
+    },
+    "2044": {
+      "temperature": 10.175,
+      "suitability": 0.739
+    },
+    "2045": {
+      "temperature": 10.23,
+      "suitability": 0.747
+    },
+    "2046": {
+      "temperature": 10.284,
+      "suitability": 0.755
+    },
+    "2047": {
+      "temperature": 10.338,
+      "suitability": 0.763
+    },
+    "2048": {
+      "temperature": 10.393,
+      "suitability": 0.77
+    },
+    "2049": {
+      "temperature": 10.447,
+      "suitability": 0.778
     },
     "2050": {
       "temperature": 10.501,
@@ -370,9 +442,81 @@
       "temperature": 7.123,
       "suitability": 0.303
     },
+    "2031": {
+      "temperature": 7.157,
+      "suitability": 0.308
+    },
+    "2032": {
+      "temperature": 7.192,
+      "suitability": 0.313
+    },
+    "2033": {
+      "temperature": 7.226,
+      "suitability": 0.318
+    },
+    "2034": {
+      "temperature": 7.261,
+      "suitability": 0.323
+    },
+    "2035": {
+      "temperature": 7.295,
+      "suitability": 0.328
+    },
+    "2036": {
+      "temperature": 7.33,
+      "suitability": 0.333
+    },
+    "2037": {
+      "temperature": 7.364,
+      "suitability": 0.338
+    },
+    "2038": {
+      "temperature": 7.399,
+      "suitability": 0.343
+    },
+    "2039": {
+      "temperature": 7.433,
+      "suitability": 0.348
+    },
     "2040": {
       "temperature": 7.468,
       "suitability": 0.353
+    },
+    "2041": {
+      "temperature": 7.502,
+      "suitability": 0.357
+    },
+    "2042": {
+      "temperature": 7.537,
+      "suitability": 0.362
+    },
+    "2043": {
+      "temperature": 7.572,
+      "suitability": 0.367
+    },
+    "2044": {
+      "temperature": 7.606,
+      "suitability": 0.372
+    },
+    "2045": {
+      "temperature": 7.641,
+      "suitability": 0.377
+    },
+    "2046": {
+      "temperature": 7.675,
+      "suitability": 0.382
+    },
+    "2047": {
+      "temperature": 7.71,
+      "suitability": 0.387
+    },
+    "2048": {
+      "temperature": 7.744,
+      "suitability": 0.392
+    },
+    "2049": {
+      "temperature": 7.779,
+      "suitability": 0.397
     },
     "2050": {
       "temperature": 7.813,
@@ -560,9 +704,81 @@
       "temperature": 10.024,
       "suitability": 0.718
     },
+    "2031": {
+      "temperature": 10.071,
+      "suitability": 0.724
+    },
+    "2032": {
+      "temperature": 10.118,
+      "suitability": 0.731
+    },
+    "2033": {
+      "temperature": 10.164,
+      "suitability": 0.738
+    },
+    "2034": {
+      "temperature": 10.211,
+      "suitability": 0.744
+    },
+    "2035": {
+      "temperature": 10.258,
+      "suitability": 0.751
+    },
+    "2036": {
+      "temperature": 10.304,
+      "suitability": 0.758
+    },
+    "2037": {
+      "temperature": 10.351,
+      "suitability": 0.764
+    },
+    "2038": {
+      "temperature": 10.398,
+      "suitability": 0.771
+    },
+    "2039": {
+      "temperature": 10.444,
+      "suitability": 0.778
+    },
     "2040": {
       "temperature": 10.491,
       "suitability": 0.784
+    },
+    "2041": {
+      "temperature": 10.538,
+      "suitability": 0.791
+    },
+    "2042": {
+      "temperature": 10.584,
+      "suitability": 0.798
+    },
+    "2043": {
+      "temperature": 10.631,
+      "suitability": 0.804
+    },
+    "2044": {
+      "temperature": 10.678,
+      "suitability": 0.811
+    },
+    "2045": {
+      "temperature": 10.724,
+      "suitability": 0.818
+    },
+    "2046": {
+      "temperature": 10.771,
+      "suitability": 0.824
+    },
+    "2047": {
+      "temperature": 10.817,
+      "suitability": 0.831
+    },
+    "2048": {
+      "temperature": 10.864,
+      "suitability": 0.838
+    },
+    "2049": {
+      "temperature": 10.911,
+      "suitability": 0.844
     },
     "2050": {
       "temperature": 10.957,

@@ -310,7 +310,7 @@ export default function App() {
         </div>
       </header>
 
-      <div className="flex flex-1 min-h-0">
+      <div className="flex flex-col flex-1 min-h-0">
         {/* Map */}
         <div className="flex-1 relative">
           <div ref={mapRef} className="w-full h-full" />
@@ -319,24 +319,20 @@ export default function App() {
           )}
 
           {/* Year Slider Overlay */}
-          <div className="absolute bottom-8 left-1/2 -translate-x-1/2 z-[1000] w-[min(480px,90vw)]">
-            <div className="bg-slate-900/90 backdrop-blur border border-slate-700 rounded-xl px-6 py-4 shadow-2xl">
+          <div className="absolute bottom-8 left-1/2 -translate-x-1/2 z-[1000] w-[min(420px,90vw)]">
+            <div className="bg-slate-900/90 backdrop-blur border border-slate-700 rounded-xl px-4 py-3 shadow-2xl">
               <div className="flex items-center justify-between mb-2">
-                <span className="text-xs text-slate-400 font-medium uppercase tracking-wider">
-                  Year
-                </span>
-                <span className="text-2xl font-bold text-cyan-400 tabular-nums">
-                  {year}
-                </span>
+                <span className="text-xs text-slate-400 font-medium uppercase tracking-wider">Year</span>
+                <span className="text-lg font-bold text-cyan-400 tabular-nums">{year}</span>
               </div>
-              <div className="mb-3 flex items-center justify-center">
+              <div className="flex items-center gap-3 mb-1">
                 <button
                   type="button"
                   onClick={handlePlayToggle}
                   disabled={year >= yearRange[1]}
                   aria-label={isPlaying ? "Pause year animation" : "Play year animation"}
                   title={isPlaying ? "Pause" : "Play"}
-                  className={`w-12 h-12 rounded-full grid place-items-center transition-all border shadow-lg ${
+                  className={`w-9 h-9 flex-shrink-0 rounded-full grid place-items-center transition-all border shadow-lg ${
                     year >= yearRange[1]
                       ? "bg-slate-800 border-slate-700 text-slate-500 cursor-not-allowed opacity-60"
                       : isPlaying
@@ -345,53 +341,38 @@ export default function App() {
                   }`}
                 >
                   {isPlaying ? (
-                    <svg
-                      width="18"
-                      height="18"
-                      viewBox="0 0 24 24"
-                      fill="currentColor"
-                      aria-hidden="true"
-                    >
+                    <svg width="14" height="14" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true">
                       <rect x="6.5" y="5" width="4" height="14" rx="1" />
                       <rect x="13.5" y="5" width="4" height="14" rx="1" />
                     </svg>
                   ) : (
-                    <svg
-                      width="20"
-                      height="20"
-                      viewBox="0 0 24 24"
-                      fill="currentColor"
-                      aria-hidden="true"
-                    >
+                    <svg width="15" height="15" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true">
                       <polygon points="9.5,6.5 18,12 9.5,17.5" />
                     </svg>
                   )}
                 </button>
+                <input
+                  type="range"
+                  min={yearRange[0]}
+                  max={yearRange[1]}
+                  step={yearStep}
+                  value={year}
+                  onChange={handleSliderChange}
+                  className="flex-1 h-2 rounded-full appearance-none cursor-pointer"
+                  style={{
+                    background: `linear-gradient(to right, #22d3ee ${
+                      ((year - yearRange[0]) / (yearRange[1] - yearRange[0])) *
+                      100
+                    }%, #334155 0%)`,
+                  }}
+                />
               </div>
-
-              <input
-                type="range"
-                min={yearRange[0]}
-                max={yearRange[1]}
-                step={yearStep}
-                value={year}
-                onChange={handleSliderChange}
-                className="w-full h-2 rounded-full appearance-none cursor-pointer"
-                style={{
-                  background: `linear-gradient(to right, #22d3ee ${
-                    ((year - yearRange[0]) / (yearRange[1] - yearRange[0])) *
-                    100
-                  }%, #334155 0%)`,
-                }}
-              />
-              <div className="flex justify-between mt-1 text-xs text-slate-500">
+              <div className="flex justify-between mb-2 text-xs text-slate-500 pl-12">
                 <span>{yearRange[0]}</span>
                 <span>{yearRange[1]}</span>
               </div>
-              <div className="mt-3 flex items-center gap-2">
-                <span className="text-xs text-slate-400 font-medium">
-                  Or type:
-                </span>
+              <div className="flex items-center gap-2">
+                <span className="text-xs text-slate-400 font-medium">Or type:</span>
                 <input
                   type="text"
                   value={yearInputValue}
@@ -407,7 +388,7 @@ export default function App() {
 
           {/* Legend */}
           <div className="absolute top-4 right-4 z-[1000]">
-            <div className="bg-slate-900/90 backdrop-blur border border-slate-700 rounded-xl px-4 py-3 shadow-xl min-w-[160px]">
+            <div className="bg-slate-900/90 backdrop-blur border border-slate-700 rounded-xl px-4 py-3 shadow-xl w-[190px]">
               <p className="text-xs font-semibold text-slate-300 uppercase tracking-wider mb-2">
                 Habitat Suitability
               </p>
@@ -453,177 +434,78 @@ export default function App() {
                   Migration Flow
                 </button>
               </div>
-            </div>
-          </div>
-        </div>
-
-        {/* Side Panel */}
-        <aside className="w-72 bg-slate-900 border-l border-slate-800 flex flex-col flex-shrink-0 overflow-y-auto">
-          <div className="p-4 border-b border-slate-800">
-            <h2 className="text-xs font-semibold text-slate-400 uppercase tracking-wider mb-3">
-              Region Scores — {year}
-            </h2>
-            <div className="space-y-2">
-              {REGIONS.map((region) => {
-                const score = scores[region.name] ?? 0;
-                const pct = (score * 100).toFixed(0);
-                const isActive = activeRegion === region.name;
-                return (
-                  <button
-                    key={region.name}
-                    onClick={() =>
-                      setActiveRegion((prev) =>
-                        prev === region.name ? null : region.name,
-                      )
-                    }
-                    className={`w-full text-left rounded-lg px-3 py-2.5 transition-colors border ${
-                      isActive
-                        ? "bg-slate-700 border-slate-500"
-                        : "bg-slate-800 border-slate-700 hover:bg-slate-750 hover:border-slate-600"
-                    }`}
-                  >
-                    <div className="flex items-center justify-between mb-1.5">
-                      <span className="text-sm font-medium text-slate-200">
-                        {region.name}
-                      </span>
-                      <span
-                        className="text-sm font-bold"
-                        style={{ color: scoreToColor(score) }}
-                      >
-                        {pct}%
-                      </span>
-                    </div>
-                    <div className="w-full h-1.5 bg-slate-700 rounded-full overflow-hidden">
-                      <div
-                        className="h-full rounded-full transition-all duration-500"
-                        style={{
-                          width: `${pct}%`,
-                          background: scoreToColor(score),
-                        }}
-                      />
-                    </div>
-                    <div className="mt-1 text-xs text-slate-500">
-                      {scoreToLabel(score)} suitability
-                    </div>
-                  </button>
-                );
-              })}
-            </div>
-          </div>
-
-          {/* Detail panel */}
-          {activeRegionData && activeScore !== null ? (
-            <div className="p-4 flex-1">
-              <h3 className="text-sm font-bold text-white mb-1">
-                {activeRegionData.name}
-              </h3>
-              <div
-                className="text-2xl font-bold mb-2 transition-colors duration-500"
-                style={{ color: scoreToColor(activeScore) }}
-              >
-                {(activeScore * 100).toFixed(1)}% — {scoreToLabel(activeScore)}
+              <div className="mt-2 pt-2 border-t border-slate-700">
+                <p className="text-xs text-slate-600 leading-snug">Data: CSV-derived sea surface temperatures and modeled suitability scores</p>
               </div>
-              {activeTemperature !== null && (
-                <div className="text-sm font-semibold text-cyan-300 mb-2">
-                  Estimated temperature: {activeTemperature.toFixed(1)}°C
+            </div>
+          </div>
+          {/* Detail panel — floating top-left overlay */}
+          {activeRegionData && activeScore !== null && (
+            <div className="absolute top-20 left-4 z-[1000] w-52">
+              <div className="bg-slate-900 border border-slate-700 rounded-lg px-3 py-2.5 shadow-xl">
+                <div className="flex items-center justify-between mb-1.5">
+                  <span className="text-xs font-semibold text-slate-300 truncate">{activeRegionData.name}</span>
+                  <button onClick={() => setActiveRegion(null)} className="text-slate-600 hover:text-slate-300 ml-2 text-base leading-none" aria-label="Close">×</button>
                 </div>
-              )}
-
-              <p className="text-xs text-slate-400 leading-relaxed mb-4">
-                {activeRegionData.description}
-              </p>
-
-              {data && (
-                <>
-                  <h4 className="text-xs font-semibold text-slate-400 uppercase tracking-wider mb-2">
-                    Projected Temperature
-                  </h4>
-                  <div className="space-y-1">
-                    {Object.entries(data[activeRegionData.name] ?? {})
-                      .sort(([a], [b]) => Number(a) - Number(b))
-                      .map(([y, entry]) => {
+                <div className="flex items-baseline gap-1.5 mb-1">
+                  <span className="text-2xl font-bold tabular-nums" style={{ color: scoreToColor(activeScore) }}>{(activeScore * 100).toFixed(0)}%</span>
+                  <span className="text-xs text-slate-500">{scoreToLabel(activeScore)}</span>
+                  {activeTemperature !== null && (
+                    <span className="text-xs text-slate-500 ml-auto">{activeTemperature.toFixed(1)}°C</span>
+                  )}
+                </div>
+                <p className="text-xs text-slate-500 leading-relaxed mb-2">{activeRegionData.description}</p>
+                {data && (() => {
+                  const entries = Object.entries(data[activeRegionData.name] ?? {}).sort(([a], [b]) => Number(a) - Number(b));
+                  const keyYears = new Set([entries[0]?.[0], String(year), entries[entries.length - 1]?.[0]].filter(Boolean));
+                  return (
+                    <div className="space-y-0.5 pt-1 border-t border-slate-800">
+                      {entries.filter(([y]) => keyYears.has(y)).map(([y, entry]) => {
                         const temperature = getTemperatureValue(entry);
                         const suitability = getSuitabilityValue(entry);
-                        const tempPercent =
-                          temperature === null
-                            ? suitability * 100
-                            : Math.max(
-                                0,
-                                Math.min(
-                                  100,
-                                  ((temperature - 0) / (25 - 0)) * 100,
-                                ),
-                              );
-
                         return (
-                          <div key={y} className="flex items-center gap-2">
-                            <span
-                              className={`text-xs w-10 ${
-                                Number(y) === year
-                                  ? "text-cyan-400 font-bold"
-                                  : "text-slate-500"
-                              }`}
-                            >
-                              {y}
-                            </span>
-                            <div className="flex-1 h-1.5 bg-slate-800 rounded-full overflow-hidden">
-                              <div
-                                className="h-full rounded-full"
-                                style={{
-                                  width: `${tempPercent.toFixed(0)}%`,
-                                  background: scoreToColor(suitability),
-                                }}
-                              />
+                          <div key={y} className="flex items-center gap-1.5">
+                            <span className={`text-xs w-9 tabular-nums ${Number(y) === year ? "text-cyan-400 font-bold" : "text-slate-600"}`}>{y}</span>
+                            <div className="flex-1 h-1 bg-slate-800 rounded-full overflow-hidden">
+                              <div className="h-full rounded-full" style={{ width: `${(suitability * 100).toFixed(0)}%`, background: scoreToColor(suitability) }} />
                             </div>
-                            <span className="text-xs w-14 text-right text-cyan-300">
-                              {temperature === null
-                                ? "N/A"
-                                : `${temperature.toFixed(1)}°C`}
-                            </span>
+                            <span className="text-xs w-10 text-right text-slate-500">{temperature === null ? "—" : `${temperature.toFixed(1)}°`}</span>
                           </div>
                         );
                       })}
-                  </div>
-                </>
-              )}
-            </div>
-          ) : (
-            <div className="p-4 flex-1 flex flex-col items-center justify-center text-center">
-              <div className="w-12 h-12 rounded-full bg-slate-800 border border-slate-700 flex items-center justify-center mb-3">
-                <svg
-                  width="20"
-                  height="20"
-                  viewBox="0 0 24 24"
-                  fill="none"
-                  stroke="#64748b"
-                  strokeWidth="1.5"
-                >
-                  <path d="M12 2C8.13 2 5 5.13 5 9c0 5.25 7 13 7 13s7-7.75 7-13c0-3.87-3.13-7-7-7z" />
-                  <circle cx="12" cy="9" r="2.5" />
-                </svg>
+                    </div>
+                  );
+                })()}
               </div>
-              <p className="text-xs text-slate-500 leading-relaxed">
-                Click a region on the map
-                <br />
-                or a card above to see
-                <br />
-                its detailed forecast
-              </p>
             </div>
           )}
+        </div>
 
-          <div className="p-4 border-t border-slate-800">
-            <p className="text-xs text-slate-600 leading-relaxed">
-              American lobster are thermally stressed above ~20°C. As the Gulf
-              of Maine warms, suitable habitat is shifting northward toward
-              Atlantic Canada.
-            </p>
-            <p className="text-xs text-slate-700 mt-2">
-              Data: CSV-derived sea surface temperatures and modeled suitability
-              scores
-            </p>
-          </div>
-        </aside>
+        {/* Region strip */}
+        <div className="flex-shrink-0 bg-slate-900 border-t border-slate-800 grid grid-cols-3 divide-x divide-slate-800">
+          {REGIONS.map((region) => {
+            const score = scores[region.name] ?? 0;
+            const pct = (score * 100).toFixed(0);
+            const isActive = activeRegion === region.name;
+            return (
+              <button
+                key={region.name}
+                onClick={() => setActiveRegion((prev) => prev === region.name ? null : region.name)}
+                className={`text-left px-4 py-3 transition-colors ${isActive ? "bg-slate-800" : "hover:bg-slate-800/50"}`}
+              >
+                <div
+                  className="h-0.5 w-full mb-2 rounded-full transition-all duration-500"
+                  style={{ background: scoreToColor(score) }}
+                />
+                <div className="text-xs text-slate-400 mb-0.5 truncate">{region.name}</div>
+                <div className="flex items-baseline gap-1.5">
+                  <span className="text-xl font-bold tabular-nums" style={{ color: scoreToColor(score) }}>{pct}%</span>
+                  <span className="text-xs text-slate-600">{scoreToLabel(score)}</span>
+                </div>
+              </button>
+            );
+          })}
+        </div>
       </div>
 
       <style>{`
