@@ -3,6 +3,7 @@ import L from 'leaflet';
 import 'leaflet/dist/leaflet.css';
 import { REGIONS } from './regions.js';
 import { scoreToColor, scoreToLabel } from './colorScale.js';
+import LobsterMigration from './LobsterMigration.jsx';
 
 function interpolateScore(data, region, year) {
   const regionData = data[region];
@@ -32,6 +33,8 @@ export default function App() {
   const [yearRange, setYearRange] = useState([2024, 2050]);
   const [activeRegion, setActiveRegion] = useState(null);
   const [scores, setScores] = useState({});
+  const [mapInstance, setMapInstance] = useState(null);
+  const [showMigration, setShowMigration] = useState(true);
 
   // Load JSON
   useEffect(() => {
@@ -94,9 +97,11 @@ export default function App() {
     });
 
     leafletMap.current = map;
+    setMapInstance(map);
     return () => {
       map.remove();
       leafletMap.current = null;
+      setMapInstance(null);
     };
   }, []);
 
@@ -187,6 +192,9 @@ export default function App() {
         {/* Map */}
         <div className="flex-1 relative">
           <div ref={mapRef} className="w-full h-full" />
+          {showMigration && (
+            <LobsterMigration map={mapInstance} scores={scores} year={year} />
+          )}
 
           {/* Year Slider Overlay */}
           <div className="absolute bottom-8 left-1/2 -translate-x-1/2 z-[1000] w-[min(480px,90vw)]">
@@ -246,6 +254,23 @@ export default function App() {
                   <br />
                   temperature model output
                 </p>
+              </div>
+              <div className="mt-2 pt-2 border-t border-slate-700">
+                <button
+                  onClick={() => setShowMigration((v) => !v)}
+                  className={`flex items-center gap-2 w-full rounded-md px-2 py-1.5 text-xs font-medium transition-colors ${
+                    showMigration
+                      ? 'bg-cyan-500/15 border border-cyan-500/30 text-cyan-300'
+                      : 'bg-slate-800 border border-slate-700 text-slate-500'
+                  }`}
+                >
+                  <span
+                    className={`inline-block w-2 h-2 rounded-full ${
+                      showMigration ? 'bg-cyan-400 animate-pulse' : 'bg-slate-600'
+                    }`}
+                  />
+                  Migration Flow
+                </button>
               </div>
             </div>
           </div>

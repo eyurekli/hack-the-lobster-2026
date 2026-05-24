@@ -24,8 +24,8 @@ export function scoreToColor(score) {
 }
 
 export function scoreToLabel(score) {
-  if (score >= 0.75) return 'High';
-  if (score >= 0.5) return 'Moderate';
-  if (score >= 0.25) return 'Low';
-  return 'Unviable';
+  if (score >= 0.75) return "High";
+  if (score >= 0.5) return "Moderate";
+  if (score >= 0.25) return "Low";
+  return "Unviable";
 }
